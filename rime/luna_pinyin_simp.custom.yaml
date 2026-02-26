@@ -1,0 +1,10 @@
+patch:
+  "speller/algebra":
+    __patch:
+      - pinyin:/abbreviation
+      - pinyin:/spelling_correction
+      - pinyin:/key_correction
+  punctuator/full_shape:
+    "/" : "、"
+  punctuator/half_shape:
+    "/" : "、"
