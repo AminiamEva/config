@@ -26,6 +26,10 @@
 ♙	P	2
 ♟	P	1
 
+Mathematica	mathematica	1
+MMA	mma	1
+Mathematica	mma	2
+
 噷	hm
 呣	m
 呒	m
