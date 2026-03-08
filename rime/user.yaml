@@ -1,13 +1,14 @@
 var:
-  last_build_time: 1772639058
+  last_build_time: 1772969360
   option:
     emoji: false
     full_shape: false
     traditionalization: true
-  previously_selected_schema: rime_ice
+  previously_selected_schema: wubi86_jidian
   schema_access_time:
     cangjie5: 1772524191
     luna_pinyin: 1772023054
     luna_pinyin_simp: 1771988313
-    rime_ice: 1772524215
+    rime_ice: 1772964325
     stroke: 1772379187
+    wubi86_jidian: 1772969191
