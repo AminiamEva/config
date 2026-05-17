@@ -1,0 +1,1 @@
+dicts should be added to rime_ice.dict.yaml manually.
