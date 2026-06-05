@@ -1,0 +1,1 @@
+C:\Users\[USERNAME]\scoop\apps\mpv\[VERSION]\portable_config

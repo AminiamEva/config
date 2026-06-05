@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Beijing Clock (UTC+8)</title>
+<style>
+    body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg, #1e1e2f, #2c3e50);
+        font-family: "Segoe UI", Roboto, sans-serif;
+        color: #ffffff;
+    }
+
+    .clock-container {
+        text-align: center;
+        padding: 40px 60px;
+        border-radius: 20px;
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(10px);
+        box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+    }
+
+    .time {
+        font-size: 4rem;
+        letter-spacing: 2px;
+    }
+
+    .date {
+        margin-top: 15px;
+        font-size: 1.2rem;
+        opacity: 0.85;
+    }
+
+    .zone {
+        margin-top: 8px;
+        font-size: 0.9rem;
+        opacity: 0.6;
+    }
+</style>
+</head>
+<body>
+
+<div class="clock-container">
+    <div class="time" id="time">--:--:--</div>
+    <div class="date" id="date">Loading date...</div>
+    <div class="zone">China Standard Time (UTC+8)</div>
+</div>
+
+<script>
+function updateClock() {
+    const now = new Date();
+
+    const optionsTime = {
+        timeZone: "Asia/Shanghai",
+        hour: "2-digit",
+        minute: "2-digit",
+        second: "2-digit",
+        hour12: false
+    };
+
+    const optionsDate = {
+        timeZone: "Asia/Shanghai",
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+    };
+
+    const timeString = new Intl.DateTimeFormat("en-GB", optionsTime).format(now);
+    const dateString = new Intl.DateTimeFormat("en-GB", optionsDate).format(now);
+
+    document.getElementById("time").textContent = timeString;
+    document.getElementById("date").textContent = dateString;
+}
+
+updateClock();
+setInterval(updateClock, 1000);
+</script>
+
+</body>
+</html>
