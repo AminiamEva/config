@@ -4,8 +4,13 @@ local config = wezterm.config_builder()
 
 -- define OS
 local is_windows = wezterm.target_triple:find("windows") ~= nil
-local is_macos   = wezterm.target_triple:find("apple") ~= nil
-local is_linux   = wezterm.target_triple:find("linux") ~= nil
+local is_macos   = wezterm.target_triple:find("apple")   ~= nil
+local is_linux   = wezterm.target_triple:find("linux")   ~= nil
+
+-- front end
+-- config.front_end = "OpenGL"
+-- config.front_end = "WebGpu"
+-- config.front_end = "Software"
 
 -- font settings
 config.font_size = 14
@@ -18,18 +23,32 @@ config.font = wezterm.font_with_fallback ({
 
 -- window settings
 config.initial_cols = 120
-config.initial_rows = 30
+config.initial_rows = 25
 config.window_background_opacity = 1
 config.text_background_opacity = 1
+-- config.win32_system_backdrop = "Acrylic"
 config.window_decorations = "INTEGRATED_BUTTONS|RESIZE"
-config.enable_tab_bar = true
+-- config.window_decorations = "RESIZE"
 config.use_fancy_tab_bar = true
+config.enable_tab_bar = true
+config.tab_bar_at_bottom = false
 config.enable_scroll_bar = true
 config.window_frame = {
     font = wezterm.font("Maple Mono NF"),
     font_size = 10,
 }
 config.tab_max_width = 40
+-- full screen
+wezterm.on('window-resized', function(window, pane)
+  local dims = window:get_dimensions()
+  local overrides = window:get_config_overrides() or {}
+  if dims.is_full_screen then
+    overrides.window_decorations = "RESIZE"
+  else
+    overrides.window_decorations = "TITLE|RESIZE"
+  end
+  window:set_config_overrides(overrides)
+end)
 
 -- shell
 if is_windows then
@@ -50,7 +69,7 @@ end
 config.scrollback_lines = 10000
 
 -- animation
-config.animation_fps = 60
+config.animation_fps = 120
 
 -- key
 config.use_dead_keys = true
@@ -105,7 +124,6 @@ local my_config_keys = {
     -- {key='a', mods='CTRL', action=wezterm.action.SendString('\x01')},
     -- {key='e', mods='CTRL', action=wezterm.action.SendString('\x05')},
     -- {key='u', mods='CTRL', action=wezterm.action.SendString('\x15')},
-    -- {key='k', mods='CTRL', action=wezterm.action.SendString('\x0b')},
 }
 if is_windows then
     -- Ctrl + 1: PowerShell
