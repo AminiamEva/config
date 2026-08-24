@@ -43,12 +43,19 @@ patch:
       - { when: has_menu, accept: period, send: Page_Down }
       - { when: has_menu, accept: equal, send: Page_Down }
       - { when: composing, accept: Tab, send: grave}
-      # - { when: always, accept: Alt+F, toggle: traditionalization }
+      - { when: always, toggle: traditionalization, accept: Control+Shift+F }   # This line won't work.
+                                                                                # But `default` defines this behaviour
+                                                                                # and I define it as well.
+      - { when: always, toggle: traditionalization, accept: Control+Shift+F }   # This line works for my PC
+      - { when: always, toggle: ascii_mode, accept: Shift }                     # Mark: A
     select_first_character: bracketleft
     select_last_character: bracketright
   ascii_composer/switch_key:
-    # Shift_L: commit_code
-    # Shift_R: commit_code
+    Shift_L: commit_code
+    Shift_R: commit_code                                                        # I think this line should be after line Mark A
+                                                                                # overriding SHIFT behaviour, cuz there is no `when: idle`
+                                                                                # It will toggle ascii_mode `when: always`
+                                                                                # and commit code `when: composing`
   switches:
     - name: ascii_mode
       states: ["中", "Ａ"]
@@ -76,7 +83,6 @@ octagram:
       language: wanxiang-lts-zh-hans
       collocation_max_length: 5
       collocation_min_length: 2
-
     translator/contextual_suggestions: true
     translator/max_homophones: 7
     translator/max_homographs: 7

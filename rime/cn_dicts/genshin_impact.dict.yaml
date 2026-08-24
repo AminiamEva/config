@@ -1,105 +1,6495 @@
----
 name: genshin_impact
-version: "2026.05.17"
+version: "6.7"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
-水神	shui shen	1000
-提纳里	ti na li	1000
-迪卢克	di lu ke	1000
-宵宫	xiao gong	1000
-丽莎	li sha	1000
-凯亚	kai ya	1000
-优菈	you la	1000
-枫丹	feng dan	1000
-五郎	wu lang	1000
-珊瑚宫心海	shan hu gong xin hai	1000
-嘉明	jia ming	1000
-纳塔	na ta	1000
-夏洛蒂	xia luo di	1000
-纳西妲	na xi da	1000
-北斗	bei dou	1000
-凝光	ning guang	1000
-原神	yuan shen	1000
-菲米尼	fei mi ni	1000
-稻妻	dao qi	1000
-砂糖	sha tang	1000
-雷神	lei shen	1000
-瑶瑶	yao yao	1000
-芙宁娜	fu ning na	1000
-申鹤	shen he	1000
-赛诺	sai nuo	1000
-重云	chong yun	1000
-菲谢尔	fei xie er	1000
-莱依拉	lai yi la	1000
-柯莱	ke lai	1000
-琴	qin	1000
-蒙德	meng de	1000
-执行官	zhi xing guan	1000
-火神	huo shen	1000
-雷泽	lei ze	1000
-莱欧斯利	lai ou si li	1000
-娜维娅	na wei ya	1000
-云堇	yun jin	1000
-安柏	an bai	1000
-温迪	wen di	1000
-法尔伽	fa er jia	1000
-神里绫华	shen li ling hua	1000
-八重神子	ba zhong shen zi	1000
-胡桃	hu tao	1000
-罗莎莉亚	luo sha li ya	1000
-早柚	zao you	1000
-卡维	ka wei	1000
-绮良良	qi liang liang	1000
-刻晴	ke qing	1000
-草神	cao shen	1000
-派蒙	pai meng	1000
-魈	xiao	1000
-林尼	lin ni	1000
-枫原万叶	feng yuan wan ye	1000
-坎蒂丝	kan di si	1000
-迪奥娜	di ao na	1000
-班尼特	ban ni te	1000
-香菱	xiang ling	1000
-阿贝多	a bei duo	1000
-至冬	zhi dong	1000
-久岐忍	jiu qi ren	1000
-行秋	xing qiu	1000
-夏沃蕾	xia wo lei	1000
-妮露	ni lu	1000
-莫娜	mo na	1000
-流浪者	liu lang zhe	1000
-多莉	duo li	1000
-七七	qi qi	1000
-天理	tian li	1000
-冰神	bing shen	1000
-深渊教团	shen yuan jiao tuan	1000
-那维莱特	na wei lai te	1000
-璃月	li yue	1000
-愚人众	yu ren zhong	1000
-白术	bai zhu	1000
-琳妮特	lin ni te	1000
-风神	feng shen	1000
-雷电将军	lei dian jiang jun	1000
-夜兰	ye lan	1000
-闲云	xian yun	1000
-珐露珊	fa lu shan	1000
-神里绫人	shen li ling ren	1000
-须弥	xu mi	1000
-诺艾尔	nuo ai er	1000
-艾尔海森	ai er hai sen	1000
-鹿野院平藏	lu ye yuan ping zang	1000
-岩神	yan shen	1000
-千织	qian zhi	1000
-荧	ying	1000
-空	kong	1000
-烟绯	yan fei	1000
-提瓦特	ti wa te	1000
-可莉	ke li	1000
-米卡	mi ka	1000
-荒泷一斗	huang long yi dou	1000
-芭芭拉	ba ba la	1000
-托马	tuo ma	1000
-甘雨	gan yu	1000
-九条裟罗	jiu tiao sha luo	1000
+鳄型涡流聚引原理鳄式外甲海战用重型舰炮式娱乐水球发射炮	e xing wo liu ju yin yuan li e shi wai jia hai zhan yong zhong xing jian pao shi yu le shui qiu fa she pao	800
+安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅	an na si ta xia fei ao duo luo fu na xue nai ci na ya	800
+「保证让人轻轻松松长高超厉害灵药」	bao zheng rang ren qing qing song song zhang gao chao li hai ling yao	800
+菲谢尔·冯·露弗施洛斯·那菲多特	fei xie er feng lu fu shi luo si na fei duo te	800
+（对珊瑚宫心海或雷电将军的尊称）	dui shan hu gong xin hai huo lei dian jiang jun de zun cheng	800
+《至强融合·控碟乐师重混甄选》	zhi qiang rong he kong die yue shi zhong hun zhen xuan	800
+《转生成为鬼兜虫然后撞翻世界》	zhuan sheng cheng wei gui dou chong ran hou zhuang fan shi jie	800
+完全不对！怎么还不如吉祥物啊！	wan quan bu dui zen me hai bu ru ji xiang wu a	800
+献给某人的蔷薇·如荆棘一般多刺	xian gei mou ren de qiang wei ru jing ji yi ban duo ci	800
+献给某人的蔷薇·度过长日的方式	xian gei mou ren de qiang wei du guo zhang ri de fang shi	800
+转生成为雷电将军，然后天下无敌	zhuan sheng cheng wei lei dian jiang jun ran hou tian xia wu di	800
+阿斯托洛吉斯·莫娜·梅姬斯图斯	a si tuo luo ji si mo na mei ji si tu si	800
+「歌剧院交换魔术」案件记录册	ge ju yuan jiao huan mo shu an jian ji lu ce	800
+仙众夜叉 / 护法仙众夜叉录	xian zhong ye cha hu fa xian zhong ye cha lu	800
+伊·奎库叙·茨博隆·库·雷尔	yi kui ku xu ci bo long ku lei er	800
+克里洛·楚德米洛维奇·菲林斯	ke li luo chu de mi luo wei qi fei lin si	800
+前面的区域，以后再来探索吧！	qian mian de qu yu yi hou zai lai tan suo ba	800
+加入镀金旅团，拥抱美好生活！	jia ru du jin lv tuan yong bao mei hao sheng huo	800
+白马仙人在璃月港参观白马仙人	bai ma xian ren zai li yue gang can guan bai ma xian ren	800
+罗莎琳·克鲁兹希卡·洛厄法特	luo sha lin ke lu zi xi ka luo e fa te	800
+费奥潘·谢尔盖耶维奇·维克塞	fei ao pan xie er gai ye wei qi wei ke sai	800
+「瞬影」镜头! 瞬间遇冷?	shun ying jing tou shun jian yu leng	800
+「诶嘿」是什么意思啊…！！	ei hei shi shen me yi si a	800
+万端珊瑚事件簿·合适的身份	wan duan shan hu shi jian bu he shi de shen fen	800
+伍式日落果改陆叁号四倍甜版	wu shi ri luo guo gai lu san hao si bei tian ban	800
+便携式空气动力胶质泡生发器	bian xie shi kong qi dong li jiao zhi pao sheng fa qi	800
+好漫长…好孤独…还要多久…	hao man chang hao gu du hai yao duo jiu	800
+安雅·「玛丽」·安德斯多特	an ya ma li an de si duo te	800
+怪盗与名侦探：虹彩胸针之谜	guai dao yu ming zhen tan hong cai xiong zhen zhi mi	800
+空杯与空白都要用故事来填满	kong bei yu kong bai dou yao yong gu shi lai tian man	800
+艾伦·史密西，菲谢尔的作者	ai lun shi mi xi fei xie er de zuo zhe	800
+艾伯特先生，别再冲了——！	ai bo te xian sheng bie zai chong le	800
+…这刹那，将是你的永恒。	zhe cha na jiang shi ni de yong heng	800
+《皮皮潘偶像大赛宣传册》	pi pi pan ou xiang da sai xuan chuan ce	800
+「咔阿夏」赠与的闪闪礼蛋	ka a xia zeng yu de shan shan li dan	800
+「水与失踪者」案件记录册	shui yu shi zong zhe an jian ji lu ce	800
+万端珊瑚事件簿·搜索工作	wan duan shan hu shi jian bu sou suo gong zuo	800
+万端珊瑚事件簿·结案时刻	wan duan shan hu shi jian bu jie an shi ke	800
+万端珊瑚事件簿·迷惑行动	wan duan shan hu shi jian bu mi huo xing dong	800
+与「铁鲸上校」合影的画片	yu tie jing shang xiao he ying de hua pian	800
+全能美食队·吃饱的重要性	quan neng mei shi dui chi bao de zhong yao xing	800
+全能美食队·食材在哪呀？	quan neng mei shi dui shi cai zai na ya	800
+加尔恰的赞歌·适配性赠礼	jia er qia de zan ge shi pei xing zeng li	800
+哥伦比娅赠予你的祈月之花	ge lun bi ya zeng yu ni de qi yue zhi hua	800
+因论派 / 伐护末那学院	yin lun pai fa hu mo na xue yuan	800
+奥兹华尔多·赫芙那梵茵斯	ao zi hua er duo he fu na fan yin si	800
+妙论派 / 刹诃伐罗学院	miao lun pai sha he fa luo xue yuan	800
+审美力批判·实践创作批判	shen mei li pi pan shi jian chuang zuo pi pan	800
+审美力批判·美学原理批判	shen mei li pi pan mei xue yuan li pi pan	800
+小小的远行·防身的方法？	xiao xiao de yuan xing fang shen de fang fa	800
+悬赏证物: 欺诈师的红绸	xuan shang zheng wu qi zha shi de hong chou	800
+愚人众先遣队·冰铳重卫士	yu ren zhong xian qian dui bing chong zhong wei shi	800
+愚人众先遣队·岩使游击兵	yu ren zhong xian qian dui yan shi you ji bing	800
+愚人众先遣队·水铳重卫士	yu ren zhong xian qian dui shui chong zhong wei shi	800
+愚人众先遣队·火铳游击兵	yu ren zhong xian qian dui huo chong you ji bing	800
+愚人众先遣队·雷锤前锋军	yu ren zhong xian qian dui lei chui qian feng jun	800
+愚人众先遣队·风拳前锋军	yu ren zhong xian qian dui feng quan qian feng jun	800
+愚人众特辖队·冰雹重炮手	yu ren zhong te xia dui bing bao zhong pao shou	800
+愚人众特辖队·火刃突击队	yu ren zhong te xia dui huo ren tu ji dui	800
+愚人众特辖队·雷霰近卫军	yu ren zhong te xia dui lei xian jin wei jun	800
+整洁崭新的《勇敢的特奎》	zheng jie zhan xin de yong gan de te kui	800
+明论派 / 梨多梵谛学院	ming lun pai li duo fan di xue yuan	800
+映夏! 归乡? 千灵节!	ying xia gui xiang qian ling jie	800
+枫丹动能工程科学研究院区	feng dan dong neng gong cheng ke xue yan jiu yuan qu	800
+生论派 / 阿弥利多学院	sheng lun pai a mi li duo xue yuan	800
+略显陈旧的《勇敢的特奎》	lve xian chen jiu de yong gan de te kui	800
+知论派 / 室罗婆耽学院	zhi lun pai shi luo po dan xue yuan	800
+素论派 / 悉般多摩学院	su lun pai xi ban duo mo xue yuan	800
+闪耀! 皮皮潘偶像大赛!	shan yao pi pi pan ou xiang da sai	800
+《召唤王·下集！是…》	zhao huan wang xia ji shi	800
+「假如她不再梦到你…」	jia ru ta bu zai meng dao ni	800
+「炫彩呆子」的涂鸦手记	xuan cai dai zi de tu ya shou ji	800
+万端珊瑚事件簿·犬武者	wan duan shan hu shi jian bu quan wu zhe	800
+他们的童年·时光不等人	ta men de tong nian shi guang bu deng ren	800
+伊·卡科茨·伊齐玛瓦夏	yi ka ke ci yi qi ma wa xia	800
+伊·莱拉普赫·楚伊博卢	yi lai la pu he chu yi bo lu	800
+佛罗德洛克·弗朗孔斯汀	fu luo de luo ke fu lang kong si ting	800
+佳酿节 / 归风佳酿节	jia niang jie gui feng jia niang jie	800
+元能构装体·力场发生器	yuan neng gou zhuang ti li chang fa sheng qi	800
+全能美食队·厨道的极意	quan neng mei shi dui chu dao de ji yi	800
+全能美食队·美食小问答	quan neng mei shi dui mei shi xiao wen da	800
+冲! 冲! 菲耶蒂娜!	chong chong fei ye di na	800
+利文斯通博士的货运请求	li wen si tong bo shi de huo yun qing qiu	800
+加尔恰的赞歌·关键物品	jia er qia de zan ge guan jian wu pin	800
+双生妖精骑士·安洁莉卡	shuang sheng yao jing qi shi an jie li ka	800
+哥伦比娅·希珀塞莱尼娅	ge lun bi ya xi po sai lai ni ya	800
+回响海螺 / 回声海螺	hui xiang hai luo hui sheng hai luo	800
+圣火竞技场·帕克斯神庙	sheng huo jing ji chang pa ke si shen miao	800
+坎瑞亚人 / 坎瑞亚的	kan rui ya ren kan rui ya de	800
+奇械发条备件·歌裴莉娅	qi xie fa tiao bei jian ge pei li ya	800
+奇械发条备件·科培琉司	qi xie fa tiao bei jian ke pei liu si	800
+小小的远行·非应急食物	xiao xiao de yuan xing fei ying ji shi wu	800
+巡陆艇·尖端全能攻坚型	xun lu ting jian duan quan neng gong jian xing	800
+巡陆艇·尖端全能斥候型	xun lu ting jian duan quan neng chi hou xing	800
+巡陆艇·尖端火力地效型	xun lu ting jian duan huo li di xiao xing	800
+幕形态黑体物质笼实验室	mu xing tai hei ti wu zhi long shi yan shi	800
+异色球球章鱼能力发生器	yi se qiu qiu zhang yu neng li fa sheng qi	800
+悠悠纳塔, 悠悠夏天!	you you na ta you you xia tian	800
+悬赏证物: 泥染的刀镡	xuan shang zheng wu ni ran de dao chan	800
+悬赏证物: 淑女的胸针	xuan shang zheng wu shu nv de xiong zhen	800
+愚人众·火之债务处理人	yu ren zhong huo zhi zhai wu chu li ren	800
+来试试「七圣召唤」吧！	lai shi shi qi sheng zhao huan ba	800
+枫丹动能工程科学研究院	feng dan dong neng gong cheng ke xue yan jiu yuan	800
+活动机关·艾利法斯光束	huo dong ji guan ai li fa si guang shu	800
+现在不是撒娇哭泣的时候	xian zai bu shi sa jiao ku qi de shi hou	800
+绘夏! 烈日? 度假村	hui xia lie ri du jia cun	800
+自称「浅濑神社代宫司」	zi cheng qian lai shen she dai gong si	800
+花神诞日 / 花神诞祭	hua shen dan ri hua shen dan ji	800
+荒泷极上盛世豪鼓大祭典	huang long ji shang sheng shi hao gu da ji dian	800
+荒泷极意堂堂斗虫大试合	huang long ji yi tang tang dou chong da shi he	800
+荒泷生命摇滚虹色大巡回	huang long sheng ming yao gun hong se da xun hui	800
+被腐蚀的殘破筆记（三）	bei fu shi de can po bi ji san	800
+豚兽大王赠与的闪闪礼蛋	tun shou da wang zeng yu de shan shan li dan	800
+超重型陆巡舰·机动战垒	chao zhong xing lu xun jian ji dong zhan lei	800
+跃跃律动, 假日再临!	yue yue lv dong jia ri zai lin	800
+问题的转化·关键在何？	wen ti de zhuan hua guan jian zai he	800
+问题美露莘与答案机器人	wen ti mei lu shen yu da an ji qi ren	800
+《欢迎来到那夏镇!》	huan ying lai dao na xia zhen	800
+「为了执行官大人！」	wei le zhi xing guan da ren	800
+「月莲杯」驯兽师大赛	yue lian bei xun shou shi da sai	800
+「梦见月的舒心小站」	meng jian yue de shu xin xiao zhan	800
+「第九连队」临时连长	di jiu lian dui lin shi lian zhang	800
+「花烛与风羽的司巫」	hua zhu yu feng yu de si wu	800
+「这可不是南瓜汤…」	zhe ke bu shi nan gua tang	800
+七神 / 尘世七执政	qi shen chen shi qi zhi zheng	800
+与珍稀之鸟的短暂邂逅	yu zhen xi zhi niao de duan zan xie hou	800
+他们的童年·某一篇章	ta men de tong nian mou yi pian zhang	800
+余款的话…我来付吧。	yu kuan de hua wo lai fu ba	800
+克洛达尔·亚尔伯里奇	ke luo da er ya er bo li qi	800
+全能美食队·寻食之旅	quan neng mei shi dui xun shi zhi lv	800
+全能美食队·烹饪对决	quan neng mei shi dui peng ren dui jue	800
+全能美食队·职责之内	quan neng mei shi dui zhi ze zhi nei	800
+冒险家协会的诸多事宜	mao xian jia xie hui de zhu duo shi yi	800
+冒险家测验·作战方式	mao xian jia ce yan zuo zhan fang shi	800
+冒险家测验·冒险诀窍	mao xian jia ce yan mao xian jue qiao	800
+冒险家测验·起飞方式	mao xian jia ce yan qi fei fang shi	800
+剑光如我，斩尽芜杂！	jian guang ru wo zhan jin wu za	800
+加尔恰的赞歌·替代物	jia er qia de zan ge ti dai wu	800
+匿叶龙武士·旋锯飞叶	ni ye long wu shi xuan ju fei ye	800
+匿叶龙武士·流火鸣空	ni ye long wu shi liu huo ming kong	800
+千岩牢固，重嶂不移。	qian yan lao gu zhong zhang bu yi	800
+卡利贝尔·亚尔伯里奇	ka li bei er ya er bo li qi	800
+双生妖精骑士·弥多洛	shuang sheng yao jing qi shi mi duo luo	800
+吃饱喝饱，一路走好！	chi bao he bao yi lu zou hao	800
+哥伦比娅准备的祈月糖	ge lun bi ya zhun bei de qi yue tang	800
+圣火竞技场·楚汶市集	sheng huo jing ji chang chu wen shi ji	800
+坎瑞亚的「五大罪人」	kan rui ya de wu da zui ren	800
+奎伊露和乌库库的故事	kui yi lu he wu ku ku de gu shi	800
+如果在冬夜，一个旅人	ru guo zai dong ye yi ge lv ren	800
+审美力批判·自我批判	shen mei li pi pan zi wo pi pan	800
+小小人儿，快长大…？	xiao xiao ren er kuai zhang da	800
+嵴锋龙武士·破岩锐刃	ji feng long wu shi po yan rui ren	800
+嵴锋龙武士·碎晶打者	ji feng long wu shi sui jing da zhe	800
+常道恢弘，鸣神永恒！	chang dao hui hong ming shen yong heng	800
+愚人众特辖队·先锋士	yu ren zhong te xia dui xian feng shi	800
+愚人众特辖队·掷弹兵	yu ren zhong te xia dui zhi dan bing	800
+愚人众特辖队·支援兵	yu ren zhong te xia dui zhi yuan bing	800
+愚人众特辖队·榴铳手	yu ren zhong te xia dui liu chong shou	800
+愚人众特辖队·疗愈师	yu ren zhong te xia dui liao yu shi	800
+愚人众特辖队·线列军	yu ren zhong te xia dui xian lie jun	800
+提瓦特忆画·雪幕前事	ti wa te yi hua xue mu qian shi	800
+摩诃善法大吉祥智慧主	mo he shan fa da ji xiang zhi hui zhu	800
+摩诃婆苏提婆耶弗太子	mo he po su ti po ye fu tai zi	800
+无相交响诗·离调乐段	wu xiang jiao xiang shi li diao le duan	800
+是严谨派还是悟性派?	shi yan jin pai hai shi wu xing pai	800
+暝视龙武士·冰晶炮手	ming shi long wu shi bing jing pao shou	800
+暝视龙武士·寒涌持者	ming shi long wu shi han yong chi zhe	800
+曾是「厄卡特尔」之物	ceng shi e ka te er zhi wu	800
+最后的特诺奇兹托克人	zui hou de te nuo qi zi tuo ke ren	800
+有香自西来·寻味北地	you xiang zi xi lai xun wei bei di	800
+柳达希卡·雪奈茨芙娜	liu da xi ka xue nai ci fu na	800
+欢夏！邪龙？童话国！	huan xia xie long tong hua guo	800
+毁灭预兆与最后的通牒	hui mie yu zhao yu zui hou de tong die	800
+海薇玛乐园全景纪念图	hai wei ma le yuan quan jing ji nian tu	800
+清夏！乐园？大秘境！	qing xia le yuan da mi jing	800
+炽魂斗士战记·第二册	chi hun dou shi zhan ji di er ce	800
+留给孩子们的「玩具」	liu gei hai zi men de wan ju	800
+盛夏！海岛？大冒险！	sheng xia hai dao da mao xian	800
+神明啊，我做的对吗？	shen ming a wo zuo de dui ma	800
+神龛啊，再次显灵吧！	shen kan a zai ci xian ling ba	800
+空域数据采集器2.0	kong yu shu ju cai ji qi	800
+空想俱乐部·热能催眠	kong xiang ju le bu re neng cui mian	800
+突角龙武士·破空轰动	tu jiao long wu shi po kong hong dong	800
+突角龙武士·追缉灵光	tu jiao long wu shi zhui ji ling guang	800
+精密型月矩力冲鸭模具	jing mi xing yue ju li chong ya mu ju	800
+绒翼龙武士·膛星之锤	rong yi long wu shi tang xing zhi chui	800
+绒翼龙武士·长空明焰	rong yi long wu shi chang kong ming yan	800
+维护机关·初始能力型	wei hu ji guan chu shi neng li xing	800
+维护机关·态势控制者	wei hu ji guan tai shi kong zhi zhe	800
+维护机关·澄金领队型	wei hu ji guan cheng jin ling dui xing	800
+维护机关·白金典藏型	wei hu ji guan bai jin dian cang xing	800
+节拍撞球·梅兹特利篇	jie pai zhuang qiu mei zi te li pian	800
+谁人的残破笔记（一）	shui ren de can po bi ji yi	800
+谁人的残破笔记（二）	shui ren de can po bi ji er	800
+调查报告——巴窟纳瓦	diao cha bao gao ba ku na wa	800
+身土坏空, 五蕴识转	shen tu huai kong wu yun shi zhuan	800
+这本小说…好像看过？	zhe ben xiao shuo hao xiang kan guo	800
+镀金旅团·炽沙叙事人	du jin lv tuan chi sha xu shi ren	800
+闪闪礼蛋·太阳的轰鸣	shan shan li dan tai yang de hong ming	800
+闪闪礼蛋·献给小酒杯	shan shan li dan xian gei xiao jiu bei	800
+隠行谛勘, 秽金之罪	yin xing di kan hui jin zhi zui	800
+飒勇争锋, 龙之劲斗	sa yong zheng feng long zhi jin dou	800
+骰子、猫与卡牌的战场	tou zi mao yu ka pai de zhan chang	800
+鳍游龙武士·穿浪之梭	qi you long wu shi chuan lang zhi suo	800
+鳍游龙武士·裂礁之涛	qi you long wu shi lie jiao zhi tao	800
+（对雷电将军的尊称）	dui lei dian jiang jun de zun cheng	800
+I·伊万诺夫娜·N	yi wan nuo fu na	800
+「嵌合神骨的蛇姬」	qian he shen gu de she ji	800
+「水仙十字大冒险」	shui xian shi zi da mao xian	800
+「渐渐隐去的老兵」	jian jian yin qu de lao bing	800
+「燧石之锋」冒险团	sui shi zhi feng mao xian tuan	800
+「特别温暖的地方」	te bie wen nuan de di fang	800
+「狂猎」现象定位图	kuang lie xian xiang ding wei tu	800
+「祈月之夜」导览册	qi yue zhi ye dao lan ce	800
+「舞力交流」的开幕	wu li jiao liu de kai mu	800
+「蒸汽鸟报」的面试	zheng qi niao bao de mian shi	800
+「那位先生」的委托	na wei xian sheng de wei tuo	800
+「阿特拉托的佑助」	a te la tuo de you zhu	800
+「陨落的晨星之灵」	yun luo de chen xing zhi ling	800
+万水之源·大枫丹湖	wan shui zhi yuan da feng dan hu	800
+不动鸣神，恒常乐土	bu dong ming shen heng chang le tu	800
+两界为火，赤夜将熄	liang jie wei huo chi ye jiang xi	800
+为一座绿色的岛屿…	wei yi zuo lv se de dao yu	800
+为了没有眼泪的明天	wei le mei you yan lei de ming tian	800
+二十九海洋代伊联盟	er shi jiu hai yang dai yi lian meng	800
+仇敌仿佛众水翻腾…	chou di fang fu zhong shui fan teng	800
+他们的童年·好时光	ta men de tong nian hao shi guang	800
+他们的童年·游城记	ta men de tong nian you cheng ji	800
+仿若无因飘落的轻雨	fang ruo wu yin piao luo de qing yu	800
+伟大圣龙 (自称)	wei da sheng long zi cheng	800
+伴月的小画家·其一	ban yue de xiao hua jia qi yi	800
+伴月的小画家·其二	ban yue de xiao hua jia qi er	800
+依旧让人垂涎欲滴！	yi jiu rang ren chui xian yu di	800
+倾听木簧笛的八音曲	qing ting mu huang di de ba yin qu	800
+元能构装体·勘探机	yuan neng gou zhuang ti kan tan ji	800
+元能构装体·重塑仪	yuan neng gou zhuang ti zhong su yi	800
+光影研学·旖旎水界	guang ying yan xue yi ni shui jie	800
+冒险家试炼·蜕变篇	mao xian jia shi lian tui bian pian	800
+冒险家试炼·进阶篇	mao xian jia shi lian jin jie pian	800
+千手百眼，天下人间	qian shou bai yan tian xia ren jian	800
+千朵玫瑰带来的黎明	qian duo mei gui dai lai de li ming	800
+博物通志·水国寻迹	bo wu tong zhi shui guo xun ji	800
+危险? 请勿靠近!	wei xian qing wu kao jin	800
+叁零式·便携营养袋	san ling shi bian xie ying yang dai	800
+參究故墟·穏健知行	can jiu gu xu wen jian zhi xing	800
+吃虎岩 / 螭虎岩	chi hu yan chi hu yan	800
+名为「杜林」的故事	ming wei du lin de gu shi	800
+哎呀！海盗想长大！	ai ya hai dao xiang zhang da	800
+喵…喵喵？喵！喵。	miao miao miao miao miao	800
+圆滚滚的大团骚乱！	yuan gun gun de da tuan sao luan	800
+在他们都喝醉的夜里	zai ta men dou he zui de ye li	800
+在开满鲜花的草地上	zai kai man xian hua de cao di shang	800
+地脉衍出·启示之花	di mai yan chu qi shi zhi hua	800
+地脉衍出·藏金之花	di mai yan chu cang jin zhi hua	800
+多莉·桑歌玛哈巴依	duo li sang ge ma ha ba yi	800
+大盗電德·米勒传奇	da dao dian de mi lei chuan qi	800
+大魔法师的试炼之旅	da mo fa shi de shi lian zhi lv	800
+失而复得者一同欢喜	shi er fu de zhe yi tong huan xi	800
+奥古斯都·洛夫莱斯	ao gu si dou luo fu lai si	800
+孤木孑立，无林可依	gu mu jie li wu lin ke yi	800
+实验性场力发生装置	shi yan xing chang li fa sheng zhuang zhi	800
+寻踪! 故障机器!	xun zong gu zhang ji qi	800
+小小的远行·常备药	xiao xiao de yuan xing chang bei yao	800
+小魔女与不熄灭的火	xiao mo nv yu bu xi mie de huo	800
+层岩巨渊·地下矿区	ceng yan ju yuan di xia kuang qu	800
+居尔城墟·赤王神殿	ju er cheng xu chi wang shen dian	800
+岩石的重量令人安心	yan shi de zhong liang ling ren an xin	800
+巡陆艇·强侦地效型	xun lu ting qiang zhen di xiao xing	800
+巡陆艇·强侦攻坚型	xun lu ting qiang zhen gong jian xing	800
+巡陆艇·强侦斥候型	xun lu ting qiang zhen chi hou xing	800
+巡陆艇·近战攻坚型	xun lu ting jin zhan gong jian xing	800
+巡陆艇·近战斥候型	xun lu ting jin zhan chi hou xing	800
+彩糖与蔷薇的幻色颂	cai tang yu qiang wei de huan se song	800
+得偿所愿的寻宝之旅	de chang suo yuan de xun bao zhi lv	800
+循环式军用月矩核心	xun huan shi jun yong yue ju he xin	800
+德波大蛋糕·绚丽型	de bo da dan gao xuan li xing	800
+德波小蛋糕·改良型	de bo xiao dan gao gai liang xing	800
+恒动械画·七圣之篇	heng dong xie hua qi sheng zhi pian	800
+拜托了我的狐仙宫司	bai tuo le wo de hu xian gong si	800
+无念无想，泡影断灭	wu nian wu xiang pao ying duan mie	800
+曾我隅田流左近重衡	ceng wo yu tian liu zuo jin zhong heng	800
+机关棋谭·巧策之局	ji guan qi tan qiao ce zhi ju	800
+机关棋谭·灵妙之局	ji guan qi tan ling miao zhi ju	800
+来自「后辈」的分享	lai zi hou bei de fen xiang	800
+来自何处的待放之花	lai zi he chu de dai fang zhi hua	800
+来自漫画同好的惊喜	lai zi man hua tong hao de jing xi	800
+来自火花骑士的邀请	lai zi huo hua qi shi de yao qing	800
+枫丹人 / 枫丹的	feng dan ren feng dan de	800
+洗理嵴锋·新奇食物	xi li ji feng xin qi shi wu	800
+活动机关·轨道组合	huo dong ji guan gui dao zu he	800
+流刃勇士·掷叉猎手	liu ren yong shi zhi cha lie shou	800
+流行音乐，谁先知？	liu xing yin yue shui xian zhi	800
+游逸旅闻·望月之章	you yi lv wen wang yue zhi zhang	800
+游逸旅闻·诗汇之章	you yi lv wen shi hui zhi zhang	800
+游逸旅闻·鎏溢之章	you yi lv wen liu yi zhi zhang	800
+漱玉工奇斗虫大玄境	shu yu gong qi dou chong da xuan jing	800
+炽烈传说·跨界乱斗	chi lie chuan shuo kua jie luan dou	800
+炽魂斗士的雪界之旅	chi hun dou shi de xue jie zhi lv	800
+特尔克西的奇幻历险	te er ke xi de qi huan li xian	800
+独家秘闻·美食专栏	du jia mi wen mei shi zhuan lan	800
+甘露 / 甘露活水	gan lu gan lu huo shui	800
+画外旅照·浮露之章	hua wai lv zhao fu lu zhi zhang	800
+画外旅照·青植之篇	hua wai lv zhao qing zhi zhi pian	800
+疾迅勇士·荡风斥候	ji xun yong shi dang feng chi hou	800
+疾迅勇士·重刃讯使	ji xun yong shi zhong ren xun shi	800
+盗宝团·冰之药剂师	dao bao tuan bing zhi yao ji shi	800
+盗宝团·水之药剂师	dao bao tuan shui zhi yao ji shi	800
+盗宝团·火之药剂师	dao bao tuan huo zhi yao ji shi	800
+盗宝团·雷之药剂师	dao bao tuan lei zhi yao ji shi	800
+真是让人垂涎欲滴！	zhen shi rang ren chui xian yu di	800
+祈祝福愿，倾告嵴锋	qi zhu fu yuan qing gao ji feng	800
+神工天巧·宝录之章	shen gong tian qiao bao lu zhi zhang	800
+神明啊，回应我吧！	shen ming a hui ying wo ba	800
+稻妻人 / 稻妻的	dao qi ren dao qi de	800
+罪恶·非必要处理型	zui e fei bi yao chu li xing	800
+至高的智慧（生活）	zhi gao de zhi hui sheng huo	800
+艾德温·伊斯丁豪斯	ai de wen yi si ding hao si	800
+花之归尘，羽之将坠	hua zhi gui chen yu zhi jiang zhui	800
+苹果焖肉(初试版)	ping guo men rou chu shi ban	800
+茶会序曲·拉花咖啡	cha hui xu qu la hua ka fei	800
+荼诃人 / 荼诃的	tu he ren tu he de	800
+菇菇山脉(单人份)	gu gu shan mai dan ren fen	800
+虚空鼓动，劫火高扬	xu kong gu dong jie huo gao yang	800
+虹旅藏金·朔望流辉	hong lv cang jin shuo wang liu hui	800
+调查报告——烬寂海	diao cha bao gao jin ji hai	800
+谕示胎动的终焉之刻	yu shi tai dong de zhong yan zhi ke	800
+货物失窃引发的骚乱	huo wu shi qie yin fa de sao luan	800
+赤土之王与三朝圣者	chi tu zhi wang yu san chao sheng zhe	800
+轰隆! 测试威力!	hong long ce shi wei li	800
+轻飘飘的花与芙萝拉	qing piao piao de hua yu fu luo la	800
+这本小说…厉害吗？	zhe ben xiao shuo li hai ma	800
+追击! 失控飞兵!	zhui ji shi kong fei bing	800
+追忆：永恒的守护者	zhui yi yong heng de shou hu zhe	800
+送给哥伦比娅的贺卡	song gei ge lun bi ya de he ka	800
+银月之庭·伴月纪闻	yin yue zhi ting ban yue ji wen	800
+铸境研炼·无量疾战	zhu jing yan lian wu liang ji zhan	800
+销声匿迹的悬赏对象	xiao sheng ni ji de xuan shang dui xiang	800
+镀金旅团·叶轮舞者	du jin lv tuan ye lun wu zhe	800
+镀金旅团·沙中净水	du jin lv tuan sha zhong jing shui	800
+镀金旅团·灵风猎手	du jin lv tuan ling feng lie shou	800
+镀金旅团·炽阳凝冰	du jin lv tuan chi yang ning bing	800
+镀金旅团·白日鸣雷	du jin lv tuan bai ri ming lei	800
+镀金旅团·阵前斧手	du jin lv tuan zhen qian fu shou	800
+镀金旅团·魔岩役使	du jin lv tuan mo yan yi shi	800
+镀金旅团·鸦喙戟手	du jin lv tuan ya hui ji shou	800
+闪闪礼蛋·圣龙君临	shan shan li dan sheng long jun lin	800
+闪闪礼蛋·菲耶蒂娜	shan shan li dan fei ye di na	800
+闪闪礼蛋·飞澜鲨鲨	shan shan li dan fei lan sha sha	800
+阿佩普的绿洲守望者	a pei pu de lv zhou shou wang zhe	800
+雷内·德·佩特莉可	lei nei de pei te li ke	800
+静音! 谋械潜行!	jing yin mou xie qian xing	800
+鞋匠的孩子总是光脚	xie jiang de hai zi zong shi guang jiao	800
+风行迷踪·谋策之局	feng xing mi zong mou ce zhi ju	800
+黑蛇骑士·摧岩之钺	hei she qi shi cui yan zhi yue	800
+黑蛇骑士·斩风之剑	hei she qi shi zhan feng zhi jian	800
+…世界…遗忘我…	shi jie yi wang wo	800
+「五绿洲」的孑遗	wu lv zhou de jie yi	800
+「休眠仓」的钥匙	xiu mian cang de yao shi	800
+「八重堂」的邀约	ba zhong tang de yao yue	800
+「切玛利的遮荫」	qie ma li de zhe yin	800
+「天理」的维系者	tian li de wei xi zhe	800
+「寻仙的美食家」	xun xian de mei shi jia	800
+「很明亮的地方」	hen ming liang de di fang	800
+「木偶」的笔记本	mu ou de bi ji ben	800
+「水仙十字圣剑」	shui xian shi zi sheng jian	800
+「沙上楼阁」稗记	sha shang lou ge bai ji	800
+「波塔波的声援」	bo ta bo de sheng yuan	800
+「海浪中的莎孚」	hai lang zhong de sha fu	800
+「烈度」，有用吗	lie du you yong ma	800
+「特特尔特特尔」	te te er te te er	800
+「赤王的水晶杯」	chi wang de shui jing bei	800
+一个枫丹人的回忆	yi ge feng dan ren de hui yi	800
+一份预期内的计划	yi fen yu qi nei de ji hua	800
+一场预期内的谎言	yi chang yu qi nei de huang yan	800
+三人行…先寻明师	san ren xing xian xun ming shi	800
+丹尤莎·谢斯特宁	dan you sha xie si te ning	800
+人生的波峰与波谷	ren sheng de bo feng yu bo gu	800
+佐娅·雪奈茨芙娜	zuo ya xue nai ci fu na	800
+先驱秘源统辖阵列	xian qu mi yuan tong xia zhen lie	800
+全能美食队·收束	quan neng mei shi dui shou shu	800
+养育的增殖生命体	yang yu de zeng zhi sheng ming ti	800
+冒险就要朝着远方	mao xian jiu yao chao zhe yuan fang	800
+决斗！召唤之巅！	jue dou zhao huan zhi dian	800
+凛冽·大灵显化身	lin lie da ling xian hua shen	800
+凯亚·亚尔伯里奇	kai ya ya er bo li qi	800
+切片轄域寻宝罗盘	qie pian xia yu xun bao luo pan	800
+创生法·拟造阳华	chuang sheng fa ni zao yang hua	800
+勇锐魁杰试炼战记	yong rui kui jie shi lian zhan ji	800
+北陆长柄武器原胚	bei lu zhang bing wu qi yuan pei	800
+卓里克·谢斯特宁	zhuo li ke xie si te ning	800
+卡特·谢尔比乌斯	ka te xie er bi wu si	800
+危机四伏的枫丹廷	wei ji si fu de feng dan ting	800
+古老的自鸣音乐盒	gu lao de zi ming yin yue he	800
+叮铃哐啷蛋卷工坊	ding ling kuang lang dan juan gong fang	800
+向前冲！冲！冲！	xiang qian chong chong chong	800
+向着星辰与深渊！	xiang zhe xing chen yu shen yuan	800
+和「卢皮卡」一起	he lu pi ka yi qi	800
+哦！伟大的脂肪！	o wei da de zhi fang	800
+嘟嘟可满垒大传球	du du ke man lei da chuan qiu	800
+嘟嘟可爆轰大乱斗	du du ke bao hong da luan dou	800
+嘟嘟可砰砰历险记	du du ke peng peng li xian ji	800
+嘟嘟可轰轰奇遇记	du du ke hong hong qi yu ji	800
+回响渊底的安魂曲	hui xiang yuan di de an hun qu	800
+因愧疚而生的医术	yin kui jiu er sheng de yi shu	800
+圆圆滚滚交叉火力	yuan yuan gun gun jiao cha huo li	800
+在应许与遗忘之间	zai ying xu yu yi wang zhi jian	800
+大型狂蔓隙境原体	da xing kuang man xi jing yuan ti	800
+大型碎石隙境原体	da xing sui shi xi jing yuan ti	800
+央陆长柄武器原胚	yang lu zhang bing wu qi yuan pei	800
+奇逸角技隆隆擂台	qi yi jiao ji long long lei tai	800
+女士 / 席诺拉	nv shi xi nuo la	800
+守护的增殖生命体	shou hu de zeng zhi sheng ming ti	800
+安东·梅利尼科夫	an dong mei li ni ke fu	800
+安东·罗杰飞行器	an dong luo jie fei xing qi	800
+寂静之塔下的风向	ji jing zhi ta xia de feng xiang	800
+将夜晚放还于夜晚	jiang ye wan fang huan yu ye wan	800
+小小人儿，快长大	xiao xiao ren er kuai zhang da	800
+小海盗，要出海！	xiao hai dao yao chu hai	800
+小玛丽安·吉约丹	xiao ma li an ji yue dan	800
+工作的意义是…？	gong zuo de yi yi shi	800
+异域鱼鱼追渔行动	yi yu yu yu zhui yu xing dong	800
+征战勇者淬炼之界	zheng zhan yong zhe cui lian zhi jie	800
+很冷吗？我还好。	hen leng ma wo hai hao	800
+德肋庇革劳诺之箭	de le bi ge lao nuo zhi jian	800
+心与月蓝色的思念	xin yu yue lan se de si nian	800
+悠悠度假村邀请函	you you du jia cun yao qing han	800
+悠悠律动舞力聚会	you you lv dong wu li ju hui	800
+愚人众·藏镜仕女	yu ren zhong cang jing shi nv	800
+捉虫小队最后出击	zhuo chong xiao dui zui hou chu ji	800
+掠食性增殖生命体	lve shi xing zeng zhi sheng ming ti	800
+探险家杰克的困境	tan xian jia jie ke de kun jing	800
+无名冒险家的笔记	wu ming mao xian jia de bi ji	800
+无极限超激格斗赛	wu ji xian chao ji ge dou sai	800
+智中之宝·新计划	zhi zhong zhi bao xin ji hua	800
+暴躁鱼儿的隐情?	bao zao yu er de yin qing	800
+月之東, 日之西	yue zhi dong ri zhi xi	800
+月矩力试验设计局	yue ju li shi yan she ji ju	800
+朝着炽热的冒险！	chao zhe chi re de mao xian	800
+未能达成超越之水	wei neng da cheng chao yue zhi shui	800
+机关·侦察记录型	ji guan zhen cha ji lu xing	800
+机关·区域警戒型	ji guan qu yu jing jie xing	800
+机关·地质勘探型	ji guan di zhi kan tan xing	800
+机关·水下勘测型	ji guan shui xia kan ce xing	800
+机关·水下巡游型	ji guan shui xia xun you xing	800
+机关·灵活采集型	ji guan ling huo cai ji xing	800
+机关·算力增幅器	ji guan suan li zeng fu qi	800
+杜拉夫·凯茨莱茵	du la fu kai ci lai yin	800
+来自八重堂的礼物	lai zi ba zhong tang de li wu	800
+来自秘闻馆的委託	lai zi mi wen guan de wei tuo	800
+来自英雄的认证！	lai zi ying xiong de ren zheng	800
+来自骑士团的慰问	lai zi qi shi tuan de wei wen	800
+枪弹与丝线的合围	qiang dan yu si xian de he wei	800
+栗栗羊·冰冰薄荷	li li yang bing bing bo he	800
+栗栗羊·莓莓果酱	li li yang mei mei guo jiang	800
+桓那兰那的梦之树	huan na lan na de meng zhi shu	800
+梦与赭黄色的渐变	meng yu zhe huang se de jian bian	800
+横蛮勇士·冲撞手	heng man yong shi chong zhuang shou	800
+横蛮勇士·抓扑人	heng man yong shi zhua pu ren	800
+横蛮勇士·摔跤客	heng man yong shi shuai jiao ke	800
+殊形之龙参寻战记	shu xing zhi long can xun zhan ji	800
+水域状况不太妙?	shui yu zhuang kuang bu tai miao	800
+水族馆? 开业!	shui zu guan kai ye	800
+汉斯·亚齐博尔德	han si ya qi bo er de	800
+洛恩的「朋友費」	luo en de peng you fei	800
+活动机关·升降柱	huo dong ji guan sheng jiang zhu	800
+活动机关·弹性阀	huo dong ji guan tan xing fa	800
+活动机关·调节阀	huo dong ji guan tiao jie fa	800
+流刃勇士·游击人	liu ren yong shi you ji ren	800
+流刃勇士·锯脂者	liu ren yong shi ju zhi zhe	800
+流淌着色彩的回忆	liu tang zhuo se cai de hui yi	800
+流灰之国的迷旅人	liu hui zhi guo de mi lv ren	800
+海沫与流红的绘染	hai mo yu liu hong de hui ran	800
+海薇玛映影欢乐城	hai wei ma ying ying huan le cheng	800
+海迪夫·普尔希纳	hai di fu pu er xi na	800
+深谷之剑·柯塔娜	shen gu zhi jian ke ta na	800
+深谷之剑·缪格雷	shen gu zhi jian mou ge lei	800
+溯流·大灵显化身	su liu da ling xian hua shen	800
+漫游者的盛放之花	man you zhe de sheng fang zhi hua	800
+火山大王与缝影针	huo shan dai wang yu feng ying zhen	800
+灵觉勇士·冥思者	ling jue yong shi ming si zhe	800
+灵觉勇士·执意师	ling jue yong shi zhi yi shi	800
+灵觉勇士·控念师	ling jue yong shi kong nian shi	800
+焚燃·大灵显化身	fen ran da ling xian hua shen	800
+熔岩游像·流燃体	rong yan you xiang liu ran ti	800
+熔岩游像·蚀土者	rong yan you xiang shi tu zhe	800
+爱龙人的平凡生活	ai long ren de ping fan sheng huo	800
+特别的「御神签」	te bie de yu shen qian	800
+特殊分析变焦镜头	te shu fen xi bian jiao jing tou	800
+玛哈桓那兰那薜那	ma ha huan na lan na bi na	800
+璃月港平静的一天	li yue gang ping jing de yi tian	800
+璃月港，有海盗！	li yue gang you hai dao	800
+画、梦境和机器狗	hua meng jing he ji qi gou	800
+畅畅和她的小伙伴	chang chang he ta de xiao huo ban	800
+疾叶·大灵显化身	ji ye da ling xian hua shen	800
+疾迅勇士·引索客	ji xun yong shi yin suo ke	800
+白之公主与六侏儒	bai zhi gong zhu yu liu zhu ru	800
+白夜国地理水文考	bai ye guo di li shui wen kao	800
+白石与黄铜的造像	bai shi yu huang tong de zao xiang	800
+白露与黑潮的序诗	bai lu yu hei chao de xu shi	800
+盗宝团·海上男儿	dao bao tuan hai shang nan er	800
+直到「桓那」痊愈	zhi dao huan na quan yu	800
+真是急性子啊你。	zhen shi ji xing zi a ni	800
+破坏的增殖生命体	po huai de zeng zhi sheng ming ti	800
+祖莉亚·德斯特雷	zu li ya de si te lei	800
+秘源机关·巡戒使	mi yuan ji guan xun jie shi	800
+秘源机兵·寻捕械	mi yuan ji bing xun bu xie	800
+秘源机兵·构型械	mi yuan ji bing gou xing xie	800
+秘源机兵·统御械	mi yuan ji bing tong yu xie	800
+秘源龙像.…首?	mi yuan long xiang shou	800
+稽古·砺伏之巢床	ji gu li fu zhi chao chuang	800
+究极霸王超级魔剑	jiu ji ba wang chao ji mo jian	800
+窟岩·大灵显化身	ku yan da ling xian hua shen	800
+筑巢的增殖生命体	zhu chao de zeng zhi sheng ming ti	800
+糖雕·双辉长翎鹮	tang diao shuang hui zhang ling huan	800
+终末绿洲的守望者	zhong mo lv zhou de shou wang zhe	800
+结羽勇士·削羽人	jie yu yong shi xue yu ren	800
+结羽勇士·腾空士	jie yu yong shi teng kong shi	800
+结羽勇士·驭空客	jie yu yong shi yu kong ke	800
+绮灿而神秘的赠礼	qi can er shen mi de zeng li	800
+维护机关频闪诱饵	wei hu ji guan pin shan you er	800
+聚所·魔女的花园	ju suo mo nv de hua yuan	800
+芒性 / 芒性态	mang xing mang xing tai	800
+若你遗忘梦的入口	ruo ni yi wang meng de ru kou	800
+荒性 / 荒性态	huang xing huang xing tai	800
+莱斯科·德斯特雷	lai si ke de si te lei	800
+要求特别多的作家	yao qiu te bie duo de zuo jia	800
+试问，藏锋何处？	shi wen cang feng he chu	800
+起源绿洲的守望者	qi yuan lv zhou de shou wang zhe	800
+跃跃律动舞力聚会	yue yue lv dong wu li ju hui	800
+身后事·归于山中	shen hou shi gui yu shan zhong	800
+身后事·诸事平安	shen hou shi zhu shi ping an	800
+身后事·铜雀之迹	shen hou shi tong que zhi ji	800
+转行总是令人焦虑	zhuan hang zong shi ling ren jiao lv	800
+轰隆轰隆缤纷火力	hong long hong long bin fen huo li	800
+迪卢克·莱艮芬德	di lu ke lai gen fen de	800
+迪奥娜·凯茨莱茵	di ao na kai ci lai yin	800
+迪娜泽黛·呼玛伊	di na ze dai hu ma yi	800
+迷城战线·光界篇	mi cheng zhan xian guang jie pian	800
+迷城战线·水境篇	mi cheng zhan xian shui jing pian	800
+迷城战线·沙域篇	mi cheng zhan xian sha yu pian	800
+迷梦与空幻与欺骗	mi meng yu kong huan yu qi pian	800
+追想练行·烈趣篇	zhui xiang lian xing lie qu pian	800
+追想练行·豪斗篇	zhui xiang lian xing hao dou pian	800
+遗留庙宇的祭奠所	yi liu miao yu de ji dian suo	800
+那些我们所失去的	na xie wo men suo shi qu de	800
+那些我们所留驻的	na xie wo men suo liu zhu de	800
+铸砂勇士·叩问人	zhu sha yong shi kou wen ren	800
+铸砂勇士·投矛手	zhu sha yong shi tou mao shou	800
+铸砂勇士·碎盾者	zhu sha yong shi sui dun zhe	800
+镀金旅团·刀舞者	du jin lv tuan dao wu zhe	800
+镀金旅团·机弩兵	du jin lv tuan ji nu bing	800
+镀金旅团·破阵者	du jin lv tuan po zhen zhe	800
+镜子、迷宫与国王	jing zi mi gong yu guo wang	800
+闪亮的斗士们登场	shan liang de dou shi men deng chang	800
+闪闪礼蛋·山之血	shan shan li dan shan zhi xue	800
+闹鬼的海盗船残骸	nao gui de hai dao chuan can hai	800
+雷德·米勒十三世	lei de mi lei shi san shi	800
+马腾斯万能护养剂	ma teng si wan neng hu yang ji	800
+鱼钩的奇异时光？	yu gou de qi yi shi guang	800
+《第七个武士》	di qi ge wu shi	800
+「三运河之地」	san yun he zhi di	800
+「乐园」的哲学	le yuan de zhe xue	800
+「乐园」的指引	le yuan de zhi yin	800
+「乐园」的教导	le yuan de jiao dao	800
+「乔克力老大」	qiao ke li lao da	800
+「交互式游览」	jiao hu shi you lan	800
+「伏龙树」之底	fu long shu zhi di	800
+「公平」的哲学	gong ping de zhe xue	800
+「公平」的指引	gong ping de zhi yin	800
+「公平」的教导	gong ping de jiao dao	800
+「凝静的海色」	ning jing de hai se	800
+「勤劳」的哲学	qin lao de zhe xue	800
+「勤劳」的指引	qin lao de zhi yin	800
+「勤劳」的教导	qin lao de jiao dao	800
+「图普的繁茂」	tu pu de fan mao	800
+「天光」的哲学	tian guang de zhe xue	800
+「天光」的指引	tian guang de zhi yin	800
+「天光」的教导	tian guang de jiao dao	800
+「夺宝」小行动	duo bao xiao xing dong	800
+「娜娜丝梨人」	na na si li ren	800
+「寂寞的地方」	ji mo de di fang	800
+「巧思」的哲学	qiao si de zhe xue	800
+「巧思」的指引	qiao si de zhi yin	800
+「巧思」的教导	qiao si de jiao dao	800
+「异色三连星」	yi se san lian xing	800
+「抗争」的哲学	kang zheng de zhe xue	800
+「抗争」的指引	kang zheng de zhi yin	800
+「抗争」的教导	kang zheng de jiao dao	800
+「无归之诅咒」	wu gui zhi zu zhou	800
+「最初的铁钱」	zui chu de tie qian	800
+「月光」的哲学	yue guang de zhe xue	800
+「月光」的指引	yue guang de zhi yin	800
+「月光」的教导	yue guang de jiao dao	800
+「正义」的哲学	zheng yi de zhe xue	800
+「正义」的指引	zheng yi de zhi yin	800
+「正义」的教导	zheng yi de jiao dao	800
+「沃贡贡之血」	wo gong gong zhi xue	800
+「浪迹」的哲学	lang ji de zhe xue	800
+「浪迹」的指引	lang ji de zhi yin	800
+「浪迹」的教导	lang ji de jiao dao	800
+「浮世」的哲学	fu shi de zhe xue	800
+「浮世」的指引	fu shi de zhi yin	800
+「浮世」的教导	fu shi de jiao dao	800
+「淑女犬小姐」	shu nv quan xiao jie	800
+「焚燔」的哲学	fen fan de zhe xue	800
+「焚燔」的指引	fen fan de zhi yin	800
+「焚燔」的教导	fen fan de jiao dao	800
+「特诺约洛钦」	te nuo yue luo qin	800
+「猎鹰」塔德菈	lie ying ta de la	800
+「矫论团」成员	jiao lun tuan cheng yuan	800
+「秩序」的哲学	zhi xu de zhe xue	800
+「秩序」的指引	zhi xu de zhi yin	800
+「秩序」的教导	zhi xu de jiao dao	800
+「穆什特希尔」	mu shen te xi er	800
+「笃行」的哲学	du xing de zhe xue	800
+「笃行」的指引	du xing de zhi yin	800
+「笃行」的教导	du xing de jiao dao	800
+「繁荣」的哲学	fan rong de zhe xue	800
+「繁荣」的指引	fan rong de zhi yin	800
+「繁荣」的教导	fan rong de jiao dao	800
+「纷争」的哲学	fen zheng de zhe xue	800
+「纷争」的指引	fen zheng de zhi yin	800
+「纷争」的教导	fen zheng de jiao dao	800
+「耶耶副教官」	ye ye fu jiao guan	800
+「胡桃·梅枝」	hu tao mei zhi	800
+「自由」的哲学	zi you de zhe xue	800
+「自由」的指引	zi you de zhi yin	800
+「自由」的教导	zi you de jiao dao	800
+「裂颚」哈尔克	lie e ha er ke	800
+「角逐」的哲学	jue zhu de zhe xue	800
+「角逐」的指引	jue zhu de zhi yin	800
+「角逐」的教导	jue zhu de jiao dao	800
+「诗文」的哲学	shi wen de zhe xue	800
+「诗文」的指引	shi wen de zhi yin	800
+「诗文」的教导	shi wen de jiao dao	800
+「诤言」的哲学	zheng yan de zhe xue	800
+「诤言」的指引	zheng yan de zhi yin	800
+「诤言」的教导	zheng yan de jiao dao	800
+「钟离·帝钱」	zhong li di qian	800
+「镜中的王国」	jing zhong de wang guo	800
+「风雅」的哲学	feng ya de zhe xue	800
+「风雅」的指引	feng ya de zhi yin	800
+「风雅」的教导	feng ya de jiao dao	800
+「黄金」的哲学	huang jin de zhe xue	800
+「黄金」的指引	huang jin de zhi yin	800
+「黄金」的教导	huang jin de jiao dao	800
+㕲㕲㕲间谋1号	hua hua hua jian mou hao	800
+七叶寂照秘密主	qi ye ji zhao mi mi zhu	800
+万端珊瑚侦探社	wan duan shan hu zhen tan she	800
+三川游艺绮梦谭	san chuan you yi qi meng tan	800
+不思议分身幻梦	bu si yi fen shen huan meng	800
+丘丘人的一小步	qiu qiu ren de yi xiao bu	800
+丘丘语诗歌试作	qiu qiu yu shi ge shi zuo	800
+中央实验室遗址	zhong yang shi yan shi yi zhi	800
+主板调试问题集	zhu ban tiao shi wen ti ji	800
+亘古树海之一瞬	gen gu shu hai zhi yi shun	800
+今昔剧画之一角	jin xi ju hua zhi yi jiao	800
+今昔剧画之恶尉	jin xi ju hua zhi e wei	800
+今昔剧画之虎啮	jin xi ju hua zhi hu nie	800
+今昔剧画之鬼人	jin xi ju hua zhi gui ren	800
+从一案到另一案	cong yi an dao ling yi an	800
+仙名 / 仙号	xian ming xian hao	800
+以罪行惩戒罪人	yi zui xing cheng jie zui ren	800
+伊比尼伯龙之眼	yi bi ni bo long zhi yan	800
+伊涅芙的工具箱	yi nie fu de gong ju xiang	800
+伊黎耶的野精灵	yi li ye de ye jing ling	800
+伍玖叁式营养餐	wu jiu san shi ying yang can	800
+伙伴 / 搭档	huo ban da dang	800
+伙伴冒险大战记	huo ban mao xian da zhan ji	800
+传说中的天蛇船	chuan shuo zhong de tian she chuan	800
+伪装鲨鲨独角鱼	wei zhuang sha sha du jiao yu	800
+何人所珍藏之花	he ren suo zhen cang zhi hua	800
+借动式鼓风装置	jie dong shi gu feng zhuang zhi	800
+健忘大王历险记	jian wang da wang li xian ji	800
+冒险家，安娜！	mao xian jia an na	800
+冰雪故园的终期	bing xue gu yuan de zhong qi	800
+冰风迷途的勇士	bing feng mi tu de yong shi	800
+冷冰冰的大麻烦	leng bing bing de da ma fan	800
+冷薪与重燃之地	leng xin yu zhong ran zhi di	800
+凌晶·霜夜灵嗣	ling jing shuang ye ling si	800
+凛风奔狼的始龀	lin feng ben lang de shi chen	800
+凛风奔狼的怀乡	lin feng ben lang de huai xiang	800
+凛风奔狼的断牙	lin feng ben lang de duan ya	800
+凛风奔狼的裂齿	lin feng ben lang de lie chi	800
+凯瑟琳，在稻妻	kai se lin zai dao qi	800
+凶猛动物在哪里	xiong meng dong wu zai na li	800
+凶魁巨怪觇候录	xiong kui ju guai chan hou lu	800
+初生的浊水幻灵	chu sheng de zhuo shui huan ling	800
+初识暗渊毒瘴现	chu shi an yuan du zhang xian	800
+剑出，影随——	jian chu ying sui	800
+劈里啪啦守卫团	pi li pa la shou wei tuan	800
+北陆单手剑原胚	bei lu dan shou jian yuan pei	800
+北陆双手剑原胚	bei lu shuang shou jian yuan pei	800
+北风之狼的庙宇	bei feng zhi lang de miao yu	800
+千步拦射角分间	qian bu lan she jiao fen jian	800
+千籁至音·缪绕	qian lai zhi yin mou rao	800
+千籁至音·飖扬	qian lai zhi yin yao yang	800
+升扬样本·战车	sheng yang yang ben zhan che	800
+升扬样本·王族	sheng yang yang ben wang zu	800
+升扬样本·骑士	sheng yang yang ben qi shi	800
+升炼研巧万策金	sheng lian yan qiao wan ce jin	800
+半永恒统辖矩阵	ban yong heng tong xia ju zhen	800
+华馆梦醒形骸记	hua guan meng xing xing hai ji	800
+南风之狮的庙宇	nan feng zhi shi de miao yu	800
+卡布狄斯堡遗迹	ka bu di si bao yi ji	800
+厄瑞玻斯的秘密	e rui bo si de mi mi	800
+历经风雪的思念	li jing feng xue de si nian	800
+压制特化型机关	ya zhi te hua xing ji guan	800
+原初绿洲之初绽	yuan chu lv zhou zhi chu zhan	800
+参寻荣耀追游录	can xun rong yao zhui you lu	800
+古恩希尔德家族	gu en xi er de jia zu	800
+古月风暴研究所	gu yue feng bao yan jiu suo	800
+古法秘制椰炭饼	gu fa mi zhi ye tan bing	800
+叮铃哐啷大作战	ding ling kuang lang da zuo zhan	800
+向深水中的晨星	xiang shen shui zhong de chen xing	800
+吞天之鲸·只角	tun tian zhi jing zhi jiao	800
+吼吼小狐巡天记	hou hou xiao hu xun tian ji	800
+命定将焚的虹光	ming ding jiang fen de hong guang	800
+哐哐当当雀雀球	kuang kuang dang dang que que qiu	800
+哼，意料之外…	heng yi liao zhi wai	800
+啊，新鲜的肉！	a xin xian de rou	800
+善恶的赫瓦雷纳	shan e de he wa lei na	800
+嗜岩·兽境幼兽	shi yan shou jing you shou	800
+嗜岩·兽境猎犬	shi yan shou jing lie quan	800
+嗜雷·兽境幼兽	shi lei shou jing you shou	800
+嗜雷·兽境猎犬	shi lei shou jing lie quan	800
+嘎吱嘎吱甜甜杯	ga zhi ga zhi tian tian bei	800
+回忆捕手留影机	hui yi bu shou liu ying ji	800
+回望湮灭的月光	hui wang yan mie de yue guang	800
+团团月桂手牵手	tuan tuan yue gui shou qian shou	800
+团雀还会最可愛	tuan que hai hui zui ke ai	800
+图形对抗实验录	tu xing dui kang shi yan lu	800
+图形样本留影机	tu xing yang ben liu ying ji	800
+图莱杜拉的回忆	tu lai du la de hui yi	800
+圆滚滚的易爆品	yuan gun gun de yi bao pin	800
+圣殿的一日春秋	sheng dian de yi ri chun qiu	800
+在此——宣判！	zai ci xuan pan	800
+基础增殖生命体	ji chu zeng zhi sheng ming ti	800
+外包的保密事项	wai bao de bao mi shi xiang	800
+央陆单手剑原胚	yang lu dan shou jian yuan pei	800
+央陆双手剑原胚	yang lu shuang shou jian yuan pei	800
+头晕回避术·改	tou yun hui bi shu gai	800
+奇境谜丘探幽行	qi jing mi qiu tan you xing	800
+奇巧秘器的模本	qi qiao mi qi de mo ben	800
+奇巧秘器的残件	qi qiao mi qi de can jian	800
+奇巧秘器的真愿	qi qiao mi qi de zhen yuan	800
+奇巧秘器的继业	qi qiao mi qi de ji ye	800
+娜布·玛莉卡塔	na bu ma li ka ta	800
+孤云寒林的光砂	gu yun han lin de guang sha	800
+孤云寒林的圣骸	gu yun han lin de sheng hai	800
+孤云寒林的神体	gu yun han lin de shen ti	800
+孤云寒林的辉岩	gu yun han lin de hui yan	800
+学派 / 学院	xue pai xue yuan	800
+安固诸方之述演	an gu zhu fang zhi shu yan	800
+审判——喝啊！	shen pan he a	800
+对沙虫用杀虫炮	dui sha chong yong sha chong pao	800
+导能原盘·引理	dao neng yuan pan yin li	800
+导能原盘·绪论	dao neng yuan pan xu lun	800
+导能原盘·跋尾	dao neng yuan pan ba wei	800
+小小灵蕈大幻戏	xiao xiao ling xun da huan xi	800
+小狐狸的白日梦	xiao hu li de bai ri meng	800
+少女易逝的芳颜	shao nv yi shi de fang yan	800
+少女片刻的闲暇	shao nv pian ke de xian xia	800
+少女苦短的良辰	shao nv ku duan de liang chen	800
+少女连环失踪案	shao nv lian huan shi zong an	800
+少女飘摇的思念	shao nv piao yao de si nian	800
+尚未结束的故事	shang wei jie shu de gu shi	800
+层岩巨渊寻访记	ceng yan ju yuan xun fang ji	800
+层岩巨渊深游记	ceng yan ju yuan shen you ji	800
+山有林猪粗嗅花	shan you lin zhu cu xiu hua	800
+巧瞒七星解磐键	qiao man qi xing jie pan jian	800
+巨龙与自由之歌	ju long yu zi you zhi ge	800
+平息鸣雷的尊者	ping xi ming lei de zun zhe	800
+幽思闪念旋步舞	you si shan nian xuan bu wu	800
+建造特化型机关	jian zao te hua xing ji guan	800
+弘辩的溢神效应	hong bian de yi shen xiao ying	800
+强风猛进之述演	qiang feng meng jin zhi shu yan	800
+形迹反常的隐士	xing ji fan chang de yin shi	800
+影中沉凝的幻灭	ying zhong chen ning de huan mie	800
+往昔的桓那兰那	wang xi de huan na lan na	800
+德尔斐·皮托呢	de er fei pi tuo ne	800
+悠古弦音的乐章	you gu xian yin de yue zhang	800
+悠古弦音的回响	you gu xian yin de hui xiang	800
+悠古弦音的断章	you gu xian yin de duan zhang	800
+悠古弦音的残章	you gu xian yin de can zhang	800
+悠悠度假村地图	you you du jia cun di tu	800
+意志巡游的符像	yi zhi xun you de fu xiang	800
+意志明晰的寄偶	yi zhi ming xi de ji ou	800
+意志破碎的残片	yi zhi po sui de can pian	800
+意料之外的委託	yi liao zhi wai de wei tuo	800
+愿风神护佑你。	yuan feng shen hu you ni	800
+投掷（元素骰）	tou zhi yuan su tou	800
+拉斯科尔尼科夫	la si ke er ni ke fu	800
+拍卖会的邀请函	pai mai hui de yao qing han	800
+拟似燃素独角鱼	ni shi ran su du jiao yu	800
+振晶的复核实验	zhen jing de fu he shi yan	800
+振袖秋风问红叶	zhen xiu qiu feng wen hong ye	800
+据点防卫总动员	ju dian fang wei zong dong yuan	800
+提瓦特游览指南	ti wa te you lan zhi nan	800
+摧冰而行的执望	cui bing er xing de zhi wang	800
+攻坚特化型机关	gong jian te hua xing ji guan	800
+效能模拟实战环	xiao neng mo ni shi zhan huan	800
+散于晨雾的月芒	san yu chen wu de yue mang	800
+文火慢炖腌笃鲜	wen huo man dun yan du xian	800
+斑斓色彩追逐战	ban lan se cai zhui zhu zhan	800
+斥逐与驱散恶客	chi zhu yu qu san e ke	800
+新式终端浮叶型	xin shi zhong duan fu ye xing	800
+方入巨渊初探勘	fang ru ju yuan chu tan kan	800
+无垢之海的苦盏	wu gou zhi hai de ku zhan	800
+无垢之海的酒盏	wu gou zhi hai de jiu zhan	800
+无垢之海的金杯	wu gou zhi hai de jin bei	800
+无垢之海的银杯	wu gou zhi hai de yin bei	800
+无头的科奎塔奥	wu tou de ke kui ta ao	800
+无法反驳的命题	wu fa fan bo de ming ti	800
+旧日的统律之心	jiu ri de tong lv zhi xin	800
+时限二十四小时	shi xian er shi si xiao shi	800
+星与烟帷的夜语	xing yu yan wei de ye yu	800
+星轨王城的试炼	xing gui wang cheng de shi lian	800
+晨星与月的晓歌	chen xing yu yue de xiao ge	800
+普尔比鲁尼之诫	pu er bi lu ni zhi jie	800
+智巧灵蕈大竞逐	zhi qiao ling xun da jing zhu	800
+曾抛弃过去的人	ceng pao qi guo qu de ren	800
+最终远射瞄准线	zui zhong yuan she miao zhun xian	800
+月引周巡之述演	yue yin zhou xun zhi shu yan	800
+机枢巧物前哨战	ji shu qiao wu qian shao zhan	800
+枫丹动物寓言集	feng dan dong wu yu yan ji	800
+枫丹地灵龛之钥	feng dan di ling kan zhi yao	800
+枫丹廷，二三事	feng dan ting er san shi	800
+枯井无法映星月	ku jing wu fa ying xing yue	800
+染血的骑士之杯	ran xue de qi shi zhi bei	800
+桑哈杰·康波雷	sang ha jie kang bo lei	800
+梦与现实的映射	meng yu xian shi de ying she	800
+横行霸者的利齿	heng xing ba zhe de li chi	800
+欢聚总在寻觅后	huan ju zong zai xun mi hou	800
+欧庇克莱歌剧院	ou bi ke lai ge ju yuan	800
+歌裴莉娅的葬送	ge pei li ya de zang song	800
+武炼之魂·孤影	wu lian zhi hun gu ying	800
+死兆星级二号舰	si zhao xing ji er hao jian	800
+歼灭特化型机关	jian mie te hua xing ji guan	800
+比勒琪丝的哀歌	bi lei qi si de ai ge	800
+永不停歇的修炼	yong bu ting xie de xiu lian	800
+永无止境的研究	yong wu zhi jing de yan jiu	800
+沙中伟贤的对答	sha zhong wei xian de dui da	800
+沙尔·芬德尼尔	sha er fen de ni er	800
+沙扎曼·呼玛伊	sha zha man hu ma yi	800
+法厄同们全跳舞	fa e tong men quan tiao wu	800
+法尔伽的私房钱	fa er ga de si fang qian	800
+洗刷耻辱的一战	xi shua chi ru de yi zhan	800
+洗理嵴锋·修锋	xi li ji feng xiu feng	800
+流浪大地的乐团	liu lang da di de yue tuan	800
+浮世浮生千岩间	fu shi fu sheng qian yan jian	800
+海渊仙草灵验记	hai yuan xian cao ling yan ji	800
+海的那头是故乡	hai de na tou shi gu xiang	800
+海精灵们的礼物	hai jing ling men de li wu	800
+涌流·霜夜灵嗣	yong liu shuang ye ling si	800
+深海龙蜥·原种	shen hai long xi yuan zhong	800
+深海龙蜥·吞雷	shen hai long xi tun lei	800
+深海龙蜥·啮冰	shen hai long xi nie bing	800
+深渊使徒·激流	shen yuan shi tu ji liu	800
+深渊使徒·霜落	shen yuan shi tu shuang luo	800
+深渊咏者·渊火	shen yuan yong zhe yuan huo	800
+深渊咏者·紫电	shen yuan yong zhe zi dian	800
+深潜斗士急流鱼	shen qian dou shi ji liu yu	800
+深邃纠缠的凝视	shen sui jiu chan de ning shi	800
+渡过烈火的贤人	du guo lie huo de xian ren	800
+湍流疾行冲锋赛	tuan liu ji xing chong feng sai	800
+湖畔的尼尼安涅	hu pan de ni ni an nie	800
+湖畔的维维安涅	hu pan de wei wei an nie	800
+溯火而归的终局	su huo er gui de zhong ju	800
+漆黑陨铁的一块	qi hei yun tie de yi kuai	800
+漆黑陨铁的一片	qi hei yun tie de yi pian	800
+漆黑陨铁的一粒	qi hei yun tie de yi li	800
+漆黑陨铁的一角	qi hei yun tie de yi jiao	800
+激烈的开端理论	ji lie de kai duan li lun	800
+火中取梦的故事	huo zhong qu meng de gu shi	800
+火力遥援突击战	huo li yao yuan tu ji zhan	800
+灵矩有宝予何人	ling ju you bao yu he ren	800
+灵觉隐修的迷者	ling jue yin xiu de mi zhe	800
+灼烜·霜夜灵嗣	zhuo xuan shuang ye ling si	800
+炽岩斗士急流鱼	chi yan dou shi ji liu yu	800
+炽烈的炎之魔女	chi lie de yan zhi mo nv	800
+烈日威权的余光	lie ri wei quan de yu guang	800
+烈日威权的旧日	lie ri wei quan de jiu ri	800
+烈日威权的梦想	lie ri wei quan de meng xiang	800
+烈日威权的残响	lie ri wei quan de can xiang	800
+焚尽的炽炎魔女	fen jin de chi yan mo nv	800
+焦灼的魔女帽子	jiao zhuo de mo nv mao zi	800
+燃素开采研究所	ran su kai cai yan jiu suo	800
+狮牙斗士的枷锁	shi ya dou shi de jia suo	800
+狮牙斗士的理想	shi ya dou shi de li xiang	800
+狮牙斗士的铁链	shi ya dou shi de tie lian	800
+狮牙斗士的镣铐	shi ya dou shi de liao kao	800
+猎人青翠的箭羽	lie ren qing cui de jian yu	800
+玛丽安·吉约丹	ma li an ji yue dan	800
+玛阿威与幻写灵	ma a wei yu huan xie ling	800
+珍珠翡翠白玉汤	zhen zhu fei cui bai yu tang	800
+琴·古恩希尔德	qin gu en xi er de	800
+璃月地灵龛之钥	li yue di ling kan zhi yao	800
+瓦萨克拉胡巴肯	wa sa ke la hu ba ken	800
+生长天地之蕨草	sheng zhang tian di zhi jue cao	800
+疑似宝石独角鱼	yi si bao shi du jiao yu	800
+白灵果(角色)	bai ling guo jue se	800
+盗宝团·拳术家	dao bao tuan quan shu jia	800
+盗宝团·掘墓者	dao bao tuan jue mu zhe	800
+盗宝团·神射手	dao bao tuan shen she shou	800
+盗宝团·粉碎者	dao bao tuan fen sui zhe	800
+真·风神杂烩菜	zhen feng shen za hui cai	800
+真剑斗虫大鬼王	zhen jian dou chong da gui wang	800
+砰砰魔球总动员	peng peng mo qiu zong dong yuan	800
+破冰踏雪的回音	po bing ta xue de hui yin	800
+破碎旧录之规复	po sui jiu lu zhi gui fu	800
+碎裂的积木矿窟	sui lie de ji mu kuang ku	800
+神合秘烟的启示	shen he mi yan de qi shi	800
+神合秘烟的征兆	shen he mi yan de zheng zhao	800
+神合秘烟的思绪	shen he mi yan de si xu	800
+神合秘烟的预感	shen he mi yan de yu gan	800
+神奇的霍普金斯	shen qi de huo pu jin si	800
+神秘武学的召唤	shen mi wu xue de zhao huan	800
+祸津御建鸣神命	huo jin yu jian ming shen ming	800
+离垢者肃心旅宴	li gou zhe su xin lv yan	800
+秋津森夜试胆会	qiu jin sen ye shi dan hui	800
+秋津羽球二重梦	qiu jin yu qiu er chong meng	800
+科培琉司的劫罚	ke pei liu si de jie fa	800
+秘刻金纹的源核	mi ke jin wen de yuan he	800
+稽古·千扉绘卷	ji gu qian fei hui juan	800
+稽古·御前府邸	ji gu yu qian fu di	800
+稽古·御馆绘卷	ji gu yu guan hui juan	800
+穿越烟帷与暗林	chuan yue yan wei yu an lin	800
+糖雕·哥伦比娅	tang diao ge lun bi ya	800
+繁花斗士急流鱼	fan hua dou shi ji liu yu	800
+红莲的真剑试合	hong lian de zhen jian shi he	800
+纯圣露滴的凝华	chun sheng lu di de ning hua	800
+纯圣露滴的滤渣	chun sheng lu di de lv zha	800
+纯圣露滴的真粹	chun sheng lu di de zhen cui	800
+纯圣露滴的醴泉	chun sheng lu di de li quan	800
+纷变繁相豪武谭	fen bian fan xiang hao wu tan	800
+终北遗嗣的哀荣	zhong bei yi si de ai rong	800
+终北遗嗣的煌熠	zhong bei yi si de huang yi	800
+终北遗嗣的祷献	zhong bei yi si de dao xian	800
+终北遗嗣的迷顽	zhong bei yi si de mi wan	800
+绝对不是下酒菜	jue dui bu shi xia jiu cai	800
+绿洲花园的哀思	lv zhou hua yuan de ai si	800
+绿洲花园的恩惠	lv zhou hua yuan de en hui	800
+绿洲花园的真谛	lv zhou hua yuan de zhen di	800
+绿洲花园的追忆	lv zhou hua yuan de zhui yi	800
+罗韦雷·佩里恰	luo wei lei pei li qia	800
+群玉阁…再现？	qun yu ge zai xian	800
+翅膀折断的猎鹰	chi bang zhe duan de lie ying	800
+翠绿猎人的容器	cui lv lie ren de rong qi	800
+翠绿猎人的笃定	cui lv lie ren de du ding	800
+翠绿的猎人之冠	cui lv de lie ren zhi guan	800
+肃清邪物反击战	su qing xie wu fan ji zhan	800
+肉肉烤蘑菇披萨	rou rou kao mo gu pi sa	800
+肥料…推销员？	fei liao tui xiao yuan	800
+胜过白银与精金	sheng guo bai yin yu jing jin	800
+芒荒强效增幅器	mang huang qiang xiao zeng fu qi	800
+芒荒彈雨响應法	mang huang dan yu xiang ying fa	800
+芭别尔·塔尼特	ba bie er ta ni te	800
+花灵之「勇者」	hua ling zhi yong zhe	800
+若我们再次相见	ruo wo men zai ci xiang jian	800
+茸茸城堡大喵险	rong rong cheng bao da miao xian	800
+茹果食补大调研	ru guo shi bu da diao yan	800
+荒泷·盛世豪鼓	huang long sheng shi hao gu	800
+荒泷天下第一斗	huang long tian xia di yi dou	800
+荣花与炎日之途	rong hua yu yan ri zhi tu	800
+莫雷谷的伙伴们	mo lei gu de huo ban men	800
+莱斯格·劳伦斯	lai si ge lao lun si	800
+莱舒的发条工坊	lai shu de fa tiao gong fang	800
+菲谢尔皇女夜谭	fei xie er huang nv ye tan	800
+葵娅乌赫奎扎尔	kui ya wu he kui zha er	800
+蔓结·霜夜灵嗣	man jie shuang ye ling si	800
+虚空劫灰往世书	xu kong jie hui wang shi shu	800
+蚀灭的源焰之主	shi mie de yuan yan zhi zhu	800
+蜜酱胡萝卜煎肉	mi jiang hu luo bo jian rou	800
+蟹黄火腿焗时蔬	xie huang huo tui ju shi shu	800
+行于世间的孩子	xing yu shi jian de hai zi	800
+褪色古堡的崩塌	tui shai gu bao de beng ta	800
+西风之鹰的庙宇	xi feng zhi ying de miao yu	800
+西风迅鷹侦战录	xi feng xun ying zhen zhan lu	800
+角斗士的终幕礼	jue dou shi de zhong mu li	800
+触不可及的恋人	chu bu ke ji de lian ren	800
+谧林涓露的金符	mi lin juan lu de jin fu	800
+谧林涓露的铁符	mi lin juan lu de tie fu	800
+谧林涓露的铜符	mi lin juan lu de tong fu	800
+谧林涓露的银符	mi lin juan lu de yin fu	800
+谵妄圣主的余哀	zhan wang sheng zhu de yu ai	800
+谵妄圣主的容光	zhan wang sheng zhu de rong guang	800
+谵妄圣主的朽败	zhan wang sheng zhu de xiu bai	800
+谵妄圣主的神面	zhan wang sheng zhu de shen mian	800
+贡祭炽心的决绝	gong ji chi xin de jue jue	800
+贡祭炽心的惶恐	gong ji chi xin de huang kong	800
+贡祭炽心的荣膺	gong ji chi xin de rong ying	800
+贡祭炽心的踌躇	gong ji chi xin de chou chu	800
+贪食匿叶龙山王	tan shi ni ye long shan wang	800
+赫尔洛克变奏曲	he er luo ke bian zou qu	800
+趁梦想气息逗留	chen meng xiang qi xi dou liu	800
+趁鲜花气息逗留	chen xian hua qi xi dou liu	800
+超厉害·大萝卜	chao li hai da luo bo	800
+超厉害魔法钥匙	chao li hai mo fa yao shi	800
+跃动节拍响应法	yue dong jie pai xiang ying fa	800
+踏破矿贼结新缘	ta po kuang zei jie xin yuan	800
+轰隆隆的大危机	hong long long de da wei ji	800
+辉电·霜夜灵嗣	hui dian shuang ye ling si	800
+远方的少女之心	yuan fang de shao nv zhi xin	800
+远海夷地的玉枝	yuan hai yi di de yu zhi	800
+远海夷地的琼枝	yuan hai yi di de qiong zhi	800
+远海夷地的瑚枝	yuan hai yi di de hu zhi	800
+远海夷地的金枝	yuan hai yi di de jin zhi	800
+迷你仙灵·紫苑	mi ni xian ling zi yuan	800
+迷你仙灵·薄红	mi ni xian ling bao hong	800
+迷你仙灵·郁金	mi ni xian ling yu jin	800
+迷你仙灵·露草	mi ni xian ling lu cao	800
+迷光的蜷叶之心	mi guang de quan ye zhi xin	800
+迷路孩童的诉说	mi lu hai tong de su shuo	800
+迷途灵性的搜觅	mi tu ling xing de sou mi	800
+遍结寒霜的傲骨	bian jie han shuang de ao gu	800
+遗迹龙兽·地巡	yi ji long shou di xun	800
+遗迹龙兽·空巡	yi ji long shou kong xun	800
+邂逅总在悠闲时	xie hou zong zai you xian shi	800
+重投（元素骰）	zhong tou yuan su tou	800
+野林猪与小魔女	ye lin zhu yu xiao mo nv	800
+野花记忆的绿野	ye hua ji yi de lv ye	800
+金焰绒翼龙暴君	jin yan rong yi long bao jun	800
+金礞·霜夜灵嗣	jin meng shuang ye ling si	800
+金色旋律的断章	jin se xuan lv de duan zhang	800
+镜与谜烟的彼方	jing yu mi yan de bi fang	800
+长夜燧火的余烬	chang ye sui huo de yu jin	800
+长夜燧火的明焰	chang ye sui huo de ming yan	800
+长夜燧火的残照	chang ye sui huo de can zhao	800
+长夜燧火的烈辉	chang ye sui huo de lie hui	800
+问题分拣机器人	wen ti fen jian ji qi ren	800
+阵列推想大作战	zhen lie tui xiang da zuo zhan	800
+阿莎莎·郎勃罗	a sha sha lang bo luo	800
+随水而来的烦恼	sui shui er lai de fan nao	800
+隐者王·多尔库	yin zhe wang duo er ku	800
+雅各布·英戈德	ya ge bu ying ge de	800
+雨阵奔流之述演	yu zhen ben liu zhi shu yan	800
+雪浪与苍林之舞	xue lang yu cang lin zhi wu	800
+雪葬之都·旧宫	xue zang zhi dou jiu gong	800
+雪葬之都·近郊	xue zang zhi dou jin jiao	800
+雷穆利亚衰亡史	lei mu li ya shuai wang shi	800
+雾海云间的汞丹	wu hai yun jian de gong dan	800
+雾海云间的转还	wu hai yun jian de zhuan hai	800
+雾海云间的金丹	wu hai yun jian de jin dan	800
+雾海云间的铅丹	wu hai yun jian de qian dan	800
+霍夫曼·施密特	huo fu man shi mi te	800
+预言家(称号)	yu yan jia cheng hao	800
+风来人剑斗绮谭	feng lai ren jian dou qi tan	800
+飞向天空的约定	fei xiang tian kong de yue ding	800
+飞迸湍流二重奏	fei beng tuan liu er chong zou	800
+飞迸湍流大作战	fei beng tuan liu da zuo zhan	800
+香气四溢的〇〇	xiang qi si yi de ling ling	800
+骑士团手册问答	qi shi tuan shou ce wen da	800
+高塔孤王的断片	gao ta gu wang de duan pian	800
+高塔孤王的残垣	gao ta gu wang de can yuan	800
+高塔孤王的破瓦	gao ta gu wang de po wa	800
+高塔孤王的碎梦	gao ta gu wang de sui meng	800
+魔王之刃·残片	mo wang zhi ren can pian	800
+鱼钩的物尽其用	yu gou de wu jin qi yong	800
+鸣神御灵的亲爱	ming shen yu ling de qin ai	800
+鸣神御灵的勇武	ming shen yu ling de yong wu	800
+鸣神御灵的明惠	ming shen yu ling de ming hui	800
+鸣神御灵的欢喜	ming shen yu ling de huan xi	800
+黑石湮落白石下	hei shi yan luo bai shi xia	800
+黯色空壳·旗令	an se kong ke qi ling	800
+黯色空壳·破阵	an se kong ke po zhen	800
+黯色空壳·近卫	an se kong ke jin wei	800
+龙冠武士的金哨	long guan wu shi de jin shao	800
+龙蛇洞宫试炼记	long she dong gong shi lian ji	800
+龙遗物研究协会	long yi wu yan jiu xie hui	800
+龙龙饼干·匿叶	long long bing gan ni ye	800
+龙龙饼干·嵴锋	long long bing gan ji feng	800
+龙龙饼干·暝视	long long bing gan ming shi	800
+龙龙饼干·突角	long long bing gan tu jiao	800
+龙龙饼干·绒翼	long long bing gan rong yi	800
+龙龙饼干·鳍游	long long bing gan qi you	800
+（小保底）歪了	xiao bao di wai le	800
+「乔克力」宫	qiao ke li gong	800
+「亡者之城」	wang zhe zhi cheng	800
+「噩梦碎片」	e meng sui pian	800
+「回声之子」	hui sheng zhi zi	800
+「巴拉奇科」	ba la qi ke	800
+「幸运祝福」	xing yun zhu fu	800
+「弯刀大叔」	wan dao da shu	800
+「律动魔匠」	lv dong mo jiang	800
+「无风之地」	wu feng zhi di	800
+「明晨之镜」	ming chen zhi jing	800
+「暗渊之获」	an yuan zhi huo	800
+「月之少女」	yue zhi shao nv	800
+「望乡的孤狼	wang xiang de gu lang	800
+「欢夜畅谈」	huan ye chang tan	800
+「沃陆之邦」	wo lu zhi bang	800
+「流泉之众」	liu quan zhi zhong	800
+「海祇之尾」	hai qi zhi wei	800
+「海祇之心」	hai qi zhi xin	800
+「海祇之牙」	hai qi zhi ya	800
+「灰猫先生」	hui mao xian sheng	800
+「炫彩呆子」	xuan cai dai zi	800
+「狂图捕手」	kuang tu bu shou	800
+「理想情况」	li xiang qing kuang	800
+「相缘绘愿」	xiang yuan hui yuan	800
+「神的棋盘」	shen de qi pan	800
+「秘闻交易」	mi wen jiao yi	800
+「至高领主」	zhi gao ling zhu	800
+「课后作业」	ke hou zuo ye	800
+「邦邦滚石」	bang bang gun shi	800
+「邪龙」绘卷	xie long hui juan	800
+「静寂闲雅」	jing ji xian ya	800
+一条枫丹信息	yi tiao feng dan xin xi	800
+万世流涌大典	wan shi liu yong da dian	800
+万国诸海图谱	wan guo zhu hai tu pu	800
+万有涅槃缚境	wan you nie pan fu jing	800
+万民堂水煮鱼	wan min tang shui zhu yu	800
+万象风角灵官	wan xiang feng jiao ling guan	800
+三眼五显仙人	san yan wu xian xian ren	800
+三隅道大演武	san yu dao da yan wu	800
+不动玄石之相	bu dong xuan shi zhi xiang	800
+不存在的国土	bu cun zai de guo tu	800
+不死者的哀铃	bu si zhe de ai ling	800
+不荣誉的试炼	bu rong yu de shi lian	800
+不败阳焰之章	bu bai yang yan zhi zhang	800
+丘丘水行游侠	qiu qiu shui xing you xia	800
+丘丘风行游侠	qiu qiu feng xing you xia	800
+乐园遗落之花	le yuan yi luo zhi hua	800
+二相噬光元件	er xiang shi guang yuan jian	800
+二相恒光元件	er xiang heng guang yuan jian	800
+五绿洲之殿堂	wu lv zhou zhi dian tang	800
+亡国的美奈姬	wang guo de mei nai ji	800
+伊库·图尔萨	yi ku tu er sa	800
+伊达的挑战状	yi da de tiao zhan zhuang	800
+众人祈祷中…	zhong ren qi dao zhong	800
+优菈·劳伦斯	you la lao lun si	800
+伙伴侦察妙法	huo ban zhen cha miao fa	800
+你存在的时空	ni cun zai de shi kong	800
+侦察骑士烤肉	zhen cha qi shi kao rou	800
+元素充能效率	yuan su chong neng xiao lv	800
+兆载永劫龙兽	zhao zai yong jie long shou	800
+全能美食队！	quan neng mei shi dui	800
+八衢姬之试炼	ba qu ji zhi shi lian	800
+八衢彦之试炼	ba qu yan zhi shi lian	800
+兰纳迦的回忆	lan na jia de hui yi	800
+冒失的帕拉德	mao shi de pa la de	800
+冒险家的烦恼	mao xian jia de fan nao	800
+冒险家的经验	mao xian jia de jing yan	800
+冒险家该干嘛	mao xian jia gai gan ma	800
+冰盾丘丘暴徒	bing dun qiu qiu bao tu	800
+切片轄域·陶	qie pian xia yu tao	800
+利文斯通博士	li wen si tong bo shi	800
+削月筑阳真君	xue yue zhu yang zhen jun	800
+加尔恰的赞歌	jia er qia de zan ge	800
+努尔寂石阵列	nu er ji shi zhen lie	800
+勇士的每一面	yong shi de mei yi mian	800
+勇气戴于心上	yong qi dai yu xin shang	800
+勒波特钟表店	lei bo te zhong biao dian	800
+北地苹果焖肉	bei di ping guo men rou	800
+北陆法器原胚	bei lu fa qi yuan pei	800
+北风闪尘吹流	bei feng shan chen chui liu	800
+十六倍曼陀草	shi liu bei man tuo cao	800
+十字铃兰学会	shi zi ling lan xue hui	800
+十字铃兰秘宝	shi zi ling lan mi bao	800
+千年珍珠骏麟	qian nian zhen zhu jun lin	800
+千手百眼神像	qian shou bai yan shen xiang	800
+华清归藏密宫	hua qing gui cang mi gong	800
+南十字武斗会	nan shi zi wu dou hui	800
+卡尔·英戈德	ka er ying ge de	800
+卡布里埃商会	ka bu li ai shang hui	800
+危险运输现象	wei xian yun shu xian xiang	800
+原初的那一位	yuan chu de na yi wei	800
+原始胎海之水	yuan shi tai hai zhi shui	800
+原神（标题）	yuan shen biao ti	800
+受祝所缚之印	shou zhu suo fu zhi yin	800
+变异雷史莱姆	bian yi lei shi lai mu	800
+古云有「螭」	gu yun you chi	800
+召唤王大奖赛	zhao huan wang da jiang sai	800
+叮铃哐啷軍团	ding ling kuang lang jun tuan	800
+名为夜的孤岛	ming wei ye de gu dao	800
+启封的羊皮卷	qi feng de yang pi juan	800
+命轨爻错之翼	ming gui yao cuo zhi yi	800
+哀叙冰玉断片	ai xu bing yu duan pian	800
+哀叙冰玉碎屑	ai xu bing yu sui xie	800
+哈南帕查记事	ha nan pa cha ji shi	800
+唤雷者的头冠	huan lei zhe de tou guan	800
+喜多院十文字	xi duo yuan shi wen zi	800
+嗨！冷静点！	hai leng jing dian	800
+嘟嘟可故事集	du du ke gu shi ji	800
+嘟嘟莲海鲜羹	du du lian hai xian geng	800
+嘿！你的信！	hei ni de xin	800
+四方八方之网	si fang ba fang zhi wang	800
+回声之林夜话	hui sheng zhi lin ye hua	800
+坚牢黄玉断片	jian lao huang yu duan pian	800
+坚牢黄玉碎屑	jian lao huang yu sui xie	800
+塔尼特露营地	ta ni te lu ying di	800
+塞西莉亚苗圃	sai xi li ya miao pu	800
+墟散人离之处	xu san ren li zhi chu	800
+夜驻月停之翼	ye zhu yue ting zhi yi	800
+大型冰史莱姆	da xing bing shi lai mu	800
+大型岩史莱姆	da xing yan shi lai mu	800
+大型水史莱姆	da xing shui shi lai mu	800
+大型火史莱姆	da xing huo shi lai mu	800
+大型草史莱姆	da xing cao shi lai mu	800
+大型雷史莱姆	da xing lei shi lai mu	800
+大型风史莱姆	da xing feng shi lai mu	800
+大树·扎根态	da shu zha gen tai	800
+大英雄的经验	da ying xiong de jing yan	800
+大黄金吮指鸡	da huang jin shun zhi ji	800
+大黄金盗宝鼬	da huang jin dao bao you	800
+央陆法器原胚	yang lu fa qi yuan pei	800
+奇怪的丘丘人	qi guai de qiu qiu ren	800
+奇械机芯齿轮	qi xie ji xin chi lun	800
+奥罗巴斯之心	ao luo ba si zhi xin	800
+奶香菌菇脆塔	nai xiang jun gu cui ta	800
+好吧，艾尤恩	hao ba ai you en	800
+孤云凌霄之处	gu yun ling xiao zhi chu	800
+孤高的美食家	gu gao de mei shi jia	800
+守望者·堕天	shou wang zhe duo tian	800
+守誓者的圣所	shou shi zhe de sheng suo	800
+安全接敌实训	an quan jie di shi xun	800
+安全运输法则	an quan yun shu fa ze	800
+安瓦蒂尼尔湖	an wa di ni er hu	800
+寻溯蜜虫之宝	xun su mi chong zhi bao	800
+寻瑰纳琦真君	xun gui na qi zhen jun	800
+导引之职…?	dao yin zhi zhi	800
+尘与灯的挽歌	chen yu deng de wan ge	800
+尤潘基的回火	you pan ji de hui huo	800
+居于门户之石	ju yu men hu zhi shi	800
+山海八所巡礼	shan hai ba suo xun li	800
+岩之寻宝罗盘	yan zhi xun bao luo pan	800
+岩盾丘丘暴徒	yan dun qiu qiu bao tu	800
+岩神瞳共鸣石	yan shen tong gong ming shi	800
+嵯峨群峰之翼	cuo e qun feng zhi yi	800
+巉岩琢塑之樽	chan yan zuo su zhi zun	800
+巨型帽子水母	ju xing mao zi shui mu	800
+已逝去的末日	yi shi qu de mo ri	800
+帕拉德的困境	pa la de de kun jing	800
+帕蒂沙兰布丁	pa di sha lan bu ding	800
+常世国龙蛇传	chang shi guo long she chuan	800
+幻光奇技实录	huan guang qi ji shi lu	800
+幻形游禽·水	huan xing you qin shui	800
+幻形花鼠·水	huan xing hua shu shui	800
+幻形豕兽·水	huan xing shi shou shui	800
+幻想真境剧诗	huan xiang zhen jing ju shi	800
+幻想虚境剧演	huan xiang xu jing ju yan	800
+廷区水道枢纽	ting qu shui dao shu niu	800
+异重力凝水体	yi zhong li ning shui ti	800
+归火圣夜巡礼	gui huo sheng ye xun li	800
+待解「弈局」	dai jie yi ju	800
+很高兴见到你	hen gao xing jian dao ni	800
+循仙踪兮天遒	xun xian zong xi tian qiu	800
+忆昔诸途巡历	yi xi zhu tu xun li	800
+忧昙花的花蕊	you tan hua de hua rui	800
+恒常机关之芯	heng chang ji guan zhi xin	800
+恒常机关阵列	heng chang ji guan zhen lie	800
+恨繁囿兮作土	hen fan you xi zuo tu	800
+愚人众先遣队	yu ren zhong xian qian dui	800
+愚人者人愚之	yu ren zhe ren yu zhi	800
+慈水怒涛之翼	ci shui nu tao zhi yi	800
+我们终将重逢	wo men zhong jiang chong feng	800
+拜希麦·五世	bai xi mai wu shi	800
+挪德卡莱热狗	nuo de ka lai re gou	800
+捕风的异乡人	bu feng de yi xiang ren	800
+掇星攫辰天君	duo xing jue chen tian jun	800
+探索剑冢封印	tan suo jian zhong feng yin	800
+提神醒脑披萨	ti shen xing nao pi sa	800
+插电战斗方案	cha dian zhan dou fang an	800
+摇撼山岳之龙	yao han shan yue zhi long	800
+摇滚团子牛奶	yao gun tuan zi niu nai	800
+放逐者的荒歌	fang zhu zhe de huang ge	800
+救世者的守灵	jiu shi zhe de shou ling	800
+救苦渡厄真君	jiu ku du e zhen jun	800
+散失的岩神瞳	san shi de yan shen tong	800
+散失的月神瞳	san shi de yue shen tong	800
+散失的水神瞳	san shi de shui shen tong	800
+散失的火神瞳	san shi de huo shen tong	800
+散失的草神瞳	san shi de cao shen tong	800
+散失的雷神瞳	san shi de lei shen tong	800
+散失的风神瞳	san shi de feng shen tong	800
+整理后的笔记	zheng li hou de bi ji	800
+新型虚空终端	xin xing xu kong zhong duan	800
+新枫丹科学院	xin feng dan ke xue yuan	800
+旋翼浮空憩榻	xuan yi fu kong qi ta	800
+无信者的使徒	wu xin zhe de shi tu	800
+无垠蔚蓝之歌	wu yin wei lan zhi ge	800
+无妄引咎密宫	wu wang yin jiu mi gong	800
+无格律自由诗	wu ge lv zi you shi	800
+无留陀的化身	wu liu tuo de hua shen	800
+日轮与菅名山	ri lun yu jian ming shan	800
+旧都梦夜奇谭	jiu du meng ye qi tan	800
+时与风的故事	shi yu feng de gu shi	800
+昆图尔的故事	kun tu er de gu shi	800
+明燃的棱状壳	ming ran de leng zhuang ke	800
+昔日宗室之仪	xi ri zong shi zhi yi	800
+星罗圭璧之晷	xing luo gui bi zhi gui	800
+映影书写札记	ying ying shu xie zha ji	800
+普尔希娜光钉	pu er xi na guang ding	800
+普斯帕咖啡馆	pu si pa ka fei guan	800
+晶蝶诱捕装置	jing die you bu zhuang zhi	800
+暗巷的酒与诗	an xiang de jiu yu shi	800
+暝视寻灵织卷	ming shi xun ling zhi juan	800
+曲径通幽之处	qu jing tong you zhi chu	800
+最初的大魔术	zui chu de da mo shu	800
+最胜紫金断片	zui sheng zi jin duan pian	800
+最胜紫金碎屑	zui sheng zi jin sui xie	800
+月下的守望者	yue xia de shou wang zhe	800
+月之寻宝罗盘	yue zhi xun bao luo pan	800
+月光联系你我	yue guang lian xi ni wo	800
+月谕的半歩舞	yue yu de ban bu wu	800
+有朋自远方来	you peng zi yuan fang lai	800
+有翼冰本真蕈	you yi bing ben zhen xun	800
+有翼草本真蕈	you yi cao ben zhen xun	800
+有隔阂的魂灵	you ge he de hun ling	800
+朝向炎崖之路	chao xiang yan ya zhi lu	800
+木盾丘丘暴徒	mu dun qiu qiu bao tu	800
+未吹响的号角	wei chui xiang de hao jiao	800
+朱赤引火幽蝶	zhu chi yin huo you die	800
+机关破谜范式	ji guan po mi fan shi	800
+机符遁藏之城	ji fu dun cang zhi cheng	800
+机谋变策战记	ji mou bian ce zhan ji	800
+杜南纳前进站	du nan na qian jin zhan	800
+杯中遥吟之诗	bei zhong yao yin zhi shi	800
+杰克(枫丹)	jie ke feng dan	800
+杰克(蒙德)	jie ke meng de	800
+松籁响起之时	song lai xiang qi zhi shi	800
+染血的铁之心	ran xue de tie zhi xin	800
+染血的铁假面	ran xue de tie jia mian	800
+染血的骑士道	ran xue de qi shi dao	800
+染血的黑之羽	ran xue de hei zhi yu	800
+树荫下的虹彩	shu yin xia de hong cai	800
+梅娜卡里商铺	mei na ka li shang pu	800
+梦想乐土之殁	meng xiang le tu zhi mo	800
+森郁花繁之翼	sen yu hua fan zhi yi	800
+歇息处的入口	xie xi chu de ru kou	800
+歌尘浪市真君	ge chen lang shi zhen jun	800
+水之寻宝罗盘	shui zhi xun bao luo pan	800
+水仙十字之剑	shui xian shi zi zhi jian	800
+水仙十字结社	shui xian shi zi jie she	800
+水晶浮游平台	shui jing fu you ping tai	800
+水神瞳共鸣石	shui shen tong gong ming shi	800
+水量侦测晶体	shui liang zhen ce jing ti	800
+污秽逆位神像	wu hui ni wei shen xiang	800
+沐浴龙血的剑	mu yu long xue de jian	800
+沙上楼阁史话	sha shang lou ge shi hua	800
+波乱月白经津	bo luan yue bai jing jin	800
+派蒙的留影机	pai meng de liu ying ji	800
+流泉所归之处	liu quan suo gui zhi chu	800
+流浪者的经验	liu lang zhe de jing yan	800
+流纹京紫蝶鱼	liu wen jing zi die yu	800
+浊水喷吐幻灵	zhuo shui pen tu huan ling	800
+浊水幻灵克星	zhuo shui huan ling ke xing	800
+浊水粉碎幻灵	zhuo shui fen sui huan ling	800
+海乱鬼·炎威	hai luan gui yan wei	800
+海乱鬼·雷腾	hai luan gui lei teng	800
+海原巡回法官	hai yuan xun hui fa guan	800
+海灯节快乐！	hai deng jie kuai le	800
+海老名权四郎	hai lao ming quan si lang	800
+涤净青金断片	di jing qing jin duan pian	800
+涤净青金碎屑	di jing qing jin sui xie	800
+深海龙蜥之群	shen hai long xi zhi qun	800
+深黯魇语之主	shen an yan yu zhi zhu	800
+渡火者的决绝	du huo zhe de jue jue	800
+渡火者的智慧	du huo zhe de zhi hui	800
+渡火者的煎熬	du huo zhe de jian ao	800
+渡火者的解脱	du huo zhe de jie tuo	800
+渡火者的醒悟	du huo zhe de xing wu	800
+測定摹绘研学	ce ding mo hui yan xue	800
+游击小队队长	you ji xiao dui dui zhang	800
+火之寻宝罗盘	huo zhi xun bao luo pan	800
+火斧丘丘暴徒	huo fu qiu qiu bao tu	800
+火神瞳共鸣石	huo shen tong gong ming shi	800
+灼燃的燧原矿	zhuo ran de sui yuan kuang	800
+炸肉排三明治	zha rou pai san ming zhi	800
+点石成…什么	dian shi cheng shen me	800
+炽烈的还魂诗	chi lie de huan hun shi	800
+烈火腾燎之翼	lie huo teng liao zhi yi	800
+烟花试玩计划	yan hua shi wan ji hua	800
+烤肉香香香卷	kao rou xiang xiang xiang juan	800
+烬城勇者绘卷	jin cheng yong zhe hui juan	800
+热乎乎的鳍游	re hu hu de qi you	800
+燃愿玛瑙断片	ran yuan ma nao duan pian	800
+燃愿玛瑙碎屑	ran yuan ma nao sui xie	800
+爱诺的工具箱	ai nuo de gong ju xiang	800
+特别的御神签	te bie de yu shen qian	800
+特诺奇兹托克	te nuo qi zi tuo ke	800
+特辖地研究所	te xia di yan jiu suo	800
+狂蔓隙境原体	kuang man xi jing yuan ti	800
+狮牙辉影疾斗	shi ya hui ying ji dou	800
+猎龙者的犒赏	lie long zhe de kao shang	800
+猛犬管理规范	meng quan guan li gui fan	800
+玛丽安的故事	ma li an de gu shi	800
+玛海菈的水色	ma hai la de shui se	800
+理水叠山真君	li shui die shan zhen jun	800
+生长碧翡断片	sheng zhang bi fei duan pian	800
+生长碧翡碎屑	sheng zhang bi fei sui xie	800
+由风捎来的信	you feng shao lai de xin	800
+留云借风真君	liu yun jie feng zhen jun	800
+白夜国晨昏记	bai ye guo chen hun ji	800
+白汁时蔬烩肉	bai zhi shi shu hui rou	800
+盗宝团·斥候	dao bao tuan chi hou	800
+盗宝团·杂工	dao bao tuan za gong	800
+破烂骨头商店	po lan gu tou shang dian	800
+碎石隙境原体	sui shi xi jing yuan ti	800
+磐陀裂生之花	pan tuo lie sheng zhi hua	800
+礁与浪的相逢	jiao yu lang de xiang feng	800
+神奇的沉浮球	shen qi de chen fu qiu	800
+神明罐装知识	shen ming guan zhuang zhi shi	800
+神里家家政官	shen li jia jia zheng guan	800
+科斯特利茨基	ke si te li ci ji	800
+秘诲揭示之书	mi hui jie shi zhi shu	800
+移霄导天真君	yi xiao dao tian zhen jun	800
+稠汁蔬菜炖肉	chou zhi shu cai dun rou	800
+稻妻时尚入门	dao qi shi shang ru men	800
+稽古·恶王亭	ji gu e wang ting	800
+穆胡鲁宝石铺	mu hu lu bao shi pu	800
+穹境示现之夜	qiong jing shi xian zhi ye	800
+篝火边的欢腾	gou huo bian de huan teng	800
+米卡·施密特	mi ka shi mi te	800
+糖雕·伊涅芙	tang diao yi nie fu	800
+糖雕·凛角鹿	tang diao lin jiao lu	800
+糖雕·叶洛亚	tang diao ye luo ya	800
+糖雕·奈芙尔	tang diao nai fu er	800
+糖雕·帔髦獾	tang diao pei mao huan	800
+糖雕·海崖鹦	tang diao hai ya ying	800
+糖雕·莉奈娅	tang diao li nai ya	800
+糖雕·菈乌玛	tang diao la wu ma	800
+糖雕·菲林斯	tang diao fei lin si	800
+糖雕·雅珂达	tang diao ya ke da	800
+糖雕·霜鳍鲸	tang diao shuang qi jing	800
+纳博内番茄盅	na bo nei fan qie zhong	800
+纳齐森科鲁兹	na qi sen ke lu zi	800
+纺坠终久之梦	fang zhui zhong jiu zhi meng	800
+织月者的曙色	zhi yue zhe de shu se	800
+织识者的倾醉	zhi shi zhe de qing zui	800
+终北的夜行诗	zhong bei de ye xing shi	800
+终天的闭幕曲	zhong tian de bi mu qu	800
+终有独行之日	zhong you du xing zhi ri	800
+终末嗟叹之诗	zhong mo jie tan zhi shi	800
+绝境求生烤鱼	jue jing qiu sheng kao yu	800
+缤纷蹈险奇行	bin fen dao xian qi xing	800
+美梦帕伊提提	mei meng pa yi ti ti	800
+聚燃的游像眼	ju ran de you xiang yan	800
+能量提取装置	neng liang ti qu zhuang zhi	800
+自体自身之塔	zi ti zi shen zhi ta	800
+自在松石断片	zi zai song shi duan pian	800
+自在松石碎屑	zi zai song shi sui xie	800
+自然哲学学院	zi ran zhe xue xue yuan	800
+艾拉·马斯克	ai la ma si ke	800
+芒索斯山东麓	mang suo si shan dong lu	800
+芬德尼尔之顶	fen de ni er zhi ding	800
+芭芭拉·佩奇	ba ba la pei qi	800
+花海甘露之光	hua hai gan lu zhi guang	800
+苍古自由之誓	cang gu zi you zhi shi	800
+苍天清风之翼	cang tian qing feng zhi yi	800
+草之寻宝罗盘	cao zhi xun bao luo pan	800
+草神瞳共鸣石	cao shen tong gong ming shi	800
+荣花竞捷之争	rong hua jing jie zhi zheng	800
+荣誉骑士哥哥	rong yu qi shi ge ge	800
+荣誉骑士姐姐	rong yu qi shi jie jie	800
+莱艮芬德家族	lai gen fen de jia zu	800
+菅名卡帕奇莉	jian ming ka pa qi li	800
+菲利斯·尤格	fei li si you ge	800
+虹雨的祭祀庭	hong yu de ji si ting	800
+蛋包饭圆舞曲	dan bao fan yuan wu qu	800
+蝎尾鬃狮之章	xie wei zong shi zhi zhang	800
+蟹之主的宫殿	xie zhi zhu de gong dian	800
+血染黑的骑士	xue ran hei de qi shi	800
+衔勇诚砺之证	xian yong cheng li zhi zheng	800
+被怜爱的少女	bei lian ai de shao nv	800
+被浸染的缨盔	bei jin ran de ying kui	800
+西福斯的月光	xi fu si de yue guang	800
+角斗士的凯旋	jue dou shi de kai xuan	800
+角斗士的希冀	jue dou shi de xi ji	800
+角斗士的归宿	jue dou shi de gui su	800
+角斗士的留恋	jue dou shi de liu lian	800
+角斗士的酣醉	jue dou shi de han zui	800
+许伯利翁哀歌	xu bo li weng ai ge	800
+试验型超燃灯	shi yan xing chao ran deng	800
+调查小队队长	diao cha xiao dui dui zhang	800
+谋识者的面影	mou shi zhe de mian ying	800
+谐律异想断章	xie lv yi xiang duan zhang	800
+谕示裁定枢机	yu shi cai ding shu ji	800
+谢贝蕾妲小姐	xie bei lei da xiao jie	800
+豚兽 大王!	tun shou da wang	800
+贝瑟·埃尔顿	bei se ai er dun	800
+贤者(称号)	xian zhe cheng hao	800
+赝月的研究所	yan yue de yan jiu suo	800
+超级至尊披萨	chao ji zhi zun pi sa	800
+轰雷电光斩!	hong lei dian guang zhan	800
+辞行久远之躯	ci xing jiu yuan zhi qu	800
+辣味时蔬烩肉	la wei shi shu hui rou	800
+过熟的火榴果	guo shu de huo liu guo	800
+还没尽…兴…	hai mei jin xing	800
+远吕羽氏遗事	yuan lv yu shi yi shi	800
+远海诗夏游纪	yuan hai shi xia you ji	800
+迷错幻渺之境	mi cuo huan miao zhi jing	800
+选你喜欢的！	xuan ni xi huan de	800
+遗落的能量块	yi luo de neng liang kuai	800
+那维莱特大人	na wei lai te da ren	800
+野伏·机巧番	ye fu ji qiao fan	800
+野伏·火附番	ye fu huo fu fan	800
+野伏·阵刀番	ye fu zhen dao fan	800
+金琮天行之翼	jin cong tian xing zhi yi	800
+金目乘黄月驹	jin mu cheng huang yue ju	800
+金翅鹏王之章	jin chi peng wang zhi zhang	800
+钥匙是易丢品	yao shi shi yi diu pin	800
+铁甲熔火帝皇	tie jia rong huo di huang	800
+银翎翦玉玄鸟	yin ling jian yu xuan niao	800
+销虹霁雨真君	xiao hong ji yu zhen jun	800
+镌识者的鸦翎	juan shi zhe de ya ling	800
+长野原烟花店	zhang ye yuan yan hua dian	800
+长野原龙之介	zhang ye yuan long zhi jie	800
+门扉前的弈局	men fei qian de yi ju	800
+阿兰·吉约丹	a lan ji yue dan	800
+阿赫玛尔之眼	a he ma er zhi yan	800
+阿赫玛尔之须	a he ma er zhi xu	800
+陆行岩本真蕈	lu xing yan ben zhen xun	800
+陆行水本真蕈	lu xing shui ben zhen xun	800
+雪翅雁童话集	xue chi yan tong hua ji	800
+雷之寻宝罗盘	lei zhi xun bao luo pan	800
+雷斧丘丘暴徒	lei fu qiu qiu bao tu	800
+雷神瞳共鸣石	lei shen tong gong ming shi	800
+雷腾云奔之翼	lei teng yun ben zhi yi	800
+雷霆引爆计划	lei ting yin bao ji hua	800
+雾海与树之祭	wu hai yu shu zhi ji	800
+震雷连山密宫	zhen lei lian shan mi gong	800
+霜夜巡天灵主	shuang ye xun tian ling zhu	800
+霜结的誓金枝	shuang jie de shi jin zhi	800
+静水流涌之辉	jing shui liu yong zhi hui	800
+非有非无之笼	fei you fei wu zhi long	800
+非自愿的祭献	fei zi yuan de ji xian	800
+风之寻宝罗盘	feng zhi xun bao luo pan	800
+风神瞳共鸣石	feng shen tong gong ming shi	800
+首席炼金术士	shou xi lian jin shu shi	800
+马夸胡伊特尔	ma kua hu yi te er	800
+马萨拉芝士球	ma sa la zhi shi qiu	800
+马西娜·努伊	ma xi na nu yi	800
+骑士染血之时	qi shi ran xue zhi shi	800
+高压水流溢口	gao ya shui liu yi kou	800
+魔女常燃之羽	mo nv chang ran zhi yu	800
+魔女的心之火	mo nv de xin zhi huo	800
+魔女的炎之花	mo nv de yan zhi hua	800
+魔女破灭之时	mo nv po mie zhi shi	800
+鳍游龙小玩偶	qi you long xiao wan ou	800
+鸣海栖霞真君	ming hai qi xia zhen jun	800
+鸣神岛·天守	ming shen dao tian shou	800
+鹤径折旋之所	he jing zhe xuan zhi suo	800
+黄金(称号)	huang jin cheng hao	800
+黎明破晓之史	li ming po xiao zhi shi	800
+龙像的无智核	long xiang de wu zhi he	800
+龙医生的困境	long yi sheng de kun jing	800
+龙蛇藏归辑录	long she cang gui ji lu	800
+龙选者的旅迹	long xuan zhe de lv ji	800
+455特饮	te yin	800
+《召唤王》	zhao huan wang	800
+「咕噜噜」	gu lu lu	800
+「小王子」	xiao wang zi	800
+「悬木人」	xuan mu ren	800
+「清籁丸」	qing lai wan	800
+「烟谜主」	yan mi zhu	800
+「留念镜」	liu nian jing	800
+「白手套」	bai shou tao	800
+「科西霍」	ke xi huo	800
+「维拉庇」	wei la bi	800
+「花羽会」	hua yu hui	800
+「蟹沙皇」	xie sha huang	800
+「金盏花」	jin zhan hua	800
+七色悠悠像	qi se you you xiang	800
+万劫之真意	wan jie zhi zhen yi	800
+三界路飨祭	san jie lu xiang ji	800
+三碗不过港	san wan bu guo gang	800
+不凋的绢华	bu diao de juan hua	800
+不好笑吗？	bu hao xiao ma	800
+不祥的面具	bu xiang de mian ju	800
+且住亭御咄	qie zhu ting yu duo	800
+丘丘岩盔王	qiu qiu yan kui wang	800
+丘丘雷兜王	qiu qiu lei dou wang	800
+丘丘霜铠王	qiu qiu shuang kai wang	800
+丘尔德里克	qiu er de li ke	800
+东花坊时雨	dong hua fang shi yu	800
+东风的吐息	dong feng de tu xi	800
+丝切铗之章	si qie jia zhi zhang	800
+两个铳枪手	liang ge chong qiang shou	800
+丰饶的祝愿	feng rao de zhu yuan	800
+临时主矿道	lin shi zhu kuang dao	800
+丹颈长翎鹮	dan jing zhang ling huan	800
+为了龙伙伴	wei le long huo ban	800
+丽莎·敏兹	li sha min zi	800
+义卖与妙想	yi mai yu miao xiang	800
+乐团的晨光	yue tuan de chen guang	800
+乘浪的回旋	cheng lang de hui xuan	800
+九果甘露饮	jiu guo gan lu yin	800
+乾坤摩拉肉	qian kun mo la rou	800
+云蒸奇遇记	yun zheng qi yu ji	800
+亚洛辛斯基	ya luo xin si ji	800
+亥珀波瑞亚	hai po bo rui ya	800
+亵渎的新芽	xie du de xin ya	800
+他们的童年	ta men de tong nian	800
+伊凡诺维奇	yi fan nuo wei qi	800
+伊尔明苏尔	yi er ming su er	800
+伊斯托利亚	yi si tuo li ya	800
+伊比尼伯龙	yi bi ni bo long	800
+伊黎耶之歌	yi li ye zhi ge	800
+伊黎耶林区	yi li ye lin qu	800
+伏尼契商会	fu ni qi shang hui	800
+优兰尼娅湖	you lan ni ya hu	800
+伞盖的荫蔽	san gai de yin bi	800
+伸缩岩蕈兽	shen suo yan xun shou	800
+伸缩火蕈兽	shen suo huo xun shou	800
+伸缩风蕈兽	shen suo feng xun shou	800
+佩蕾·努伊	pei lei nu yi	800
+便携动力锯	bian xie dong li ju	800
+候召的厅堂	hou zhao de ting tang	800
+偶现之委托	ou xian zhi wei tuo	800
+傀儡的悬丝	kui lei de xuan si	800
+元能构装体	yuan neng gou zhuang ti	800
+光华容彩祭	guang hua rong cai ji	800
+光昼影底集	guang zhou ying di ji	800
+克莱门汀线	ke lai men ting xian	800
+全能美食队	quan neng mei shi dui	800
+公义的酬报	gong yi de chou bao	800
+兰巴德酒馆	lan ba de jiu guan	800
+兰穆护昆达	lan mu hu kun da	800
+兽境的裂隙	shou jing de lie xi	800
+兽肉薄荷卷	shou rou bo he juan	800
+内田幸太郎	nei tian xing tai lang	800
+冒险家协会	mao xian jia xie hui	800
+冒险家蛋堡	mao xian jia dan bao	800
+冒险家试炼	mao xian jia shi lian	800
+农民的宝藏	nong min de bao zang	800
+冰丘丘萨满	bing qiu qiu sa man	800
+冰弹丘丘人	bing dan qiu qiu ren	800
+冰深渊法师	bing shen yuan fa shi	800
+冰盾丘丘人	bing dun qiu qiu ren	800
+冰箭丘丘人	bing jian qiu qiu ren	800
+冰钩钩果汁	bing gou gou guo zhi	800
+冰雾花花朵	bing wu hua hua duo	800
+冰霜骗骗花	bing shuang pian pian hua	800
+冰（元素）	bing yuan su	800
+冲锋丘丘人	chong feng qiu qiu ren	800
+决斗代理人	jue dou dai li ren	800
+冷冽巨斧鱼	leng lie ju fu yu	800
+净炼火之章	jing lian huo zhi zhang	800
+净琉璃工坊	jing liu li gong fang	800
+凝恒的脂蜡	ning heng de zhi la	800
+凯雷丝之翼	kai lei si zhi yi	800
+凶将之手眼	xiong jiang zhi shou yan	800
+刻拉蒂之眼	ke la di zhi yan	800
+前进测绘员	qian jin ce hui yuan	800
+剑鱼二番队	jian yu er fan dui	800
+劳伦斯家族	lao lun si jia zu	800
+劳姆希尔妲	lao mu xi er da	800
+勇士的冠冕	yong shi de guan mian	800
+勇士的勋章	yong shi de xun zhang	800
+勇士的壮行	yong shi de zhuang xing	800
+勇士的期许	yong shi de qi xu	800
+北地烟熏鸡	bei di yan xun ji	800
+北陆弓原胚	bei lu gong yuan pei	800
+北风的魂匣	bei feng de hun xia	800
+千夜故事集	qian ye gu shi ji	800
+千柱的花园	qian zhu de hua yuan	800
+半自动锤锻	ban zi dong chui duan	800
+华丽的宝箱	hua li de bao xiang	800
+南十字船队	nan shi zi chuan dui	800
+南天门之谜	nan tian men zhi mi	800
+博蒙特工坊	bo meng te gong fang	800
+卡斯蒂廖内	ka si di liao nei	800
+卡皮托林山	ka pi tuo lin shan	800
+卡萨扎莱宫	ka sa zha lai gong	800
+卫从的木哨	wei cong de mu shao	800
+厄布拉神柱	e bu la shen zhu	800
+历战的箭簇	li zhan de jian cu	800
+历练的猎弓	li lian de lie gong	800
+厚云朵松饼	hou yun duo song bing	800
+厚羽围脖雉	hou yu wei bo zhi	800
+厨子的诉说	chu zi de su shuo	800
+参量质变仪	can liang zhi bian yi	800
+双角的花冠	shuang jiao de hua guan	800
+双辉长翎鹮	shuang hui zhang ling huan	800
+发酵果实汁	fa jiao guo shi zhi	800
+口袋魔导书	kou dai mo dao shu	800
+古华深秘。	gu hua shen mi	800
+古老的颜色	gu lao de yan se	800
+古雷试炼场	gu lei shi lian chang	800
+史莱姆凝液	shi lai mu ning ye	800
+史莱姆原浆	shi lai mu yuan jiang	800
+叶卡捷琳娜	ye ka jie lin na	800
+合成台疑案	he cheng tai yi an	800
+向冬日回归	xiang dong ri hui gui	800
+向星星许愿	xiang xing xing xu yuan	800
+君子白日闯	jun zi bai ri chuang	800
+吞金和蓄财	tun jin he xu cai	800
+吟游者之壶	yin you zhe zhi hu	800
+启喻鸟之章	qi yu niao zhi zhang	800
+命运的织机	ming yun de zhi ji	800
+咚咚小圆帽	dong dong xiao yuan mao	800
+咦？纳塔？	yi na ta	800
+哀叙冰玉块	ai xu bing yu kuai	800
+哀铃的余响	ai ling de yu xiang	800
+哈瓦玛玛兹	ha wa ma ma zi	800
+唐杜尔烤鸡	tang du er kao ji	800
+唯一的真相	wei yi de zhen xiang	800
+喂，出来！	wei chu lai	800
+嘟嘟大魔王	du du da mo wang	800
+噩梦的温床	e meng de wen chuang	800
+四叶草之章	si ye cao zhi zhang	800
+四处捣乱球	si chu dao luan qiu	800
+团结之魔法	tuan jie zhi mo fa	800
+图比昂装置	tu bi ang zhuang zhi	800
+圣火竞技场	sheng huo jing ji chang	800
+地中的香海	di zhong de xiang hai	800
+地脉的新芽	di mai de xin ya	800
+地脉的旧枝	di mai de jiu zhi	800
+地脉的枯叶	di mai de ku ye	800
+坚果与螺钉	jian guo yu luo ding	800
+坚牢黄玉块	jian lao huang yu kuai	800
+坚盾重甲蟹	jian dun zhong jia xie	800
+埃尔顿海沟	ai er dun hai gou	800
+埃斯特拉冈	ai si te la gang	800
+堕天的落羽	duo tian de luo yu	800
+塔塞斯杂烩	ta sai si za hui	800
+塔尼特部族	ta ni te bu zu	800
+塔拉塔海谷	ta la ta hai gu	800
+塞西莉亚花	sai xi li ya hua	800
+士官的徽记	shi guan de hui ji	800
+夜巡的先声	ye xun de xian sheng	800
+夜色明眼鱼	ye se ming yan yu	800
+大天使海兔	da tian shi hai tu	800
+大梦的醒转	da meng de xing zhuan	800
+天下人之章	tian xia ren zhi zhang	800
+天使的馈赠	tian shi de kui zeng	800
+天光的纺琴	tian guang de fang qin	800
+天动万象。	tian dong wan xiang	800
+天理长驱。	tian li chang qu	800
+天目影打刀	tian mu ying da dao	800
+天目锻冶屋	tian mu duan ye wu	800
+央陆弓原胚	yang lu gong yuan pei	800
+失梦的国土	shi meng de guo tu	800
+失梦的苗圃	shi meng de miao pu	800
+失色的焰剑	shi se de yan jian	800
+失落的月庭	shi luo de yue ting	800
+失落的苗圃	shi luo de miao pu	800
+夹心土豆泥	jia xin tu dou ni	800
+奇怪的〇〇	qi guai de ling ling	800
+奇特的羽毛	qi te de yu mao	800
+奇特的零件	qi te de ling jian	800
+奇石历险记	qi shi li xian ji	800
+奇鼓跳跳菇	qi gu tiao tiao gu	800
+奔狼的领主	ben lang de ling zhu	800
+奔霄颂玉轮	ben xiao song yu lun	800
+奥奇卡纳塔	ao qi ka na ta	800
+奶油蘑菇汤	nai you mo gu tang	800
+奶油鲑鱼汤	nai you gui yu tang	800
+好奇的帕琪	hao qi de pa qi	800
+如雷的盛怒	ru lei de sheng nu	800
+娜娜丝梨饼	na na si li bing	800
+子探测单元	zi tan ce dan yuan	800
+孑遗的留迹	jie yi de liu ji	800
+孔雀羽之章	kong que yu zhi zhang	800
+孤岛诊疗谭	gu dao zhen liao tan	800
+孤独的海兽	gu du de hai shou	800
+孤舰履孤云	gu jian lv gu yun	800
+学士的书签	xue shi de shu qian	800
+学士的墨杯	xue shi de mo bei	800
+学士的时钟	xue shi de shi zhong	800
+学士的羽笔	xue shi de yu bi	800
+学士的镜片	xue shi de jing pian	800
+守狱犬之章	shou yu quan zhi zhang	800
+安东·罗杰	an dong luo jie	800
+安德烈亚斯	an de lie ya si	800
+安提戈努斯	an ti ge nu si	800
+宗室秘法录	zong shi mi fa lu	800
+宝石独角鱼	bao shi du jiao yu	800
+宝饰的焰剑	bao shi de yan jian	800
+审判火焰菇	shen pan huo yan gu	800
+审判的晚宴	shen pan de wan yan	800
+客从远方来	ke cong yuan fang lai	800
+寂静圆满期	ji jing yuan man qi	800
+寄想者剧场	ji xiang zhe ju chang	800
+密固的横脊	mi gu de heng ji	800
+寒鸦的系谱	han ya de xi pu	800
+寝子是只猫	qin zi shi zhi mao	800
+寝正月初晴	qin zheng yue chu qing	800
+寻得龙蛇踪	xun de long she zong	800
+导光四面体	dao guang si mian ti	800
+射手丘丘人	she shou qiu qiu ren	800
+尉官的徽记	wei guan de hui ji	800
+小吉祥草王	xiao ji xiang cao wang	800
+小小阿夏包	xiao xiao a xia bao	800
+小心着凉。	xiao xin zhao liang	800
+小露米埃尔	xiao lu mi ai er	800
+小魔女辞典	xiao mo nv ci dian	800
+尼可·莱恩	ni ke lai en	800
+山珍凉卤面	shan zhen liang lu mian	800
+山珍热卤面	shan zhen re lu mian	800
+山脉的横裂	shan mai de heng lie	800
+山风的荆冕	shan feng de jing mian	800
+岩丘丘萨满	yan qiu qiu sa man	800
+岩盾丘丘人	yan dun qiu qiu ren	800
+岩（元素）	yan yuan su	800
+巡夜者战争	xun ye zhe zhan zheng	800
+巡林官精选	xun lin guan jing xuan	800
+巨大的贝壳	ju da de bei ke	800
+巨渊主矿区	ju yuan zhu kuang qu	800
+巨渊的馈赠	ju yuan de kui zeng	800
+巴螺迦修那	ba luo jia xiu na	800
+布法蒂公馆	bu fa di gong guan	800
+帕卡·努伊	pa ka nu yi	800
+帕托利切夫	pa tuo li qie fu	800
+帕特里西亚	pa te li xi ya	800
+帕维兹拉万	pa wei zi la wan	800
+帝皇的决断	di huang de jue duan	800
+幕前二三言	mu qian er san yan	800
+幻形蟹·水	huan xing xie shui	800
+幻礼·星兆	huan li xing zhao	800
+幽夜华尔兹	you ye hua er zi	800
+幽幽大行军	you you da xing jun	800
+广海的守望	guang hai de shou wang	800
+庄园烤松饼	zhuang yuan kao song bing	800
+库珀·努伊	ku po nu yi	800
+库胡勒阿乔	ku hu lei a qiao	800
+庙前的叩问	miao qian de kou wen	800
+异世界行记	yi shi jie xing ji	800
+异界生命核	yi jie sheng ming he	800
+异端的瓶剂	yi duan de ping ji	800
+异色结晶石	yi se jie jing shi	800
+归家的微光	gui jia de wei guang	800
+彩鹞栉春风	cai yao zhi chun feng	800
+御用在他乡	yu yong zai ta xiang	800
+御舆源一郎	yu yu yuan yi lang	800
+御舆源次郎	yu yu yuan ci lang	800
+德波大饭店	de bo da fan dian	800
+志村勘兵卫	zhi cun kan bing wei	800
+怀宝应自珍	huai bao ying zi zhen	800
+总得喝一杯	zong dei he yi bei	800
+悠久的磐岩	you jiu de pan yan	800
+悠悠度假村	you you du jia cun	800
+悠悠慢庄园	you you man zhuang yuan	800
+惑光的阔叶	huo guang de kuo ye	800
+戈里尼什青	ge li ni shen qing	800
+战士的铁哨	zhan shi de tie shao	800
+战歌吟唱时	zhan ge yin chang shi	800
+战狂的时计	zhan kuang de shi ji	800
+战狂的翎羽	zhan kuang de ling yu	800
+战狂的蔷薇	zhan kuang de qiang wei	800
+战狂的骨杯	zhan kuang de gu bei	800
+战狂的鬼面	zhan kuang de gui mian	800
+戴因斯雷布	dai yin si lei bu	800
+扎坎小吃摊	zha kan xiao chi tan	800
+打手丘丘人	da shou qiu qiu ren	800
+托佐兹之岛	tuo zuo zi zhi dao	800
+执望三千里	zhi wang san qian li	800
+执灯人誓言	zhi deng ren shi yan	800
+扭曲的枯枝	niu qu de ku zhi	800
+承光的鳞羽	cheng guang de lin yu	800
+折光的胚芽	zhe guang de pei ya	800
+拟星的台座	ni xing de tai zuo	800
+拳力斗技场	quan li dou ji chang	800
+指挥的礼帽	zhi hui de li mao	800
+振晶的研究	zhen jing de yan jiu	800
+捕风的归客	bu feng de gui ke	800
+提瓦特忆册	ti wa te yi ce	800
+提瓦特忆画	ti wa te yi hua	800
+提瓦特焦蛋	ti wa te jiao dan	800
+提瓦特煎蛋	ti wa te jian dan	800
+提纳里师父	ti na li shi fu	800
+摇·滚·鸡	yao gun ji	800
+摩拉急速来	mo la ji su lai	800
+支离武备所	zhi li wu bei suo	800
+故事构思法	gu shi gou si fa	800
+教官的帽子	jiao guan de mao zi	800
+教官的怀表	jiao guan de huai biao	800
+教官的羽饰	jiao guan de yu shi	800
+教官的胸花	jiao guan de xiong hua	800
+教官的茶杯	jiao guan de cha bei	800
+斑目百兵卫	ban mu bai bing wei	800
+断罪之皇女	duan zui zhi huang nv	800
+斯克弗努格	si ke fu nu ge	800
+斯卡拉姆齐	si ka la mu qi	800
+斯彭西安号	si peng xi an hao	800
+斯露莎大人	si lu sha da ren	800
+新兵的徽记	xin bing de hui ji	800
+新手盗宝鼬	xin shou dao bao you	800
+旅者环形山	lv zhe huan xing shan	800
+旅途拾光集	lv tu shi guang ji	800
+旋转冰蕈兽	xuan zhuan bing xun shou	800
+旋转火蕈兽	xuan zhuan huo xun shou	800
+旋转雷蕈兽	xuan zhuan lei xun shou	800
+无主的命星	wu zhu de ming xing	800
+无主的星尘	wu zhu de xing chen	800
+无主的星辉	wu zhu de xing hui	800
+无人的庭园	wu ren de ting yuan	800
+无光的深都	wu guang de shen dou	800
+无处可逃！	wu chu ke tao	800
+无奇巨斧鱼	wu qi ju fu yu	800
+无心的渊镜	wu xin de yuan jing	800
+无想刃狭间	wu xiang ren xia jian	800
+无想的一刀	wu xiang de yi dao	800
+无槌敲菇法	wu chui qiao gu fa	800
+日落莓莓茶	ri luo mei mei cha	800
+日落鲷鱼烧	ri luo diao yu shao	800
+旧识与新知	jiu shi yu xin zhi	800
+时间之执政	shi jian zhi zhi zheng	800
+明目之油膏	ming mu zhi you gao	800
+春曦画桃符	chun xi hua tao fu	800
+晚霞翻车鲀	wan xia fan che tun	800
+普普通通球	pu pu tong tong qiu	800
+普茹斯蒂司	pu ru si di si	800
+普通的宝箱	pu tong de bao xiang	800
+晴雨的经纬	qing yu de jing wei	800
+智慧主之章	zhi hui zhu zhi zhang	800
+暗处的规则	an chu de gui ze	800
+曙红即兴诗	shu hong ji xing shi	800
+曜石图腾柱	yao shi tu teng zhu	800
+曲生酌微梦	qu sheng zhuo wei meng	800
+最后的审判	zui hou de shen pan	800
+最后的问题	zui hou de wen ti	800
+最胜紫晶块	zui sheng zi jing kuai	800
+最高审判官	zui gao shen pan guan	800
+月光中共舞	yue guang zhong gong wu	800
+月光奏鸣曲	yue guang zou ming qu	800
+月浴渊之钥	yue yu yuan zhi yao	800
+月童的库藏	yue tong de ku cang	800
+有乐御簾切	you le yu lian qie	800
+有香自西来	you xiang zi xi lai	800
+木盾丘丘人	mu dun qiu qiu ren	800
+未熄的剑柄	wei xi de jian bing	800
+未竟的遐思	wei jing de xia si	800
+朱羽古团雀	zhu yu gu tuan que	800
+机关正齿轮	ji guan zheng chi lun	800
+松茸酿肉卷	song rong niang rou juan	800
+极限驱策法	ji xian qu ce fa	800
+林居狂语期	lin ju kuang yu qi	800
+枫丹洋葱汤	feng dan yang cong tang	800
+枫丹科学院	feng dan ke xue yuan	800
+枯焦的星蕈	ku jiao de xing xun	800
+柱殿中央区	zhu dian zhong yang qu	800
+树王圣体菇	shu wang sheng ti gu	800
+树莓水馒头	shu mei shui man tou	800
+桂木斩长正	gui mu zhan zhang zheng	800
+桃源逗留记	tao yuan dou liu ji	800
+桓斯弥利底	huan si mi li di	800
+桔香鸭胸肉	ju xiang ya xiong rou	800
+桦木蒸肋排	hua mu zheng le pai	800
+梅洛彼得堡	mei luo bi de bao	800
+梅落雪间醉	mei luo xue jian zui	800
+梦见月瑞希	meng jian yue rui xi	800
+棱光的断尾	leng guang de duan wei	800
+楚普卡塔津	chu pu ka ta jin	800
+欧科塔维亚	ou ke ta wei ya	800
+正中靶心！	zheng zhong ba xin	800
+此乃天道。	ci nai tian dao	800
+此诗送此城	ci shi song ci cheng	800
+此路不通？	ci lu bu tong	800
+武人的羽饰	wu ren de yu shi	800
+武人的酒杯	wu ren de jiu bei	800
+武者的宿命	wu zhe de su ming	800
+残失的焰剑	can shi de yan jian	800
+残毁的剑柄	can hui de jian bing	800
+残毁的横脊	can hui de heng ji	800
+残酷嘟嘟莲	can ku du du lian	800
+气泡酸莓汁	qi pao suan mei zhi	800
+水丘丘萨满	shui qiu qiu sa man	800
+水仙十字院	shui xian shi zi yuan	800
+水仙的追迹	shui xian de zhui ji	800
+水底的日子	shui di de ri zi	800
+水晶浮游花	shui jing fu you hua	800
+水月侠行记	shui yue xia xing ji	800
+水深渊法师	shui shen yuan fa shi	800
+水煮黑背鲈	shui zhu hei bei lu	800
+水（元素）	shui yuan su	800
+永恒的信仰	yong heng de xin yang	800
+求学漫漫路	qiu xue man man lu	800
+江村一玄斋	jiang cun yi xuan zhai	800
+池田总四郎	chi tian zong si lang	800
+污秽的面具	wu hui de mian ju	800
+沃特蒙泰涅	wo te meng tai nie	800
+沉秋拾剑录	chen qiu shi jian lu	800
+没有未来菜	mei you wei lai cai	800
+河谷的黯道	he gu de an dao	800
+泉有重喷日	quan you zhong pen ri	800
+法留纳法宝	fa liu na fa bao	800
+法留纳神机	fa liu na shen ji	800
+法逻斯灯塔	fa luo si deng ta	800
+泡泡舒芙蕾	pao pao shu fu lei	800
+泡泡雄海马	pao pao xiong hai ma	800
+泽拉沃米尔	ze la wo mi er	800
+洁净与健康	jie jing yu jian kang	800
+洋红扇尾鸽	yang hong shan wei ge	800
+活化的星蕈	huo hua de xing xun	800
+流彩的踪迹	liu cai de zong ji	800
+流放者之杯	liu fang zhe zhi bei	800
+流放者之羽	liu fang zhe zhi yu	800
+流放者之花	liu fang zhe zhi hua	800
+流放者头冠	liu fang zhe tou guan	800
+流放者怀表	liu fang zhe huai biao	800
+流明石原矿	liu ming shi yuan kuang	800
+流明石触媒	liu ming shi chu mei	800
+流浪的晚星	liu lang de wan xing	800
+流纹茶蝶鱼	liu wen cha die yu	800
+流纹褐蝶鱼	liu wen he die yu	800
+浊水的一掬	zhuo shui de yi ju	800
+浊水的一滴	zhuo shui de yi di	800
+测绘员蛋堡	ce hui yuan dan bao	800
+浪底的低语	lang di de di yu	800
+浪船修理箱	lang chuan xiu li xiang	800
+浮游晶化核	fu you jing hua he	800
+浮游水蕈兽	fu you shui xun shou	800
+浮游草蕈兽	fu you cao xun shou	800
+海上盛珠钿	hai shang sheng zhu dian	800
+海港鱼鱼堡	hai gang yu yu bao	800
+海灯音乐节	hai deng yin yue jie	800
+海薇玛夫人	hai wei ma fu ren	800
+海螺的回响	hai luo de hui xiang	800
+海螺笔记本	hai luo bi ji ben	800
+海鸟的驻足	hai niao de zhu zu	800
+涂鸦留影机	tu ya liu ying ji	800
+涤净青金块	di jing qing jin kuai	800
+深古瞭望所	shen gu liao wang suo	800
+深林的记忆	shen lin de ji yi	800
+深海舌鲆鱼	shen hai she ping yu	800
+深潮的余响	shen chao de yu xiang	800
+深秘圣物匣	shen mi sheng wu xia	800
+深罪浸礼者	shen zui jin li zhe	800
+深邃拟覆叶	shen sui ni fu ye	800
+深邃摹结株	shen sui mo jie zhu	800
+清籁逐雷记	qing lai zhu lei ji	800
+渊蚀综合征	yuan shi zong he zheng	800
+温妮莎传奇	wen ni sha chuan qi	800
+渴水的废都	ke shui de fei dou	800
+游水酝诗籍	you shui yun shi ji	800
+游炎古琵鹭	you yan gu pi lu	800
+源火之圣座	yuan huo zhi sheng zuo	800
+溢神的猜想	yi shen de cai xiang	800
+溢神的论证	yi shen de lun zheng	800
+溪舟的尾波	xi zhou de wei bo	800
+漆黑的灾难	qi hei de zai nan	800
+漩涡之魔神	xuan wo zhi mo shen	800
+漩涡的余威	xuan wo de yu wei	800
+漫光的辉角	man guang de hui jiao	800
+漫水的古迹	man shui de gu ji	800
+澄晶果粒饵	cheng jing guo li er	800
+火深渊法师	huo shen yuan fa shi	800
+火火肉酱面	huo huo rou jiang mian	800
+火箭丘丘人	huo jian qiu qiu ren	800
+火（元素）	huo yuan su	800
+灰河街斗士	hui he jie dou shi	800
+灰灰楼林木	hui hui lou lin mu	800
+灵濛山夜话	ling meng shan ye hua	800
+炉火的往迹	lu huo de wang ji	800
+炸萝卜丸子	zha luo bo wan zi	800
+炽热骗骗花	chi re pian pian hua	800
+炽铁巨斧鱼	chi tie ju fu yu	800
+烈焰花花蕊	lie yan hua hua rui	800
+烤蘑菇披萨	kao mo gu pi sa	800
+烬火炽燃所	jin huo chi ran suo	800
+焚真之天象	fen zhen zhi tian xiang	800
+焚风试炼处	fen feng shi lian chu	800
+熔岩辉龙像	rong yan hui long xiang	800
+熔铁的孤塞	rong tie de gu sai	800
+燃愿玛瑙块	ran yuan ma nao kuai	800
+爆弹丘丘人	bao dan qiu qiu ren	800
+爪爪土豆饼	zhao zhao tu dou bing	800
+牢固的箭簇	lao gu de jian cu	800
+特定的道路	te ding de dao lu	800
+特鸟兹特利	te niao zi te li	800
+狂人的约束	kuang ren de yue shu	800
+狄米特列夫	di mi te lie fu	800
+狩夜者战争	shou ye zhe zhan zheng	800
+狭间的叩问	xia jian de kou wen	800
+狼的武功歌	lang de wu gong ge	800
+猫咪事务所	mao mi shi wu suo	800
+玉玉心羽鲈	yu yu xin yu lu	800
+玉纹茶叶蛋	yu wen cha ye dan	800
+现人神巫女	xian ren shen wu nv	800
+玲珑油豆腐	ling long you dou fu	800
+珊瑚宫心海	shan hu gong xin hai	800
+珍贵的宝箱	zhen gui de bao xiang	800
+珐露珊前辈	fa lu shan qian bei	800
+班尼冒险团	ban ni mao xian tuan	800
+琉背古彩龟	liu bei gu cai gui	800
+琴师的箭羽	qin shi de jian yu	800
+瓦凯·努伊	wa kai nu yi	800
+瓦萨里回廊	wa sa li hui lang	800
+甜甜花酿鸡	tian tian hua niang ji	800
+生不出的花	sheng bu chu de hua	800
+生存的方式	sheng cun de fang shi	800
+生长碧翡块	sheng zhang bi fei kuai	800
+电气骗骗花	dian qi pian pian hua	800
+男子汉杰克	nan zi han jie ke	800
+画家漂流记	hua jia piao liu ji	800
+界限的法则	jie xian de fa ze	800
+疗养院旧址	liao yang yuan jiu zhi	800
+白棠珍奇屋	bai tang zhen qi wu	800
+白灵果酿鸡	bai ling guo niang ji	800
+百无禁忌箓	bai wu jin ji lu	800
+百日白白音	bai ri bai bai yin	800
+的粒果片片	de li guo pian pian	800
+皑尘与雪影	ai chen yu xue ying	800
+皮拉米达城	pi la mi da cheng	800
+盛典与慧业	sheng dian yu hui ye	800
+真味茶泡饭	zhen wei cha pao fan	800
+督察长祭刀	du cha zhang ji dao	800
+石化的骨片	shi hua de gu pian	800
+石火坠陨处	shi huo zhui yun chu	800
+破损的面具	po sun de mian ju	800
+破旧的刀镡	po jiu de dao chan	800
+碑碣的记录	bei jie de ji lu	800
+碑铭的研究	bei ming de yan jiu	800
+碧蓝岩居蟹	bi lan yan ju xie	800
+磨损的执凭	mo sun de zhi ping	800
+磬弦奏华夜	qing xian zou hua ye	800
+礼貉出逃记	li hao chu tao ji	800
+祖拜尔剧场	zu bai er ju chang	800
+祝圣交响乐	zhu sheng jiao xiang yue	800
+神乐之真意	shen le zhi zhen yi	800
+神像的恩泽	shen xiang de en ze	800
+神守柏之章	shen shou bai zhi zhang	800
+神射手之誓	shen she shou zhi shi	800
+神明的视线	shen ming de shi xian	800
+神社大扫除	shen she da sao chu	800
+神秘的书页	shen mi de shu ye	800
+神秘的核心	shen mi de he xin	800
+祸神之禊泪	huo shen zhi xi lei	800
+秋分山东侧	qiu fen shan dong ce	800
+秋分山西侧	qiu fen shan xi ce	800
+秋野防灾记	qiu ye fang zai ji	800
+科研的动力	ke yan de dong li	800
+秘源积气喉	mi yuan ji qi hou	800
+秩序水果团	zhi xu shui guo tuan	800
+稚嫩的尖齿	zhi nen de jian chi	800
+稻妻秘见录	dao qi mi jian lu	800
+稻妻销售员	dao qi xiao shou yuan	800
+穰穰瑞雪糕	rang rang rui xue gao	800
+空想俱乐部	kong xiang ju le bu	800
+空梦的起始	kong meng de qi shi	800
+空行的虚铃	kong xing de xu ling	800
+窃火者密岛	qie huo zhe mi dao	800
+童梦的切片	tong meng de qie pian	800
+笼钓瓶一心	long diao ping yi xin	800
+管道转向阀	guan dao zhuan xiang fa	800
+米卢·努伊	mi lu nu yi	800
+粒果膨膨棒	li guo peng peng bang	800
+精致的宝箱	jing zhi de bao xiang	800
+精致的执凭	jing zhi de zhi ping	800
+精锻用杂矿	jing duan yong za kuang	800
+精锻用良矿	jing duan yong liang kuang	800
+精锻用魔矿	jing duan yong mo kuang	800
+糖雕·月灵	tang diao yue ling	800
+糖雕·爱诺	tang diao ai nuo	800
+素素凶凶鲨	su su xiong xiong sha	800
+繁光躯外骸	fan guang qu wai hai	800
+红炉一点雪	hong lu yi dian xue	800
+纳华钦之跃	na hua qin zhi yue	800
+纳瓦特拉利	na wa te la li	800
+纺月的夜歌	fang yue de ye ge	800
+终北祷歌集	zhong bei dao ge ji	800
+终幕的时计	zhong mu de shi ji	800
+绎思振笔集	yi si zhen bi ji	800
+绒绒大王花	rong rong da wang hua	800
+结实的骨片	jie shi de gu pian	800
+绝不菇息！	jue bu gu xi	800
+绝缘之旗印	jue yuan zhi qi yin	800
+绮绘的踪绪	qi hui de zong xu	800
+绯樱天妇罗	fei ying tian fu luo	800
+绯樱虾仙贝	fei ying xia xian bei	800
+维卡拉商栈	wei ka la shang zhan	800
+维恩歌莱号	wei en ge lai hao	800
+维瑟弗尼尔	wei se fu ni er	800
+绵驮兽警长	mian tuo shou jing zhang	800
+综像勘录仪	zong xiang kan lu yi	800
+缝隙间的梦	feng xi jian de meng	800
+缤纷马卡龙	bin fen ma ka long	800
+罪人舞步旋	zui ren wu bu xuan	800
+罪祸的终末	zui huo de zhong mo	800
+羊杂哈吉斯	yang za ha ji si	800
+美味的〇〇	mei wei de ling ling	800
+群山的影子	qun shan de ying zi	800
+翡玉什锦袋	fei yu shi jin dai	800
+翡玉斧枪鱼	fei yu fu qiang yu	800
+老实一点菇	lao shi yi dian gu	800
+老旧的诗琴	lao jiu de shi qin	800
+老练的坚齿	lao lian de jian chi	800
+聚火祭验所	ju huo ji yan suo	800
+聚燃的命种	ju ran de ming zhong	800
+聚燃的石块	ju ran de shi kuai	800
+肉末酿豆腐	rou mo niang dou fu	800
+肉满满寿司	rou man man shou si	800
+肉肉盛宴餐	rou rou sheng yan can	800
+肉酱千层面	rou jiang qian ceng mian	800
+肉馅黑麦包	rou xian hei mai bao	800
+脆弱的骨片	cui ruo de gu pian	800
+脆脆鸡腿堡	cui cui ji tui bao	800
+腰痛的痕迹	yao tong de hen ji	800
+腾蛇太元帅	teng she tai yuan shuai	800
+膨膨冰淇淋	peng peng bing qi lin	800
+膳食均衡餐	shan shi jun heng can	800
+自在松石块	zi zai song shi kuai	800
+至少鱼知道	zhi shao yu zhi dao	800
+致自由之风	zhi zi you zhi feng	800
+艾维雷勒安	ai wei lei lei an	800
+艾迪丝博士	ai di si bo shi	800
+芒性能量块	mang xing neng liang kuai	800
+芒荒中继桩	mang huang zhong ji zhuang	800
+芒荒储物箱	mang huang chu wu xiang	800
+芒荒能量块	mang huang neng liang kuai	800
+芙宁娜女士	fu ning na nv shi	800
+花果三重奏	hua guo san chong zou	800
+花洲有客栈	hua zhou you ke zhan	800
+苍白的遗荣	cang bai de yi rong	800
+苏尔特洛奇	su er te luo qi	800
+苦恼的莉安	ku nao de li an	800
+英灵的残响	ying ling de can xiang	800
+茶会多重奏	cha hui duo chong zou	800
+茶博士刘苏	cha bo shi liu su	800
+荆棘与勋冠	jing ji yu xun guan	800
+草丘丘萨满	cao qiu qiu sa man	800
+草（元素）	cao yuan su	800
+荒废砌造坞	huang fei qi zao wu	800
+荒性能量块	huang xing neng liang kuai	800
+荒野狂狩士	huang ye kuang shou shi	800
+药剂应对法	yao ji ying dui fa	800
+莉安的苦恼	li an de ku nao	800
+莘露的赠礼	shen lu de zeng li	800
+莫里兹提尔	mo li zi ti er	800
+莲子禽蛋羹	lian zi qin dan geng	800
+菲尔戈黛特	fei er ge dai te	800
+萌蘖的竹笋	meng nie de zhu sun	800
+萝卜时蔬汤	luo bo shi shu tang	800
+萨巴桑炸角	sa ba sang zha jiao	800
+蒙德土豆饼	meng de tu dou bing	800
+蒜香面包棍	suan xiang mian bao gun	800
+蒸汽鸟报社	zheng qi niao bao she	800
+蔓草收藏家	man cao shou cang jia	800
+蔬菜罐罐汤	shu cai guan guan tang	800
+蔷薇与铳枪	qiang wei yu chong qiang	800
+蔷薇再开时	qiang wei zai kai shi	800
+蕴光月守宫	yun guang yue shou gong	800
+蕴光月幻蝶	yun guang yue huan die	800
+蕴火的幽墟	yun huo de you xu	800
+蕴热的背壳	yun re de bei ke	800
+薄荷曼果茶	bo he man guo cha	800
+薄荷树莓饮	bo he shu mei yin	800
+薄荷泡泡糖	bo he pao pao tang	800
+薄荷酱烤鱼	bo he jiang kao yu	800
+薙草之稻光	ti cao zhi dao guang	800
+藏金盗宝鼬	cang jin dao bao you	800
+藻海的寻踪	zao hai de xun zong	800
+虹彩史莱姆	hong cai shi lai mu	800
+虹灵的净土	hong ling de jing tu	800
+虹蛇的雨弦	hong she de yu xian	800
+蚀灭的灵犀	shi mie de ling xi	800
+蚀灭的阳焰	shi mie de yang yan	800
+蚀灭的鳞羽	shi mie de lin yu	800
+蛇心的叩问	she xin de kou wen	800
+蟹黄壳壳烧	xie huang ke ke shao	800
+裂断的剑柄	lie duan de jian bing	800
+褪色的剧场	tui shai de ju chang	800
+西蒙·佩奇	xi meng pei qi	800
+西风大教堂	xi feng da jiao tang	800
+西风骑士团	xi feng qi shi tuan	800
+解闷泡泡糖	jie men pao pao tang	800
+讨龙英杰谭	tao long ying jie tan	800
+诀箓阴阳寮	jue lu yin yang liao	800
+证誓之明瞳	zheng shi zhi ming tong	800
+诺思托伊区	nuo si tuo yi qu	800
+谜土的护符	mi tu de hu fu	800
+谜土祭祀场	mi tu ji si chang	800
+谢赫祖拜尔	xie he zu bai er	800
+谷木的残灵	gu mu de can ling	800
+贝雅特丽奇	bei ya te li qi	800
+赝作的树脂	yan zuo de shu zhi	800
+赠予她惊喜	zeng yu ta jing xi	800
+赤红岩居蟹	chi hong yan ju xie	800
+赤角石溃杵	chi jiao shi kui chu	800
+赤金的城墟	chi jin de cheng xu	800
+赫曼努比斯	he man nu bi si	800
+走失的创意	zou shi de chuang yi	800
+走马斩群魔	zou ma zhan qun mo	800
+踏虹破浪！	ta hong po lang	800
+转转悠悠兽	zhuan zhuan you you shou	800
+轻策农家菜	qing ce nong jia cai	800
+轻策家常菜	qing ce jia chang cai	800
+辣肉窝窝头	la rou wo wo tou	800
+辰砂之纺锤	chen sha zhi fang chui	800
+辰砂往生录	chen sha wang sheng lu	800
+达莫维百货	da mo wei bai huo	800
+达达乌帕谷	da da wu pa gu	800
+迅捷剑之章	xun jie jian zhi zhang	800
+这个如何？	zhe ge ru he	800
+远吕羽氏尊	yuan lv yu shi zun	800
+迪亚法饭店	di ya fa fan dian	800
+迫近的客星	po jin de ke xing	800
+追忆之注连	zhui yi zhi zhu lian	800
+逆飞的流星	ni fei de liu xing	800
+遗迹侦察者	yi ji zhen cha zhe	800
+遗迹巡弋者	yi ji xun yi zhe	800
+遗迹歼击者	yi ji jian ji zhe	800
+遗迹防卫者	yi ji fang wei zhe	800
+那伽朱那团	na ga zhu na tuan	800
+邪恶的扩张	xie e de kuo zhang	800
+邪恶的游荡	xie e de you dang	800
+酒庄大扫除	jiu zhuang da sao chu	800
+酥酥羊角包	su su yang jiao bao	800
+酪烤菇菇串	lao kao gu gu chuan	800
+酪香蟹蟹锅	lao xiang xie xie guo	800
+重拳出击鸭	zhong quan chu ji ya	800
+野菇鸡肉串	ye gu ji rou chuan	800
+野蔷薇之章	ye qiang wei zhi zhang	800
+金枪鱼寿司	jin qiang yu shou si	800
+金牌健康餐	jin pai jian kang can	800
+金苹果群岛	jin ping guo qun dao	800
+铓锋锦间裁	mang feng jin jian cai	800
+铛铛七分甜	dang dang qi fen tian	800
+锐利的箭簇	rui li de jian cu	800
+锲纹的横脊	qie wen de heng ji	800
+镂金的宝箱	lou jin de bao xiang	800
+长鬓虎罗阇	zhang bin hu luo du	800
+闲叙邀佳酌	xian xu yao jia zhuo	800
+阿夏的宝库	a xia de bao ku	800
+阿如的倒影	a ru de dao ying	800
+阿折罗造像	a zhe luo zao xiang	800
+阿穆茜华莉	a mu qian hua li	800
+阿索斯物质	a suo si wu zhi	800
+阿莫斯之弓	a mo si zhi gong	800
+降雷的凶兆	jiang lei de xiong zhao	800
+隐匿的谜土	yin ni de mi tu	800
+雅努斯之门	ya nu si zhi men	800
+雨线难画。	yu xian nan hua	800
+雪奈茨维奇	xue nai ci wei qi	800
+雪奈茨芙娜	xue nai ci fu na	800
+雪山再勘测	xue shan zai kan ce	800
+雪山大勘测	xue shan da kan ce	800
+雪葬的星银	xue zang de xing yin	800
+雷丘丘萨满	lei qiu qiu sa man	800
+雷之三重巴	lei zhi san chong ba	800
+雷弹丘丘人	lei dan qiu qiu ren	800
+雷德·米勒	lei de mi lei	800
+雷深渊法师	lei shen yuan fa shi	800
+雷灾的孑遗	lei zai de jie yi	800
+雷箭丘丘人	lei jian qiu qiu ren	800
+雷霆的时计	lei ting de shi ji	800
+雷鸟的怜悯	lei niao de lian min	800
+雷（元素）	lei yuan su	800
+雾切之回光	wu qie zhi hui guang	800
+霜凝的机枢	shuang ning de ji shu	800
+霜夜的柔辉	shuang ye de rou hui	800
+霜夜的残照	shuang ye de can zhao	800
+霜夜的煌荣	shuang ye de huang rong	800
+霜镌的执凭	shuang juan de zhi ping	800
+霞蔚征涛记	xia wei zheng tao ji	800
+露泽咖啡厅	lu ze ka fei ting	800
+霹雳收藏家	pi li shou cang jia	800
+青浪翻车鲀	qing lang fan che tun	800
+青颈长翎鹮	qing jing zhang ling huan	800
+音波共鸣点	yin bo gong ming dian	800
+须婆达之彦	xu po da zhi yan	800
+须弥教令院	xu mi jiao ling yuan	800
+领域守护者	ling yu shou hu zhe	800
+风丘丘萨满	feng qiu qiu sa man	800
+风佑之羽球	feng you zhi yu qiu	800
+风暴后遗症	feng bao hou yi zheng	800
+风涌的高崖	feng yong de gao ya	800
+风物之诗琴	feng wu zhi shi qin	800
+风神与蒙德	feng shen yu meng de	800
+风神杂烩菜	feng shen za hui cai	800
+风花的呼吸	feng hua de hu xi	800
+风（元素）	feng yuan su	800
+飞天大御剑	fei tian da yu jian	800
+飞帽匠戏法	fei mao jiang xi fa	800
+飞彩镌流年	fei cai juan liu nian	800
+飞船休眠仓	fei chuan xiu mian cang	800
+飞雷之弦振	fei lei zhi xian zhen	800
+香嫩椒椒鸡	xiang nen jiao jiao ji	800
+香氛瓶之章	xiang fen ping zhi zhang	800
+香浓土豆泥	xiang nong tu dou ni	800
+香糕塔之章	xiang gao ta zhi zhang	800
+骑士的剑影	qi shi de jian ying	800
+高风的演练	gao feng de yan lian	800
+魔女的小屋	mo nv de xiao wu	800
+魔女的茶会	mo nv de cha hui	800
+魔女的课业	mo nv de ke ye	800
+魔法肉酱面	mo fa rou jiang mian	800
+魔球嘟嘟堡	mo qiu du du bao	800
+鱼线稳定器	yu xian wen ding qi	800
+鱼群大爆发	yu qun da bao fa	800
+鱼鱼咏唱派	yu yu yong chang pai	800
+鲜奶珠珠派	xian nai zhu zhu pai	800
+鲜虾脆薯盏	xian xia cui shu zhan	800
+鲜鱼炖萝卜	xian yu dun luo bo	800
+鲨鲨冲浪板	sha sha chong lang ban	800
+鳗肉茶泡饭	man rou cha pao fan	800
+鸣霞浮生石	ming xia fu sheng shi	800
+鹿野院平藏	lu ye yuan ping cang	800
+黄金猪犬号	huang jin zhu quan hao	800
+黑斑猫之章	hei ban mao zhi zhang	800
+黑曜石奶奶	hei yao shi nai nai	800
+黑泽京之介	hei ze jing zhi jie	800
+龙蜥研究所	long xi yan jiu suo	800
+龙骨花凝珠	long gu hua ning zhu	800
+「不死」	bu si	800
+「余音」	yu yin	800
+「公义」	gong yi	800
+「坎帕」	kan pa	800
+「大姐」	da jie	800
+「小波」	xiao bo	800
+「希顿」	xi dun	800
+「微末」	wei mo	800
+「战羊」	zhan yang	800
+「渔夫」	yu fu	800
+「渔获」	yu huo	800
+「翡翠」	fei cui	800
+「酣畅」	han chang	800
+「铁爪」	tie zhao	800
+「铜锁」	tong suo	800
+「雷吉」	lei ji	800
+「鹰猎」	ying lie	800
+一件小事	yi jian xiao shi	800
+一份通知	yi fen tong zhi	800
+一叶好梦	yi ye hao meng	800
+一场公差	yi chang gong chai	800
+一心净土	yi xin jing tu	800
+一捧绿野	yi peng lv ye	800
+一枚印章	yi mei yin zhang	800
+一梦治愈	yi meng zhi yu	800
+一路顺风	yi lu shun feng	800
+七嗣之虫	qi si zhi chong	800
+七国之印	qi guo zhi yin	800
+七圣召唤	qi sheng zhao huan	800
+七夜由美	qi ye you mei	800
+七天神像	qi tian shen xiang	800
+万文集舍	wan wen ji she	800
+万有铺子	wan you pu zi	800
+万火之瓯	wan huo zhi ou	800
+万火归一	wan huo gui yi	800
+万种母树	wan zhong mu shu	800
+万能钥匙	wan neng yao shi	800
+万风逐花	wan feng zhu hua	800
+三乘种子	san cheng zhong zi	800
+三十人团	san shi ren tuan	800
+三川花祭	san chuan hua ji	800
+三彩团子	san cai tuan zi	800
+三月女神	san yue nv shen	800
+三相众物	san xiang zhong wu	800
+三色档案	san se dang an	800
+上风蚀地	shang feng shi di	800
+下落攻击	xia luo gong ji	800
+下风蚀地	xia feng shi di	800
+不死诅咒	bu si zu zhou	800
+不灭月华	bu mie yue hua	800
+不速之客	bu su zhi ke	800
+世界任务	shi jie ren wu	800
+世界等级	shi jie deng ji	800
+丘丘暴徒	qiu qiu bao tu	800
+丘丘游侠	qiu qiu you xia	800
+丘丘萨满	qiu qiu sa man	800
+东风之爪	dong feng zhi zhao	800
+东风之翎	dong feng zhi ling	800
+丝织之羽	si zhi zhi yu	800
+中原杂碎	zhong yuan za sui	800
+中度冰寒	zhong du bing han	800
+丰年有余	feng nian you yu	800
+丰稔之赐	feng ren zhi ci	800
+丰饶绿洲	feng rao lv zhou	800
+串串三味	chuan chuan san wei	800
+临危受命	lin wei shou ming	800
+临瀑之城	lin pu zhi cheng	800
+为了纳塔	wei le na ta	800
+久利由卖	jiu li you mai	800
+久吕由命	jiu lv you ming	800
+乌乌黑蛋	wu wu hei dan	800
+乌利亚娜	wu li ya na	800
+乌吉恩圈	wu ji en quan	800
+乌娜亚塔	wu na ya ta	800
+乌尔丽克	wu er li ke	800
+乌昆博库	wu kun bo ku	800
+乌沙博蒂	wu sha bo di	800
+乌瑟勋爵	wu se xun jue	800
+乌鲁班巴	wu lu ban ba	800
+乐平波琳	le ping bo lin	800
+乔瑟夫斯	qiao se fu si	800
+九十九物	jiu shi jiu wu	800
+九条裟罗	jiu tiao sha luo	800
+九条镰治	jiu tiao lian zhi	800
+九条阵屋	jiu tiao zhen wu	800
+书抵万金	shu di wan jin	800
+事犹未了	shi you wei liao	800
+云岩裂叶	yun yan lie ye	800
+云来钓叟	yun lai diao sou	800
+五宝腌菜	wu bao yan cai	800
+亚瑟先生	ya se xian sheng	800
+亡者狭廊	wang zhe xia lang	800
+交友之法	jiao you zhi fa	800
+交织之护	jiao zhi zhi hu	800
+人间百态	ren jian bai tai	800
+什锦炒面	shi jin chao mian	800
+今日收获	jin ri shou huo	800
+今谷三郎	jin gu san lang	800
+仓储事务	cang chu shi wu	800
+仙家符箓	xian jia fu lu	800
+仙灵之庭	xian ling zhi ting	800
+仙狐之章	xian hu zhi zhang	800
+仙祖法蜕	xian zu fa tui	800
+仙麟之章	xian lin zhi zhang	800
+代理团长	dai li tuan zhang	800
+以理服人	yi li fu ren	800
+仲夏庭园	zhong xia ting yuan	800
+仿生摹行	fang sheng mo xing	800
+伊丝黛莱	yi si dai lai	800
+伊伊马尼	yi yi ma ni	800
+伊兹帕帕	yi zi pa pa	800
+伊利亚斯	yi li ya si	800
+伊尔玛里	yi er ma li	800
+伊帕库拉	yi pa ku la	800
+伊德里西	yi de li xi	800
+伊斯塔露	yi si ta lu	800
+伊赫安提	yi he an ti	800
+伊黎耶岛	yi li ye dao	800
+休眠菌核	xiu mian jun he	800
+众叶觉蕊	zhong ye jue rui	800
+众岩之里	zhong yan zhi li	800
+优恩花园	you en hua yuan	800
+传心同视	chuan xin tong shi	800
+传说任务	chuan shuo ren wu	800
+传送锚点	chuan song mao dian	800
+伴爪同行	ban zhao tong hang	800
+伽乌迦那	ga wu jia na	800
+伽吠毗陀	ga fei pi tuo	800
+低语森林	di yu sen lin	800
+佐西摩斯	zuo xi mo si	800
+何以击石	he yi ji shi	800
+佛玛洛鳐	fu ma luo yao	800
+佣兵重剑	yong bing zhong jian	800
+佩特莉可	pei te li ke	800
+佩露薇利	pei lu wei li	800
+侦察骑士	zhen cha qi shi	800
+便携轴承	bian xie zhou cheng	800
+信风舞姬	xin feng wu ji	800
+修库特尔	xiu ku te er	800
+俱利般地	ju li ban di	800
+借景之馆	jie jing zhi guan	800
+倦意之屋	juan yi zhi wu	800
+倩影游侠	qian ying you xia	800
+倾落伽蓝	qing luo qie lan	800
+假日果酿	jia ri guo niang	800
+偏光棱镜	pian guang leng jing	800
+停摆之刻	ting bai zhi ke	800
+健康之家	jian kang zhi jia	800
+元素共鸣	yuan su gong ming	800
+元素反应	yuan su fan ying	800
+元素战技	yuan su zhan ji	800
+元素抗性	yuan su kang xing	800
+元素护盾	yuan su hu dun	800
+元素方碑	yuan su fang bei	800
+元素爆发	yuan su bao fa	800
+元素生命	yuan su sheng ming	800
+元素精通	yuan su jing tong	800
+元素视野	yuan su shi ye	800
+元能光束	yuan neng guang shu	800
+元能光锥	yuan neng guang zhui	800
+元能尖碑	yuan neng jian bei	800
+元能沙钟	yuan neng sha zhong	800
+元能火炬	yuan neng huo ju	800
+元能火种	yuan neng huo zhong	800
+光斓彩镜	guang lan cai jing	800
+光明火坛	guang ming huo tan	800
+光焰蹈跃	guang yan dao yue	800
+光界之印	guang jie zhi yin	800
+光界锥凿	guang jie zhui zao	800
+克林索尔	ke lin suo er	800
+克洛琳德	ke luo lin de	800
+克罗丽丝	ke luo li si	800
+克里托夫	ke li tuo fu	800
+兔兔伯爵	tu tu bo jue	800
+八奇乱斗	ba qi luan dou	800
+八重大人	ba zhong da ren	800
+八重神子	ba zhong shen zi	800
+六大学派	liu da xue pai	800
+六大贤者	liu da xian zhe	800
+六指乔瑟	liu zhi qiao se	800
+兰帕卡提	lan pa ka ti	800
+兰弥那离	lan mi na li	800
+兰百梨迦	lan bai li jia	800
+兰罗希陀	lan luo xi tuo	800
+兰迦拉梨	lan jia la li	800
+兰那库拉	lan na ku la	800
+兰阿帕斯	lan a pa si	800
+共饮之杯	gong yin zhi bei	800
+关怀备至	guan huai bei zhi	800
+具现机关	ju xian ji guan	800
+兽境之狼	shou jing zhi lang	800
+兽境幼兽	shou jing you shou	800
+兽境猎犬	shou jing lie quan	800
+兽境王器	shou jing wang qi	800
+兽有失蹄	shou you shi ti	800
+兽米香香	shou mi xiang xiang	800
+兽肉旋风	shou rou xuan feng	800
+兽骨拉面	shou gu la mian	800
+内燃奔进	nei ran ben jin	800
+冒险等阶	mao xian deng jie	800
+冬国仕女	dong guo shi nv	800
+冬极白星	dong ji bai xing	800
+冰之女皇	bing zhi nv huang	800
+冰史莱姆	bing shi lai mu	800
+冰漂浮灵	bing piao fu ling	800
+冰萤术士	bing ying shu shi	800
+冰风组曲	bing feng zu qu	800
+冲天转转	chong tian zhuan zhuan	800
+冲浪时光	chong lang shi guang	800
+决斗之枪	jue dou zhi qiang	800
+决斗之魂	jue dou zhi hun	800
+冷却时间	leng que shi jian	800
+冷寂迸音	leng ji beng yin	800
+冷肉拼盘	leng rou pin pan	800
+冷花幽露	leng hua you lu	800
+冷裂壳块	leng lie ke kuai	800
+冻结吧！	dong jie ba	800
+净化之炎	jing hua zhi yan	800
+净水之心	jing shui zhi xin	800
+净罪之井	jing zui zhi jing	800
+凉拌薄荷	liang ban bo he	800
+减七琶音	jian qi pa yin	800
+凝云鳞甲	ning yun lin jia	800
+凝成泥土	ning cheng ni tu	800
+刀剑成梦	dao jian cheng meng	800
+分流识海	fen liu shi hai	800
+切落之羽	qie luo zhi yu	800
+刑部小判	xing bu xiao pan	800
+列兹伯格	lie zi bo ge	800
+列柱沙原	lie zhu sha yuan	800
+创世结晶	chuang shi jie jing	800
+初始之翼	chu shi zhi yi	800
+初诞灵焰	chu dan ling yan	800
+初雷幽谷	chu lei you gu	800
+初露之源	chu lu zhi yuan	800
+利奥奈区	li ao nai qu	800
+利露帕尔	li lu pa er	800
+到灯塔去	dao deng ta qu	800
+刺梨小径	ci li xiao jing	800
+刺身拼盘	ci shen pin pan	800
+前哨龙迹	qian shao long ji	800
+剪影辑帧	jian ying ji zhen	800
+力争上游	li zheng shang you	800
+加固机轴	jia gu ji zhou	800
+努昂诺塔	nu ang nuo ta	800
+勇士之心	yong shi zhi xin	800
+勋绩之花	xun ji zhi hua	800
+勒莫迪埃	lei mo di ai	800
+勘定奉行	kan ding feng xing	800
+勘探钻机	kan tan zuan ji	800
+北国银行	bei guo yin hang	800
+北境秘史	bei jing mi shi	800
+北风之尾	bei feng zhi wei	800
+北风之环	bei feng zhi huan	800
+匣里日月	xia li ri yue	800
+匣里灭辰	xia li mie chen	800
+匣里龙吟	xia li long yin	800
+医的假面	yi de jia mian	800
+千壑沙地	qian he sha di	800
+千夜浮梦	qian ye fu meng	800
+千奇核心	qian qi he xin	800
+千层酥酥	qian ceng su su	800
+千岩古剑	qian yan gu jian	800
+千岩牢固	qian yan lao gu	800
+千岩长枪	qian yan chang qiang	800
+千来神祠	qian lai shen ci	800
+千灵慕斯	qian ling mu si	800
+千里之信	qian li zhi xin	800
+千门虚舟	qian men xu zhou	800
+千音雅集	qian yin ya ji	800
+千风佳酿	qian feng jia niang	800
+千风神殿	qian feng shen dian	800
+升华之后	sheng hua zhi hou	800
+升扬之王	sheng yang zhi wang	800
+升空仪式	sheng kong yi shi	800
+午后闲茶	wu hou xian cha	800
+华池岩岫	hua chi yan xiu	800
+卡利贝尔	ka li bei er	800
+卡卡妈妈	ka ka ma ma	800
+卡塔琳娜	ka ta lin na	800
+卡塞留斯	ka sai liu si	800
+卡帕奇莉	ka pa qi li	800
+卡拉穆鲁	ka la mu lu	800
+卡特皮拉	ka te pi la	800
+卡琵莉亚	ka pi li ya	800
+卡皮塔诺	ka pi ta nuo	800
+卡莉珀丝	ka li po si	800
+卡西奥多	ka xi ao duo	800
+卡雷斯线	ka lei si xian	800
+危途疑踪	wei tu yi zong	800
+厄卡特尔	e ka te er	800
+厄歌莉娅	e ge li ya	800
+厄水之祸	e shui zhi huo	800
+厄瑞玻斯	e rui bo si	800
+厄里那斯	e li na si	800
+原始松脂	yuan shi song zhi	800
+原海异种	yuan hai yi zhong	800
+原海水刃	yuan hai shui ren	800
+原海海草	yuan hai hai cao	800
+原粹树脂	yuan cui shu zhi	800
+原素花蜜	yuan su hua mi	800
+双果清露	shuang guo qing lu	800
+发光仙灵	fa guang xian ling	800
+发条公主	fa tiao gong zhu	800
+发条机关	fa tiao ji guan	800
+口袋锚点	kou dai mao dian	800
+古岩龙蜥	gu yan long xi	800
+古斯托特	gu si tuo te	800
+古时孤影	gu shi gu ying	800
+古瑟雷德	gu se lei de	800
+古茶树坡	gu cha shu po	800
+古闻之章	gu wen zhi zhang	800
+另有他职	ling you ta zhi	800
+台上台下	tai shang tai xia	800
+史莱姆清	shi lai mu qing	800
+史蒂文斯	shi di wen si	800
+叶隐芳名	ye yin fang ming	800
+司颂之章	si song zhi zhang	800
+吃虎鱼刀	chi hu yu dao	800
+合剂演进	he ji yan jin	800
+合朔之刻	he shuo zhi ke	800
+吉丽安娜	ji li an na	800
+吉盖克斯	ji gai ke si	800
+吉祥具书	ji xiang ju shu	800
+同泽之枪	tong ze zhi qiang	800
+向沙中去	xiang sha zhong qu	800
+君王之殿	jun wang zhi dian	800
+吞星之鲸	tun xing zhi jing	800
+否定裁断	fou ding cai duan	800
+启圣之尘	qi sheng zhi chen	800
+告密的心	gao mi de xin	800
+告死之霜	gao si zhi shuang	800
+呜呜葡萄	wu wu pu tao	800
+周游壶灵	zhou you hu ling	800
+周游百宝	zhou you bai bao	800
+呼呼飞车	hu hu fei che	800
+和旋舞剧	he xuan wu ju	800
+和裕茶馆	he yu cha guan	800
+咚咚嘭嘭	dong dong peng peng	800
+哀叙冰玉	ai xu bing yu	800
+哈艮图斯	ha gen tu si	800
+哈贾娜德	ha jia na de	800
+哲伯莱勒	zhe bo lai lei	800
+售后服务	shou hou fu wu	800
+啁哳之沙	zhao zha zhi sha	800
+啮合齿轮	nie he chi lun	800
+善后工作	shan hou gong zuo	800
+善良促销	shan liang cu xiao	800
+嗅嗅鼹鼠	xiu xiu yan shu	800
+嗤笑之面	chi xiao zhi mian	800
+嘉乌兰妮	jia wu lan ni	800
+嘟嘟光盾	du du guang dun	800
+噩影泽地	e ying ze di	800
+四喜圆满	si xi yuan man	800
+四方和平	si fang he ping	800
+四风原典	si feng yuan dian	800
+四风守护	si feng shou hu	800
+回声轻叙	hui sheng qing xu	800
+回忆终章	hui yi zhong zhang	800
+回火之路	hui huo zhi lu	800
+因卡纳克	yin ka na ke	800
+因提瓦特	yin ti wa te	800
+团子牛奶	tuan zi niu nai	800
+固晶甲虫	gu jing jia chong	800
+固若金汤	gu ruo jin tang	800
+图瓦哈克	tu wa ha ke	800
+图莱杜拉	tu lai du la	800
+圆环装置	yuan huan zhuang zhi	800
+圣夜旅织	sheng ye lv zhi	800
+圣显之钥	sheng xian zhi yao	800
+圣显棱柱	sheng xian leng zhu	800
+圣洁之花	sheng jie zhi hua	800
+圣骸毒蝎	sheng hai du xie	800
+圣骸牙兽	sheng hai ya shou	800
+圣骸角鳄	sheng hai jiao e	800
+圣骸赤鹫	sheng hai chi jiu	800
+圣骸飞蛇	sheng hai fei she	800
+地下水泽	di xia shui ze	800
+地中之盐	di zhong zhi yan	800
+地域特产	di yu te chan	800
+地方传奇	di fang chuan qi	800
+地脉之花	di mai zhi hua	800
+地脉异常	di mai yi chang	800
+地脉移涌	di mai yi yong	800
+地脉镇石	di mai zhen shi	800
+地面矿区	di mian kuang qu	800
+坚定之岩	jian ding zhi yan	800
+坚岩隘谷	jian yan ai gu	800
+坚牢黄玉	jian lao huang yu	800
+坚铜罗盘	jian tong luo pan	800
+坠星山谷	zhui xing shan gu	800
+埃利什卡	ai li shen ka	800
+埃尔欣根	ai er xin gen	800
+埃斯唐普	ai si tang pu	800
+埃斯蒙德	ai si meng de	800
+埃斯诺尔	ai si nuo er	800
+基扬戈兹	ji yang ge zi	800
+堇庭华彩	jin ting hua cai	800
+堇染之国	jin ran zhi guo	800
+塞洛海原	sai luo hai yuan	800
+壁炉之家	bi lu zhi jia	800
+声望任务	sheng wang ren wu	800
+壳之宝石	ke zhi bao shi	800
+备用法案	bei yong fa an	800
+复地重天	fu di zhong tian	800
+复苏水团	fu su shui tuan	800
+复苏阶段	fu su jie duan	800
+夏槲蛋糕	xia hu dan gao	800
+夏祭之刻	xia ji zhi ke	800
+夏祭之花	xia ji zhi hua	800
+夏祭之面	xia ji zhi mian	800
+夏祭水玉	xia ji shui yu	800
+夏祭游鱼	xia ji you yu	800
+夏祭终末	xia ji zhong mo	800
+夏芙米娅	xia fu mi ya	800
+夏诺蒂拉	xia nuo di la	800
+外世突触	wai shi tu chu	800
+多人游戏	duo ren you xi	800
+多布菈娃	duo bu la wa	800
+多彩之森	duo cai zhi sen	800
+多达马尼	duo da ma ni	800
+夜叉之愿	ye cha zhi yuan	800
+夜守暖汤	ye shou nuan tang	800
+夜枭之章	ye xiao zhi zhang	800
+夜神之国	ye shen zhi guo	800
+夜魂传递	ye hun chuan di	800
+夜魂加持	ye hun jia chi	800
+夜魂试炼	ye hun shi lian	800
+夜魂迸发	ye hun beng fa	800
+夤夜刻像	yin ye ke xiang	800
+大地纪行	da di ji xing	800
+大慈树王	da ci shu wang	800
+大日御舆	da ri yu yu	800
+大桔骑士	da ju qi shi	800
+大病初愈	da bing chu yu	800
+大赤沙海	da chi sha hai	800
+大雪猪王	da xue zhu wang	800
+大风机关	da feng ji guan	800
+大风纪官	da feng ji guan	800
+天之美赐	tian zhi mei ci	800
+天云草实	tian yun cao shi	800
+天使海兔	tian shi hai tu	800
+天火之冠	tian huo zhi guan	800
+天牛之章	tian niu zhi zhang	800
+天狼之章	tian lang zhi zhang	800
+天目十五	tian mu shi wu	800
+天空之傲	tian kong zhi ao	800
+天空之刃	tian kong zhi ren	800
+天空之卷	tian kong zhi juan	800
+天空之琴	tian kong zhi qin	800
+天空之翼	tian kong zhi yi	800
+天空之脊	tian kong zhi ji	800
+天空纪行	tian kong ji xing	800
+天遒宝迹	tian qiu bao ji	800
+天隼之章	tian sun zhi zhang	800
+天领奉行	tian ling feng xing	800
+太威仪盘	tai wei yi pan	800
+太田太郎	tai tian tai lang	800
+太阳之子	tai yang zhi zi	800
+失光块骨	shi guang kuai gu	800
+失活菌核	shi huo jun he	800
+奇瑰之汤	qi gui zhi tang	800
+奇策竞驰	qi ce jing chi	800
+奇馈宝箱	qi kui bao xiang	800
+奔行世间	ben xing shi jian	800
+奥什卡里	ao shen ka li	800
+奥摩斯港	ao mo si gang	800
+奥泽洛夫	ao ze luo fu	800
+奥涅戈夫	ao nie ge fu	800
+奥罗卢柯	ao luo lu ke	800
+奥罗巴斯	ao luo ba si	800
+奥胡帝亚	ao hu di ya	800
+奶油炖鸡	nai you dun ji	800
+奶酱鲜鱼	nai jiang xian yu	800
+她的过去	ta de guo qu	800
+好事多磨	hao shi duo mo	800
+好运传递	hao yun chuan di	800
+好运速转	hao yun su zhuan	800
+如伴雷电	ru ban lei dian	800
+如入幻梦	ru ru huan meng	800
+如意斗彩	ru yi dou cai	800
+如意祝柬	ru yi zhu jian	800
+如见泡影	ru jian pao ying	800
+如逢露水	ru feng lu shui	800
+妙妙琼脂	miao miao qiong zhi	800
+妙影名篇	miao ying ming pian	800
+妙影在手	miao ying zai shou	800
+妙骰战法	miao tou zhan fa	800
+委托任务	wei tuo ren wu	800
+娜扎法琳	na zha fa lin	800
+娜维娅线	na wei ya xian	800
+婆娑一舞	po suo yi wu	800
+子弹藤壶	zi dan teng hu	800
+孟尼力克	meng ni li ke	800
+孢囊晶尘	bao nang jing chen	800
+孤剑争逐	gu jian zheng zhu	800
+孤帆幽影	gu fan you ying	800
+学徒笔记	xue tu bi ji	800
+学院庆典	xue yuan qing dian	800
+宁希姬娅	ning xi ji ya	800
+守候之翼	shou hou zhi yi	800
+守护之心	shou hu zhi xin	800
+安妮兹卡	an ni zi ka	800
+安德留斯	an de liu si	800
+安格尔望	an ge er wang	800
+安的故事	an de gu shi	800
+安眠奢想	an mian she xiang	800
+安饶之野	an rao zhi ye	800
+完美留影	wan mei liu ying	800
+宗室之翎	zong shi zhi ling	800
+宗室之花	zong shi zhi hua	800
+宗室大剑	zong shi da jian	800
+宗室时计	zong shi shi ji	800
+宗室猎枪	zong shi lie qiang	800
+宗室银瓮	zong shi yin weng	800
+宗室长剑	zong shi chang jian	800
+宗室长弓	zong shi zhang gong	800
+宗室面具	zong shi mian ju	800
+宝石闪闪	bao shi shan shan	800
+宝藏归离	bao zang gui li	800
+审议之庭	shen yi zhi ting	800
+家主大人	jia zhu da ren	800
+家乡之味	jia xiang zhi wei	800
+宿雪桃红	su xue tao hong	800
+寄骑武士	ji qi wu shi	800
+富贵登门	fu gui deng men	800
+寒天之钉	han tian zhi ding	800
+寒锋铁器	han feng tie qi	800
+寻宝仙灵	xun bao xian ling	800
+寻宝鸦印	xun bao ya yin	800
+寻星之旅	xun xing zhi lv	800
+寻景觅画	xun jing mi hua	800
+导能绘卷	dao neng hui juan	800
+封魔绘卷	feng mo hui juan	800
+将帅兜鍪	jiang shuai dou mou	800
+将行之路	jiang xing zhi lu	800
+小兔之章	xiao tu zhi zhang	800
+小小灵蕈	xiao xiao ling xun	800
+小机器人	xiao ji qi ren	800
+小狼之章	xiao lang zhi zhang	800
+尘世之锁	chen shi zhi suo	800
+尘之魔神	chen zhi mo shen	800
+尘光七谕	chen guang qi yu	800
+尘埃落定	chen ai luo ding	800
+尤斯塔奇	you si ta qi	800
+尤约拉猫	you yue la mao	800
+尼伯龙根	ni bo long gen	800
+尼西里塔	ni xi li ta	800
+层岩巨渊	ceng yan ju yuan	800
+居民请求	ju min qing qiu	800
+山中之物	shan zhong zhi wu	800
+山城健太	shan cheng jian tai	800
+山王长牙	shan wang zhang ya	800
+山脊守望	shan ji shou wang	800
+山蓝琵鹭	shan lan pi lu	800
+岁夜欢哗	sui ye huan hua	800
+岁时之晷	sui shi zhi gui	800
+岐之试炼	qi zhi shi lian	800
+岩上茶室	yan shang cha shi	800
+岩中幽谷	yan zhong you gu	800
+岩史莱姆	yan shi lai mu	800
+岩峰巡歌	yan feng xun ge	800
+岩漂浮灵	yan piao fu ling	800
+岩王帝君	yan wang di jun	800
+峡湾长歌	xia wan zhang ge	800
+崇高大道	chong gao da dao	800
+崎岖石厅	qi qu shi ting	800
+巡林小队	xun lin xiao dui	800
+工作迫近	gong zuo po jin	800
+巧像入帧	qiao xiang ru zhen	800
+巧像摹刻	qiao xiang mo ke	800
+巨人峡谷	ju ren xia gu	800
+巨渊之口	ju yuan zhi kou	800
+巨蛇岩洞	ju she yan dong	800
+巴尔泽布	ba er ze bu	800
+巴巴托斯	ba ba tuo si	800
+巴拉诺夫	ba la nuo fu	800
+巴曼尼德	ba man ni de	800
+巴甫洛夫	ba fu luo fu	800
+巴窟纳瓦	ba ku na wa	800
+巴蒂斯特	ba di si te	800
+市井杂煮	shi jing za zhu	800
+帆影游风	fan ying you feng	800
+希巴拉克	xi ba la ke	800
+希望之壁	xi wang zhi bi	800
+希望之路	xi wang zhi lu	800
+希穆兰卡	xi mu lan ka	800
+帕特里克	pa te li ke	800
+帕蒂沙兰	pa di sha lan	800
+帷间夜曲	wei jian ye qu	800
+常世之荚	chang shi zhi jia	800
+常世入口	chang shi ru kou	800
+常夜灵庙	chang ye ling miao	800
+常暗圆环	chang an yuan huan	800
+常燃火种	chang ran huo zhong	800
+常胜传说	chang sheng chuan shuo	800
+帽子水母	mao zi shui mu	800
+干炒鱼河	gan chao yu he	800
+干烧香鱼	gan shao xiang yu	800
+平雷之冠	ping lei zhi guan	800
+平雷之刻	ping lei zhi ke	800
+平雷之器	ping lei zhi qi	800
+平雷之心	ping lei zhi xin	800
+平雷之羽	ping lei zhi yu	800
+幸运牌币	xing yun pai bi	800
+幻友绮旅	huan you qi lv	800
+幻境海螺	huan jing hai luo	800
+幻声留形	huan sheng liu xing	800
+幻影心流	huan ying xin liu	800
+幻梦之种	huan meng zhi zhong	800
+幻梦之门	huan meng zhi men	800
+幻蛇之宫	huan she zhi gong	800
+幼匿叶龙	you ni ye long	800
+幼岩龙蜥	you yan long xi	800
+幼嵴锋龙	you ji feng long	800
+幼暝视龙	you ming shi long	800
+幼狮之章	you shi zhi zhang	800
+幼突角龙	you tu jiao long	800
+幼绒翼龙	you rong yi long	800
+幼鳍游龙	you qi you long	800
+幽光星星	you guang xing xing	800
+幽境危战	you jing wei zhan	800
+幽夜净土	you ye jing tu	800
+幽客之章	you ke zhi zhang	800
+幽林雾道	you lin wu dao	800
+幽邃刻像	you sui ke xiang	800
+幽雾兜盔	you wu dou kui	800
+幽雾化形	you wu hua xing	800
+幽雾片甲	you wu pian jia	800
+庇佑之冠	bi you zhi guan	800
+库嘉维娜	ku jia wei na	800
+库库尔坎	ku ku er kan	800
+库济米奇	ku ji mi qi	800
+库莉艾卡	ku li ai ka	800
+库蕾玛娜	ku lei ma na	800
+应付尽付	ying fu jin fu	800
+应急食品	ying ji shi pin	800
+康加玛托	kang jia ma tuo	800
+异梦溶媒	yi meng rong mei	800
+异海之块	yi hai zhi kuai	800
+异海凝珠	yi hai ning zhu	800
+异海源水	yi hai yuan shui	800
+异界余影	yi jie yu ying	800
+异色生物	yi se sheng wu	800
+引蝶之章	yin die zhi zhang	800
+弗洛莱恩	fu luo lai en	800
+弥生七月	mi sheng qi yue	800
+弥生漆器	mi sheng qi qi	800
+强者之道	qiang zhe zhi dao	800
+强能之雷	qiang neng zhi lei	800
+归寂之庭	gui ji zhi ting	800
+彩特琳德	cai te lin de	800
+彩绘赠礼	cai hui zeng li	800
+影像海螺	ying xiang hai luo	800
+影向祓行	ying xiang fu xing	800
+影幻牌面	ying huan pai mian	800
+影打刀镡	ying da dao chan	800
+征讨之花	zheng tao zhi hua	800
+征讨领域	zheng tao ling yu	800
+律偿混能	lv chang hun neng	800
+得闲饮茶	de xian yin cha	800
+御引磐座	yu yin pan zuo	800
+御影炉心	yu ying lu xin	800
+御舆千代	yu yu qian dai	800
+循察五风	xun cha wu feng	800
+微光花蜜	wei guang hua mi	800
+微光角菌	wei guang jiao jun	800
+微暗之火	wei an zhi huo	800
+德克斯特	de ke si te	800
+德拉萝诗	de la luo shi	800
+德沃沙克	de wo sha ke	800
+德皮耶里	de pi ye li	800
+心猿大将	xin yuan da jiang	800
+必要手续	bi yao shou xu	800
+忍冬之果	ren dong zhi guo	800
+忍冬之树	ren dong zhi shu	800
+忘却之峡	wang que zhi xia	800
+忘川之水	wang chuan zhi shui	800
+忘忧灯塔	wang you deng ta	800
+快腿罗斯	kuai tui luo si	800
+急风狙击	ji feng ju ji	800
+怪盗貂将	guai dao diao jiang	800
+总站大厅	zong zhan da ting	800
+恒动械画	heng dong xie hua	800
+恒月印磐	heng yue yin pan	800
+恒月女神	heng yue nv shen	800
+恩内斯特	en nei si te	800
+息燧之笛	xi sui zhi di	800
+悉心一作	xi xin yi zuo	800
+悠悠徽章	you you hui zhang	800
+悠悠海獭	you you hai ta	800
+悠悠集市	you you ji shi	800
+悬壶之章	xuan hu zhi zhang	800
+悲鸣吧。	bei ming ba	800
+情感支持	qing gan zhi chi	800
+情报交易	qing bao jiao yi	800
+惊雷精油	jing lei jing you	800
+惟耶之实	wei ye zhi shi	800
+愈疗之水	yu liao zhi shui	800
+意智宝珠	yi zhi bao zhu	800
+愚妄行宫	yu wang xing gong	800
+慕风蘑菇	mu feng mo gu	800
+戈利科夫	ge li ke fu	800
+戏水危险	xi shui wei xian	800
+托奇特莉	tuo qi te li	800
+托尔特克	tuo er te ke	800
+托萨利斯	tuo sa li si	800
+扭曲幽域	niu qu you yu	800
+承仙所托	cheng xian suo tuo	800
+折箭觅踪	zhe jian mi zong	800
+护摩之杖	hu mo zhi zhang	800
+护法夜叉	hu fa ye cha	800
+抱歉哦。	bao qian o	800
+抹金折戟	mo jin zhe ji	800
+拉多米尔	la duo mi er	800
+拉季米尔	la ji mi er	800
+拉密萨纳	la mi sa na	800
+拉撒抹培	la sa mo pei	800
+拉杜什劳	la du shen lao	800
+拉蒂米尔	la di mi er	800
+拜拉祖里	bai la zu li	800
+拟构基石	ni gou ji shi	800
+拟造阳华	ni zao yang hua	800
+拳力斗技	quan li dou ji	800
+拾慧铸熔	shi hui zhu rong	800
+挪德卡莱	nuo de ka lai	800
+换羽时节	huan yu shi jie	800
+捷什菈娃	jie shen la wa	800
+排异之露	pai yi zhi lu	800
+掘金之锹	jue jin zhi qiao	800
+掠草行动	lve cao xing dong	800
+探寻灵感	tan xun ling gan	800
+探索派遣	tan suo pai qian	800
+提克里蒂	ti ke li di	800
+提尔扎德	ti er zha de	800
+提提奇遇	ti ti qi yu	800
+提纳勒人	ti na lei ren	800
+揭示之书	jie shi zhi shu	800
+摩拉克斯	mo la ke si	800
+摩耶之殿	mo ye zhi dian	800
+摹忆因子	mo yi yin zi	800
+撒亚赞铎	sa ya zan duo	800
+攀高危险	pan gao wei xian	800
+攫金鸦印	jue jin ya yin	800
+支离轮光	zhi li lun guang	800
+攻守兼备	gong shou jian bei	800
+攻逐飨会	gong zhu xiang hui	800
+放松时间	fang song shi jian	800
+敦克哈斯	dun ke ha si	800
+文心豆腐	wen xin dou fu	800
+斗魂试炼	dou hun shi lian	800
+斫锋之刃	zhuo feng zhi ren	800
+断浪长鳍	duan lang zhang qi	800
+斯偑兰扎	si feng lan zha	800
+斯塔杜欧	si ta du ou	800
+斯巴达克	si ba da ke	800
+新六狐传	xin liu hu chuan	800
+新手长枪	xin shou chang qiang	800
+新月神像	xin yue shen xiang	800
+方向逆心	fang xiang ni xin	800
+方块戏法	fang kuai xi fa	800
+旋曜玉帛	xuan yao yu bo	800
+无光丝线	wu guang si xian	800
+无光涡眼	wu guang wo yan	800
+无光质块	wu guang zhi kuai	800
+无名遗迹	wu ming yi ji	800
+无垢之花	wu gou zhi hua	800
+无声剧场	wu sheng ju chang	800
+无妄童子	wu wang tong zi	800
+无尽骤战	wu jin zhou zhan	800
+无工之剑	wu gong zhi jian	800
+无常之面	wu chang zhi mian	800
+无想之间	wu xiang zhi jian	800
+无相之冰	wu xiang zhi bing	800
+无相之岩	wu xiang zhi yan	800
+无相之水	wu xiang zhi shui	800
+无相之火	wu xiang zhi huo	800
+无相之草	wu xiang zhi cao	800
+无相之雷	wu xiang zhi lei	800
+无相之风	wu xiang zhi feng	800
+无郁夷摩	wu yu yi mo	800
+无郁稠林	wu yu chou lin	800
+日月前事	ri yue qian shi	800
+旧世遗音	jiu shi yi yin	800
+旧味难寻	jiu wei nan xun	800
+旧日之海	jiu ri zhi hai	800
+旧语新知	jiu yu xin zhi	800
+昂吉安妮	ang ji an ni	800
+明冠山地	ming guan shan di	800
+明星聚画	ming xing ju hua	800
+昔时之歌	xi shi zhi ge	800
+星荧洞窟	xing ying dong ku	800
+星轨王城	xing gui wang cheng	800
+星辉棱晶	xing hui leng jing	800
+星银矿石	xing yin kuang shi	800
+星鹫赤羽	xing jiu chi yu	800
+映天之章	ying tian zhi zhang	800
+春景花房	chun jing hua fang	800
+昭武翎羽	zhao wu ling yu	800
+晚风圆号	wan feng yuan hao	800
+晦暗刻像	hui an ke xiang	800
+晨曦酒庄	chen xi jiu zhuang	800
+普契涅拉	pu qi nie la	800
+普隆尼亚	pu long ni ya	800
+晶凝之华	jing ning zhi hua	800
+晶化骨髓	jing hua gu sui	800
+智慧之神	zhi hui zhi shen	800
+智识之冕	zhi shi zhi mian	800
+暂留此影	zan liu ci ying	800
+暂行之策	zan xing zhi ce	800
+暗夜英雄	an ye ying xiong	800
+暗巷猎手	an xiang lie shou	800
+暗巷闪光	an xiang shan guang	800
+曚云之月	meng yun zhi yue	800
+最胜紫晶	zui sheng zi jing	800
+月下小酌	yue xia xiao zhuo	800
+月下纪闻	yue xia ji wen	800
+月中王国	yue zhong wang guo	800
+月之暗面	yue zhi an mian	800
+月兆祝赐	yue zhao zhu ci	800
+月映仙踪	yue ying xian zong	800
+月流奔引	yue liu ben yin	800
+月浴之渊	yue yu zhi yuan	800
+月章星句	yue zhang xing ju	800
+月色鳍翅	yue se qi chi	800
+月髓之像	yue sui zhi xiang	800
+有蟹有还	you xie you hai	800
+朏魄含光	fei po han guang	800
+望崖营壁	wang ya ying bi	800
+望月者号	wang yue zhe hao	800
+望舒客栈	wang shu ke zhan	800
+望风山地	wang feng shan di	800
+朝气盒饭	zhao qi he fan	800
+朝露之时	zhao lu zhi shi	800
+木南料亭	mu nan liao ting	800
+木南杏奈	mu nan xing nai	800
+木棉之环	mu mian zhi huan	800
+木漏茶室	mu lou cha shi	800
+未熟之玉	wei shu zhi yu	800
+末光之剑	mo guang zhi jian	800
+本相元件	ben xiang yuan jian	800
+朱喙鹈鹕	zhu hui ti hu	800
+机关棋谭	ji guan qi tan	800
+机械螃蟹	ji xie pang xie	800
+杂菇荟萃	za gu hui cui	800
+杏仁豆腐	xing ren dou fu	800
+杜纳塔斯	du na ta si	800
+来歆余响	lai xin yu xiang	800
+松川宗全	song chuan zong quan	800
+松潘特利	song pan te li	800
+极夜真梦	ji ye zhen meng	800
+极寒之核	ji han zhi he	800
+极星辉域	ji xing hui yu	800
+极致一钓	ji zhi yi diao	800
+极速前进	ji su qian jin	800
+林中小书	lin zhong xiao shu	800
+林间低语	lin jian di yu	800
+果味奶糖	guo wei nai tang	800
+果果仙酪	guo guo xian lao	800
+果果软糖	guo guo ruan tang	800
+果香串烤	guo xiang chuan kao	800
+枣椰蜜糖	zao ye mi tang	800
+枫丹廷区	feng dan ting qu	800
+枫原万叶	feng yuan wan ye	800
+枫红之章	feng hong zhi zhang	800
+枯叶紫英	ku ye zi ying	800
+枯焦状态	ku jiao zhuang tai	800
+柔柔小章	rou rou xiao zhang	800
+柔灯挽歌	rou deng wan ge	800
+查耶维奇	cha ye wei qi	800
+柯里安巴	ke li an ba	800
+柳别尔齐	liu bie er qi	800
+柳德米拉	liu de mi la	800
+柴薪之丘	chai xin zhi qiu	800
+柴门二郎	chai men er lang	800
+柴门克巳	chai men ke si	800
+柴门惠理	chai men hui li	800
+核心轮縠	he xin lun hu	800
+根付之源	gen fu zhi yuan	800
+格乌登提	ge wu deng ti	800
+格兰菲狄	ge lan fei di	800
+格洛德克	ge luo de ke	800
+栽种之法	zai zhong zhi fa	800
+桃椰子木	tao ye zi mu	800
+桓那兰那	huan na lan na	800
+桔桔薄饼	ju ju bao bing	800
+梅兹卡拉	mei zi ka la	800
+梅赫拉克	mei he la ke	800
+梦想一心	meng xiang yi xin	800
+梦景林莽	meng jing lin mang	800
+梦里生花	meng li sheng hua	800
+森林王器	sen lin wang qi	800
+椛染之庭	hua ran zhi ting	800
+楚瑜商行	chu yu shang hang	800
+橘猫子姐	ju mao zi jie	800
+欢兴礼券	huan xing li quan	800
+欢呼激流	huan hu ji liu	800
+欢腾之火	huan teng zhi huo	800
+欢腾浮岛	huan teng fu dao	800
+歇止一刻	xie zhi yi ke	800
+歌仙之章	ge xian zhi zhang	800
+歌尔琴娜	ge er qin na	800
+歌裴莉娅	ge pei li ya	800
+正机之神	zheng ji zhi shen	800
+正法矩书	zheng fa ju shu	800
+死之执政	si zhi zhi zheng	800
+死兆星号	si zhao xing hao	800
+死域枝节	si yu zhi jie	800
+残像暗战	can xiang an zhan	800
+残火灯烛	can huo deng zhu	800
+殷红终夜	yan hong zhong ye	800
+毁损机轴	hui sun ji zhou	800
+每日委托	mei ri wei tuo	800
+毕塞尔特	bi sai er te	800
+水中耐力	shui zhong nai li	800
+水乡肉冻	shui xiang rou dong	800
+水仙之梦	shui xian zhi meng	800
+水仙的安	shui xian de an	800
+水史莱姆	shui shi lai mu	800
+水天丛林	shui tian cong lin	800
+水形幻人	shui xing huan ren	800
+水形幻灵	shui xing huan ling	800
+水晶棱镜	shui jing leng jing	800
+水泡阵地	shui pao zhen di	800
+水漂浮灵	shui piao fu ling	800
+水色潮痕	shui se chao hen	800
+永恒绿洲	yong heng lv zhou	800
+永续机芯	yong xu ji xin	800
+汉娜洛蕾	han na luo lei	800
+江村中弥	jiang cun zhong mi	800
+江湖百味	jiang hu bai wei	800
+池中宅邸	chi zhong zhai di	800
+污染菌毯	wu ran jun tan	800
+沃尔塔宁	wo er ta ning	800
+沃瑟博尔	wo se bo er	800
+沃陆果饮	wo lu guo yin	800
+沃雅妮莎	wo ya ni sha	800
+沉沦之心	chen lun zhi xin	800
+沉波之盏	chen bo zhi zhan	800
+沉波蜜桃	chen bo mi tao	800
+沉玉茶露	chen yu cha lu	800
+沉眠之庭	chen mian zhi ting	800
+沉睡之国	chen shui zhi guo	800
+沉重号角	chen zhong hao jiao	800
+沐光之台	mu guang zhi tai	800
+沙上楼阁	sha shang lou ge	800
+沙中故里	sha zhong gu li	800
+沙漏之章	sha lou zhi zhang	800
+沙漠子民	sha mo zi min	800
+沙虫隧道	sha chong sui dao	800
+沙龙成员	sha long cheng yuan	800
+油封鸭腿	you feng ya tui	800
+沾露虾仁	zhan lu xia ren	800
+法斯宾德	fa si bin de	800
+波倾浪覆	bo qing lang fu	800
+波波拉诺	bo bo la nuo	800
+波爱修斯	bo ai xiu si	800
+洋葱尾巴	yang cong wei ba	800
+洗理嵴锋	xi li ji feng	800
+洛森莎尔	luo sen sha er	800
+洞天宝钱	dong tian bao qian	800
+活力之家	huo li zhi jia	800
+活力喵饭	huo li miao fan	800
+活化状态	huo hua zhuang tai	800
+流悦晶石	liu yue jing shi	800
+流明晶石	liu ming jing shi	800
+流沙之葬	liu sha zhi zang	800
+流沙鳗鳗	liu sha man man	800
+流浪乐章	liu lang yue zhang	800
+流灰之街	liu hui zhi jie	800
+浅濑神社	qian lai shen she	800
+浊水幻灵	zhuo shui huan ling	800
+浓缩树脂	nong suo shu zhi	800
+浪影阔剑	lang ying kuo jian	800
+浪沫之章	lang mo zhi zhang	800
+浪沫羽鳃	lang mo yu sai	800
+浪船锚点	lang chuan mao dian	800
+浪花骑士	lang hua qi shi	800
+浮光之路	fu guang zhi lu	800
+浮光鸣召	fu guang ming zhao	800
+浮土静界	fu tu jing jie	800
+浮游干核	fu you gan he	800
+浮游幽核	fu you you he	800
+浮羽之湾	fu yu zhi wan	800
+浮露白霜	fu lou bai shuang	800
+海上拾玉	hai shang shi yu	800
+海德薇卡	hai de wei ka	800
+海染砗磲	hai ran che qu	800
+海洛塔帝	hai luo ta di	800
+海渊终曲	hai yuan zhong qu	800
+海皇香脂	hai huang xiang zhi	800
+海精之章	hai jing zhi zhang	800
+海风之梦	hai feng zhi meng	800
+涅朵奇卡	nie duo qi ka	800
+涤净青金	di jing qing jin	800
+淑女之邀	shu nv zhi yao	800
+淬金冷玉	cui jin leng yu	800
+深境回廊	shen jing hui lang	800
+深境螺旋	shen jing luo xuan	800
+深廊终曲	shen lang zhong qu	800
+深泥奇谭	shen ni qi tan	800
+深海髓矿	shen hai sui kuang	800
+深海龙蜥	shen hai long xi	800
+深渊教团	shen yuan jiao tuan	800
+深渊法师	shen yuan fa shi	800
+深赤之石	shen chi zhi shi	800
+深黯钓客	shen an diao ke	800
+混沌回路	hun dun hui lu	800
+混沌容器	hun dun rong qi	800
+混沌机关	hun dun ji guan	800
+混沌枢纽	hun dun shu niu	800
+混沌模块	hun dun mo kuai	800
+混沌炉心	hun dun lu xin	800
+混沌真眼	hun dun zhen yan	800
+混沌装置	hun dun zhuang zhi	800
+混沌锚栓	hun dun mao shuan	800
+混浊棱晶	hun zhuo leng jing	800
+清心花饼	qing xin hua bing	800
+清炒虾仁	qing chao xia ren	800
+清籁旧宝	qing lai jiu bao	800
+清籁旧忆	qing lai jiu yi	800
+清露泡沫	qing lu pao mo	800
+渊光鳍翅	yuan guang qi chi	800
+渊青宝珠	yuan qing bao zhu	800
+渌华景画	lu hua jing hua	800
+渔人吐司	yu ren tu si	800
+渡来禽肉	du lai qin rou	800
+温弗里德	wen fu li de	800
+温暖仙灵	wen nuan xian ling	800
+温泉时光	wen quan shi guang	800
+港湾牛肚	gang wan niu du	800
+游光示现	you guang shi xian	800
+游刃由鱼	you ren you yu	800
+游戏一场	you xi yi chang	800
+游逸旅账	you yi lv zhang	800
+游隙灵道	you xi ling dao	800
+湖中垂柳	hu zhong chui liu	800
+湖光铃兰	hu guang ling lan	800
+溢彩心念	yi cai xin nian	800
+满足沙拉	man zu sha la	800
+演武传心	yan wu chuan xin	800
+潘塔罗涅	pan ta luo nie	800
+潮涌之章	chao yong zhi zhang	800
+激活器件	ji huo qi jian	800
+激流精油	ji liu jing you	800
+火史莱姆	huo shi lai mu	800
+火漂浮灵	huo piao fu ling	800
+火焰炖肉	huo yan dun rou	800
+火鹦之塔	huo ying zhi ta	800
+火鼠大将	huo shu da jiang	800
+灭诤草蔓	mie zheng cao man	800
+灯下演武	deng xia yan wu	800
+灯之妖精	deng zhi yao jing	800
+灯后勤绩	deng hou qin ji	800
+灰河渡手	hui he du shou	800
+灰烬之心	hui jin zhi xin	800
+灵光壁障	ling guang bi zhang	800
+灵光游蜉	ling guang you fu	800
+灵光百种	ling guang bai zhong	800
+灵光绝唱	ling guang jue chang	800
+灵感喷激	ling gan pen ji	800
+灵蕈旅记	ling xun lv ji	800
+灵蕈棋阵	ling xun qi zhen	800
+灵觉髄石	ling jue sui shi	800
+灼灼彩菊	zhuo zhuo cai ju	800
+炉壳山鼬	lu ke shan you	800
+炉心机造	lu xin ji zao	800
+炎岩之颂	yan yan zhi song	800
+炝炒肉片	qiang chao rou pian	800
+炫音爆光	xuan yin bao guang	800
+炸虾豆球	zha xia dou qiu	800
+炸鱼薯条	zha yu shu tiao	800
+炼武秘境	lian wu mi jing	800
+炽光猎兽	chi guang lie shou	800
+炽绘奇旅	chi hui qi lv	800
+炽金之锅	chi jin zhi guo	800
+炽鬃之狮	chi zong zhi shi	800
+烈火精油	lie huo jing you	800
+烈阳之嗣	lie yang zhi si	800
+烛伞蘑菇	zhu san mo gu	800
+烟海梭巡	yan hai suo xun	800
+烟熏鱼排	yan xun yu pai	800
+烟硌山峰	yan ge shan feng	800
+烤吃虎鱼	kao chi hu yu	800
+热斗模式	re dou mo shi	800
+热舞乐台	re wu le tai	800
+热诚之火	re cheng zhi huo	800
+焚尽之环	fen jin zhi huan	800
+焚曜千阳	fen yao qian yang	800
+煅石之轮	duan shi zhi lun	800
+熔毁之刻	rong hui zhi ke	800
+熟是生非	shu shi sheng fei	800
+熟能生巧	shu neng sheng qiao	800
+熠光云行	yi guang yun xing	800
+燃愿玛瑙	ran yuan ma nao	800
+燃素蜜虫	ran su mi chong	800
+爆炒肉片	bao chao rou pian	800
+爱兹别妲	ai zi bie da	800
+爱洛依丝	ai luo yi si	800
+爱瑟海黛	ai se hai dai	800
+片剂深研	pian ji shen yan	800
+牦牦驮兽	mao mao tuo shou	800
+物归原主	wu gui yuan zhu	800
+特尔克西	te er ke xi	800
+特工祭刀	te gong ji dao	800
+特拉佐莉	te la zuo li	800
+特殊料理	te shu liao li	800
+特立尼达	te li ni da	800
+特许食堂	te xu shi tang	800
+狂风之核	kuang feng zhi he	800
+狂风精油	kuang feng jing you	800
+狄奥提玛	di ao ti ma	800
+狡兔之章	jiao tu zhi zhang	800
+狩猎陷阱	shou lie xian jing	800
+独木难支	du mu nan zhi	800
+独眼小僧	du yan xiao seng	800
+独门秘法	du men mi fa	800
+狭间之街	xia jian zhi jie	800
+狮子奋迅	shi zi fen xun	800
+狱火之蝶	yu huo zhi die	800
+狼的末路	lang de mo lu	800
+猎人之径	lie ren zhi jing	800
+猎兵祭刀	lie bing ji dao	800
+猎魔演练	lie mo yan lian	800
+猫尾酒馆	mao wei jiu guan	800
+猫箱急件	mao xiang ji jian	800
+猫草豆蔻	mao cao dou kou	800
+玄冬林檎	xuan dong lin qin	800
+玄岩之塔	xuan yan zhi ta	800
+玄月宝箱	xuan yue bao xiang	800
+玄玉瑶芳	xuan yu yao fang	800
+玉剪着花	yu jian zhe hua	800
+玉璋护盾	yu zhang hu dun	800
+玉璜古龟	yu huang gu gui	800
+王下近侍	wang xia jin shi	800
+王树瑞佑	wang shu rui you	800
+玛格丽特	ma ge li te	800
+玻瑞亚斯	bo rui ya si	800
+珊瑚宫记	shan hu gong ji	800
+珊瑚真珠	shan hu zhen zhu	800
+珍肴霞踪	zhen yao xia zong	800
+球球章鱼	qiu qiu zhang yu	800
+理水叔叔	li shui shu shu	800
+琉形蜃境	liu xing shen jing	800
+琉璃晶砂	liu li jing sha	800
+琉璃百合	liu li bai he	800
+琉璃花鳉	liu li hua jiang	800
+琉金之章	liu jin zhi zhang	800
+琪花星烛	qi hua xing zhu	800
+琳的苦恼	lin de ku nao	800
+琼玉果汤	qiong yu guo tang	800
+瑞兽欢跃	rui shou huan yue	800
+瑞安维尔	rui an wei er	800
+璀璨原钻	cui can yuan zuan	800
+璃月七星	li yue qi xing	800
+瓦乐瑞娜	wa le rui na	800
+瓦斯卡尔	wa si ka er	800
+瓦纳格姆	wa na ge mu	800
+甘露封印	gan lu feng yin	800
+甘露游蜉	gan lu you fu	800
+甘露花海	gan lu hua hai	800
+甜甜花鳉	tian tian hua jiang	800
+甜虾寿司	tian xia shou si	800
+生之执政	sheng zhi zhi zheng	800
+生之火光	sheng zhi huo guang	800
+生命万岁	sheng ming wan sui	800
+生命之契	sheng ming zhi qi	800
+生命之殿	sheng ming zhi dian	800
+生日快乐	sheng ri kuai le	800
+生肉塔塔	sheng rou ta ta	800
+生长碧翡	sheng zhang bi fei	800
+甲级宝珏	jia ji bao jue	800
+申请加入	shen qing jia ru	800
+电压冲锋	dian ya chong feng	800
+电气水晶	dian qi shui jing	800
+画外旅照	hua wai lv zhao	800
+留云阿姨	liu yun a yi	800
+略显身手	lve xian shen shou	800
+白垩之子	bai e zhi zi	800
+白垩之章	bai e zhi zhang	800
+白栗栎木	bai li li mu	800
+白浪拂沙	bai lang fu sha	800
+白淞隧道	bai song sui dao	800
+白淞鲜汤	bai song xian tang	800
+白灵果派	bai ling guo pai	800
+白狐之野	bai hu zhi ye	800
+白玉萝卜	bai yu luo bo	800
+白辰之环	bai chen zhi huan	800
+白铁大剑	bai tie da jian	800
+白银伴星	bai yin ban xing	800
+白雨心弦	bai yu xin xian	800
+白马仙人	bai ma xian ren	800
+白驹逆旅	bai ju ni lv	800
+白鹄骑士	bai gu qi shi	800
+百人一揆	bai ren yi kui	800
+百味一缕	bai wei yi lv	800
+百步礼掷	bai bu li zhi	800
+百货奇货	bai huo qi huo	800
+百雷遮罗	bai lei zhe luo	800
+皎月渺渺	jiao yue miao miao	800
+盈月之镜	ying yue zhi jing	800
+盈满之实	ying man zhi shi	800
+盐之魔神	yan zhi mo shen	800
+盗亦无道	dao yi wu dao	800
+盗火贤者	dao huo xian zhe	800
+盛世太平	sheng shi tai ping	800
+盟誓金爵	meng shi jin jue	800
+直江久政	zhi jiang jiu zheng	800
+相遇之缘	xiang yu zhi yuan	800
+真实之月	zhen shi zhi yue	800
+真葛废都	zhen ge fei dou	800
+真语秘匣	zhen yu mi xia	800
+眠龙之章	mian long zhi zhang	800
+睡前故事	shui qian gu shi	800
+睡莲之章	shui lian zhi zhang	800
+睦疏之匣	mu shu zhi xia	800
+瞬影旅集	shun ying lv ji	800
+矇云神社	meng yun shen she	800
+矢田幸喜	shi tian xing xi	800
+砂流之庭	sha liu zhi ting	800
+破碎之海	po sui zhi hai	800
+破缺棱晶	po que leng jing	800
+破魔之弓	po mo zhi gong	800
+硫晶支脉	liu jing zhi mai	800
+碧落之珑	bi luo zhi long	800
+磐岩结绿	pan yan jie lv	800
+磐石精油	pan shi jing you	800
+磷星之章	lin xing zhi zhang	800
+祈望之心	qi wang zhi xin	800
+祖遗庙宇	zu yi miao yu	800
+祝圣油膏	zhu sheng you gao	800
+祝圣秘境	zhu sheng mi jing	800
+祝圣精华	zhu sheng jing hua	800
+神女劈观	shen nv pi guan	800
+神工天巧	shen gong tian qiao	800
+神弃殿阁	shen qi dian ge	800
+神樱大祓	shen ying da fu	800
+神王之遗	shen wang zhi yi	800
+神秘的肉	shen mi de rou	800
+神舆之辔	shen yu zhi pei	800
+神里屋敷	shen li wu fu	800
+神里绫人	shen li ling ren	800
+神里绫华	shen li ling hua	800
+神铸赋形	shen zhu fu xing	800
+祥草杨枝	xiang cao yang zhi	800
+祭冰之人	ji bing zhi ren	800
+祭冰礼冠	ji bing li guan	800
+祭水之人	ji shui zhi ren	800
+祭水之仪	ji shui zhi yi	800
+祭火之人	ji huo zhi ren	800
+祭火礼冠	ji huo li guan	800
+祭礼大剑	ji li da jian	800
+祭礼残章	ji li can zhang	800
+祭雷之人	ji lei zhi ren	800
+祭雷礼冠	ji lei li guan	800
+禁咒绘卷	jin zhou hui juan	800
+福内乌冬	fu nei wu dong	800
+福罗贝尔	fu luo bei er	800
+离岛之路	li dao zhi lu	800
+离渡之仪	li du zhi yi	800
+秋暮之炎	qiu mu zhi yan	800
+秋沙钱汤	qiu sha qian tang	800
+秋特切娃	qiu te qie wa	800
+科培琉司	ke pei liu si	800
+科尔霍寧	ke er huo ning	800
+科扎特利	ke zha te li	800
+秘仪台座	mi yi tai zuo	800
+秘仪圣殿	mi yi sheng dian	800
+秘典之盒	mi dian zhi he	800
+秘宝迷踪	mi bao mi zong	800
+秘源机鞘	mi yuan ji qiao	800
+秘源真芯	mi yuan zhen xin	800
+秘源龙仆	mi yuan long pu	800
+秘源龙像	mi yuan long xiang	800
+秘烤肋排	mi kao le pai	800
+秘谜书屋	mi mi shu wu	800
+积木卫兵	ji mu wei bing	800
+稀光遗骼	xi guang yi ge	800
+稻城萤美	dao cheng ying mei	800
+穆托莉娜	mu tuo li na	800
+究古考察	jiu gu kao cha	800
+穷寇猛追	qiong kou meng zhui	800
+空之执政	kong zhi zhi zheng	800
+空之神殿	kong zhi shen dian	800
+空寂走廊	kong ji zou lang	800
+空月祝福	kong yue zhu fu	800
+笈名海滨	ji ming hai bin	800
+笔腾墨跃	bi teng mo yue	800
+符文之齿	fu wen zhi chi	800
+符文机关	fu wen ji guan	800
+第十一席	di shi yi xi	800
+等量交换	deng liang jiao huan	800
+箭术示范	jian shu shi fan	800
+簇火赞歌	cu huo zan ge	800
+米哈伊尔	mi ha yi er	800
+米饭布丁	mi fan bu ding	800
+粉碎之冰	fen sui zhi bing	800
+粒果肉汤	li guo rou tang	800
+粒果裹裹	li guo guo guo	800
+精制机轴	jing zhi ji zhou	800
+精炼材料	jing lian cai liao	800
+精炼等阶	jing lian deng jie	800
+精石铜城	jing shi tong cheng	800
+精通秘境	jing tong mi jing	800
+精通移涌	jing tong yi yong	800
+純白骑士	chun bai qi shi	800
+索琳蒂丝	suo lin di si	800
+紧急修理	jin ji xiu li	800
+紫苑云霓	zi yuan yun ni	800
+紫金渔鸥	zi jin yu ou	800
+緋沙鹽沼	fei sha yan zhao	800
+繁花之语	fan hua zhi yu	800
+纠缠之缘	jiu chan zhi yuan	800
+红果果菇	hong guo guo gu	800
+红烩瘦肉	hong hui shou rou	800
+红色染料	hong se ran liao	800
+纯水流华	chun shui liu hua	800
+纯水精灵	chun shui jing ling	800
+纯水骑士	chun shui qi shi	800
+纱中幽兰	sha zhong you lan	800
+纳博内区	na bo nei qu	800
+纳西索斯	na xi suo si	800
+纳贝里士	na bei li shi	800
+纵声欢唱	zong sheng huan chang	800
+纸影寻肴	zhi ying xun yao	800
+纸映成戏	zhi ying cheng xi	800
+纺夜天镜	fang ye tian jing	800
+绀田传助	gan tian chuan zhu	800
+细雨将至	xi yu jiang zhi	800
+织金红绸	zhi jin hong chou	800
+终夜长茔	zhong ye zhang ying	800
+终至破晓	zhong zhi po xiao	800
+绝云椒椒	jue yun jiao jiao	800
+绝云锅巴	jue yun guo ba	800
+绝缘药剂	jue yuan yao ji	800
+统律之心	tong lv zhi xin	800
+绮筵之鼓	qi yan zhi gu	800
+绯樱绣球	fei ying xiu qiu	800
+绯红玉髓	fei hong yu sui	800
+绯花之壶	fei hua zhi hu	800
+维克拉姆	wei ke la mu	800
+维多利亚	wei duo li ya	800
+维斯菈娃	wei si la wa	800
+维李米尔	wei li mi er	800
+维特鲁威	wei te lu wei	800
+维纳亚克	wei na ya ke	800
+维道塔什	wei dao ta shen	800
+绿果果菇	lv guo guo gu	800
+绿汁脆球	lv zhi cui qiu	800
+绿洲之心	lv zhou zhi xin	800
+缀花之翎	zhui hua zhi ling	800
+缄默之殿	jian mo zhi dian	800
+缥雨一滴	piao yu yi di	800
+罐装知识	guan zhuang zhi shi	800
+罗丝薇莎	luo si wei sha	800
+罗斯玛丽	luo si ma li	800
+罗网勾針	luo wang gou zhen	800
+罗莎莉亚	luo sha li ya	800
+羽状鳍翅	yu zhuang qi chi	800
+翠绿之影	cui lv zhi ying	800
+翠翎恐蕈	cui ling kong xun	800
+翠草之龙	cui cao zhi long	800
+翡玉法珠	fei yu fa zhu	800
+翻鱼搅浪	fan yu jiao lang	800
+考特里亚	kao te li ya	800
+耐寒药剂	nai han yao ji	800
+耐热药剂	nai re yao ji	800
+聆雨听竹	ling yu ting zhu	800
+聚流映灯	ju liu ying deng	800
+聚香海岸	ju xiang hai an	800
+肇始之乡	zhao shi zhi xiang	800
+肴馔之翼	yao zhuan zhi yi	800
+脆弱树脂	cui ruo shu zhi	800
+脆脆烤肉	cui cui kao rou	800
+腐殖之剑	fu zhi zhi jian	800
+腐殖之牙	fu zhi zhi ya	800
+膨膨泡芙	peng peng pao fu	800
+自动舰炮	zi dong jian pao	800
+自在松石	zi zai song shi	800
+自有方圆	zi you fang yuan	800
+自谜域归	zi mi yu gui	800
+舍身步道	she shen bu dao	800
+舍身陷坑	she shen xian keng	800
+船坞长剑	chuan wu chang jian	800
+良药难求	liang yao nan qiu	800
+艾伦德林	ai lun de lin	800
+艾克贝特	ai ke bei te	800
+艾嘉莉亚	ai jia li ya	800
+艾尔海森	ai er hai sen	800
+艾梅莉埃	ai mei li ai	800
+芒脊守宫	mang ji shou gong	800
+芙卡洛斯	fu ka luo si	800
+芭尔瓦涅	ba er wa nie	800
+芭比洛斯	ba bi luo si	800
+花开之时	hua kai zhi shi	800
+花影瑶庭	hua ying yao ting	800
+花时来信	hua shi lai xin	800
+花果草糖	hua guo cao tang	800
+花神之舞	hua shen zhi wu	800
+花缨水母	hua ying shui mu	800
+花角玉将	hua jiao yu jiang	800
+花车摇曳	hua che yao ye	800
+苇海信标	wei hai xin biao	800
+苍漠囿土	cang mo you tu	800
+苍白之火	cang bai zhi huo	800
+苍砾蕊羽	cang li rui yu	800
+苍纹角杯	cang wen jiao bei	800
+苍翠猎弓	cang cui lie gong	800
+苍风高地	cang feng gao di	800
+苏生之辔	su sheng zhi pei	800
+苏霍维赫	su huo wei he	800
+苔骨荒原	tai gu huang yuan	800
+若陀龙王	ruo tuo long wang	800
+若雷结界	ruo lei jie jie	800
+苹果卷卷	ping guo juan juan	800
+茁壮菌核	zhuo zhuang jun he	800
+茂知之壳	mao zhi zhi ke	800
+茂知祭场	mao zhi ji chang	800
+茜特菈莉	qian te la li	800
+茶熏乳鸽	cha xun ru ge	800
+草史莱姆	cao shi lai mu	800
+草漂浮灵	cao piao fu ling	800
+荒泷一斗	huang long yi dou	800
+荒石苍漠	huang shi cang mo	800
+荒野幽徒	huang ye you tu	800
+荣光之风	rong guang zhi feng	800
+荣花演武	rong hua yan wu	800
+荣誉骑士	rong yu qi shi	800
+荧光孢粉	ying guang bao fen	800
+荧光狭道	ying guang xia dao	800
+荼泥黑渊	tu ni hei yuan	800
+荼诃之座	tu he zhi zuo	800
+荼诃落谷	tu he luo gu	800
+莉奥波汀	li ao bo ting	800
+莉普哈特	li pu ha te	800
+莉诺蕾娅	li nuo lei ya	800
+莎邦之息	sha bang zhi xi	800
+莫尔泰区	mo er tai qu	800
+莫德斯特	mo de si te	800
+莱夫赫姆	lai fu he mu	800
+莱提西娅	lai ti xi ya	800
+莱斯托克	lai si tuo ke	800
+莱欧斯利	lai ou si li	800
+莱茵多特	lai yin duo te	800
+莱赫妲尔	lai he da er	800
+菇测高度	gu ce gao du	800
+菫色之庭	jin se zhi ting	800
+菲尔纳斯	fei er na si	800
+菲洛梅娜	fei luo mei na	800
+菲耶蒂娜	fei ye di na	800
+菲莉吉丝	fei li ji si	800
+萨塔贾卡	sa ta jia ka	800
+萨赫哈蒂	sa he ha di	800
+落叶归风	luo ye gui feng	800
+葱茏之愿	cong long zhi yuan	800
+蒂玛乌斯	di ma wu si	800
+蒙德往事	meng de wang shi	800
+蒙德烤鱼	meng de kao yu	800
+蒙德百貨	meng de bai huo	800
+蒙德高塔	meng de gao ta	800
+蒲公英籽	pu gong ying zi	800
+蒲公英酒	pu gong ying jiu	800
+蒲烧鳗肉	pu shao man rou	800
+蒸汽鸟报	zheng qi niao bao	800
+蓄水喷口	xu shui pen kou	800
+蓄水阶池	xu shui jie chi	800
+蓝染花鳉	lan ran hua jiang	800
+蓝色染料	lan se ran liao	800
+蔓生之草	man sheng zhi cao	800
+蔓生溪谷	man sheng xi gu	800
+蔓生灵心	man sheng ling xin	800
+蔷薇奶糊	qiang wei nai hu	800
+蕈之贤主	xun zhi xian zhu	800
+蕈兽孢子	xun shou bao zi	800
+蕈王钩喙	xun wang gou hui	800
+蕴光凛狼	yun guang lin lang	800
+蕴光刃犀	yun guang ren xi	800
+蕴光奇羊	yun guang qi yang	800
+蕴光璇蛸	yun guang xuan shao	800
+薄荷大福	bo he da fu	800
+薄荷果冻	bo he guo dong	800
+薄荷豆汤	bo he dou tang	800
+薇尔琪塔	wei er qi ta	800
+薇尔米娜	wei er mi na	800
+薇恩狄娅	wei en di ya	800
+薇若妮卡	wei ruo ni ka	800
+薇莉亚娜	wei li ya na	800
+薇蕾娜妲	wei lei na da	800
+藏银鸦印	cang yin ya yin	800
+藏雷野实	cang lei ye shi	800
+藤壶子弹	teng hu zi dan	800
+蘑境菌奇	mo jing jun qi	800
+蘑幻之菇	mo huan zhi gu	800
+蘑瓦塔里	mo wa ta li	800
+虚界暗塔	xu jie an ta	800
+虚空终端	xu kong zhong duan	800
+虹彩华章	hong cai hua zhang	800
+虹彩蔷薇	hong cai qiang wei	800
+虹的行迹	hong de xing ji	800
+虹色巡回	hong se xun hui	800
+虾肉浓汤	xia rou nong tang	800
+蛇心之地	she xin zhi di	800
+蛇神之首	she shen zhi shou	800
+蛇肠之道	she chang zhi dao	800
+蛇骨矿洞	she gu kuang dong	800
+蛋卷螺栓	dan juan luo shuan	800
+蜃景祭场	shen jing ji chang	800
+蜃楼之获	shen lou zhi huo	800
+蜜汁叉烧	mi zhi cha shao	800
+蜜汁腌鱼	mi zhi yan yu	800
+蜜虫之宝	mi chong zhi bao	800
+蜜酒小子	mi jiu xiao zi	800
+螺卷大将	luo juan da jiang	800
+蟹黄豆腐	xie huang dou fu	800
+蠕虫假饵	ru chong jia er	800
+血染荒城	xue ran huang cheng	800
+血玉之枝	xue yu zhi zhi	800
+行者之心	xing zhe zhi xin	800
+衍木阵列	yan mu zhen lie	800
+衔珠海皇	xian zhu hai huang	800
+衡准大厅	heng zhun da ting	800
+补偿原石	bu chang yuan shi	800
+裁叶萃光	cai ye cui guang	800
+裴伦埃里	pei lun ai li	800
+褪色古堡	tui shai gu bao	800
+褪色红绸	tui shai hong chou	800
+西风大剑	xi feng da jian	800
+西风戍垒	xi feng shu lei	800
+西风教会	xi feng jiao hui	800
+西风猎弓	xi feng lie gong	800
+西风秘典	xi feng mi dian	800
+西风长枪	xi feng chang qiang	800
+要事优先	yao shi you xian	800
+覆雪之国	fu xue zhi guo	800
+覆雪之路	fu xue zhi lu	800
+规章问题	gui zhang wen ti	800
+觅取月晖	mi qu yue hui	800
+觉树之堂	jue shu zhi tang	800
+觉王之树	jue wang zhi shu	800
+觉王之殿	jue wang zhi dian	800
+觐山之路	jin shan zhi lu	800
+觐山古道	jin shan gu dao	800
+警卫机关	jing wei ji guan	800
+讨伐悬赏	tao fa xuan shang	800
+训练大剑	xun lian da jian	800
+试作古华	shi zuo gu hua	800
+试作斩岩	shi zuo zhan yan	800
+试作星镰	shi zuo xing lian	800
+试作澹月	shi zuo dan yue	800
+试作金珀	shi zuo jin po	800
+诸国游记	zhu guo you ji	800
+诸景巡礼	zhu jing xun li	800
+谐律簧管	xie lv huang guan	800
+谒索雷痕	ye suo lei hen	800
+谒颂幽境	ye song you jing	800
+谛踪匿行	di zong ni xing	800
+谜境悬兵	mi jing xuan bing	800
+谢斯芬赫	xie si fen he	800
+谧音吹哨	mi yin chui shao	800
+谨遵医嘱	jin zun yi zhu	800
+豪宴热斗	hao yan re dou	800
+貘枕之章	mo zhen zhi zhang	800
+贝壳彩糖	bei ke cai tang	800
+贤医之羽	xian yi zhi yu	800
+货比两价	huo bi liang jia	800
+贯虹之槊	guan hong zhi shuo	800
+费卢妮娅	fei lu ni ya	800
+费迪南德	fei di nan de	800
+赌圣遗物	du sheng yi wu	800
+赐福森林	ci fu sen lin	800
+赝作古典	yan zuo gu dian	800
+赤月之形	chi yue zhi xing	800
+赤沙之杖	chi sha zhi zhang	800
+赤沙之槛	chi sha zhi kan	800
+赤沙石板	chi sha shi ban	800
+赤璋城垣	chi zhang cheng yuan	800
+赤穗酒枡	chi sui jiu sheng	800
+赤红一杵	chi hong yi chu	800
+赤羽团扇	chi yu tuan shan	800
+赤龙之章	chi long zhi zhang	800
+赫乌莉亚	he wu li ya	800
+赫布里穆	he bu li mu	800
+赫得蔚格	he de wei ge	800
+赫斯塔尔	he si ta er	800
+赫里沙夫	he li sha fu	800
+超级大炮	chao ji da pao	800
+超越之匙	chao yue zhi shi	800
+超越之盏	chao yue zhi zhan	800
+跨野寻踪	kua ye xun zong	800
+踏鞴物语	ta bei wu yu	800
+蹈刃破决	dao ren po jue	800
+蹦蹦炸弹	beng beng zha dan	800
+转盘特调	zhuan pan te diao	800
+转转特调	zhuan zhuan te diao	800
+轰轰火花	hong hong huo hua	800
+辉光棱晶	hui guang leng jing	800
+边地薄饼	bian di bao bing	800
+达妮什瓦	da ni shen wa	800
+达尔维什	da er wei shen	800
+达达利亚	da da li ya	800
+迅捷之风	xun jie zhi feng	800
+远古圣山	yuan gu sheng shan	800
+远国御用	yuan guo yu yong	800
+远国监司	yuan guo jian si	800
+远眺之花	yuan tiao zhi hua	800
+远航之风	yuan hang zhi feng	800
+迪弗旧窟	di fu jiu ku	800
+迪芙妲鳐	di fu da yao	800
+迷城战线	mi cheng zhan xian	800
+追忆之风	zhui yi zhi feng	800
+追想练行	zhui xiang lian xing	800
+追溯求真	zhui su qiu zhen	800
+送仙典仪	song xian dian yi	800
+逆位之塔	ni wei zhi ta	800
+逐响擂台	zhu xiang lei tai	800
+逐影猎人	zhu ying lie ren	800
+逐月佳话	zhu yue jia hua	800
+通路计划	tong lu ji hua	800
+速摄快镜	su she kuai jing	800
+逢岳之野	feng yue zhi ye	800
+逾渊地墟	yu yuan di xu	800
+遗世之路	yi shi zhi lu	800
+遗失宮殿	yi shi gong dian	800
+遗忘之路	yi wang zhi lu	800
+遗祀玉珑	yi si yu long	800
+遗迹之烛	yi ji zhi zhu	800
+遗迹守卫	yi ji shou wei	800
+遗迹巨像	yi ji ju xiang	800
+遗迹巨蛇	yi ji ju she	800
+遗迹机兵	yi ji ji bing	800
+遗迹猎者	yi ji lie zhe	800
+遗迹重机	yi ji zhong ji	800
+遗迹重炮	yi ji zhong pao	800
+遗迹龙兽	yi ji long shou	800
+遥遥同旅	yao yao tong lv	800
+避让之丘	bi rang zhi qiu	800
+邀约任务	yao yue ren wu	800
+那先朱那	na xian zhu na	800
+那维莱特	na wei lai te	800
+部族纪闻	bu zu ji wen	800
+郭狐之章	guo hu zhi zhang	800
+酒渍船帽	jiu zi chuan mao	800
+酣乐之殿	han le zhi dian	800
+酣悦晶石	han yue jing shi	800
+酸汁腌鱼	suan zhi yan yu	800
+醅幽蜜库	pei you mi ku	800
+重岩之意	zhong yan zhi yi	800
+重熔片剂	zhong rong pian ji	800
+重甲护盾	zhong jia hu dun	800
+野猪公主	ye zhu gong zhu	800
+野踪气球	ye zong qi qiu	800
+金丝虾球	jin si xia qiu	800
+金流监督	jin liu jian du	800
+金狼之章	jin lang zhi zhang	800
+金砂之旅	jin sha zhi lv	800
+金贝乐棚	jin bei le peng	800
+金赤假龙	jin chi jia long	800
+金铜时晷	jin tong shi gui	800
+鎏金之鳞	liu jin zhi lin	800
+鎏金殿堂	liu jin dian tang	800
+钟离先生	zhong li xian sheng	800
+钢铁之舞	gang tie zhi wu	800
+钱汤馒头	qian tang man tou	800
+铁亦无用	tie yi wu yong	800
+铁影阔剑	tie ying kuo jian	800
+铁皮子爵	tie pi zi jue	800
+铃风王国	ling feng wang guo	800
+铄石之丘	shuo shi zhi qiu	800
+铭记之谷	ming ji zhi gu	800
+铭随流镜	ming sui liu jing	800
+银冷杉木	yin leng shan mu	800
+银月之庭	yin yue zhi ting	800
+银瓶庭院	yin ping ting yuan	800
+银白古樹	yin bai gu shu	800
+锋刃林泽	feng ren lin ze	800
+错忆寻迹	cuo yi xun ji	800
+锦织之章	jin zhi zhi zhang	800
+镀金旅团	du jin lv tuan	800
+镇守之森	zhen shou zhi sen	800
+镇山之钉	zhen shan zhi ding	800
+镇灵之枝	zhen ling zhi zhi	800
+镇灵监牢	zhen ling jian lao	800
+镇灵神龛	zhen ling shen kan	800
+镔铁沙丘	bin tie sha qiu	800
+镜花之琴	jing hua zhi qin	800
+镜花听世	jing hua ting shi	800
+镶边红绸	xiang bian hong chou	800
+长冈秀满	zhang gang xiu man	800
+长夜之誓	chang ye zhi shi	800
+长夜燃火	chang ye ran huo	800
+长杓之章	zhang biao zhi zhang	800
+长柄武器	zhang bing wu qi	800
+长颈角犀	zhang jing jiao xi	800
+长驱直入	chang qu zhi ru	800
+门户清理	men hu qing li	800
+闪耀协奏	shan yao xie zou	800
+闲鹤之章	xian he zhi zhang	800
+阎迦由玛	yan jia you ma	800
+防尘药剂	fang chen yao ji	800
+防潮药剂	fang chao yao ji	800
+防风药剂	fang feng yao ji	800
+阴燃之珠	yin ran zhi zhu	800
+阵代屋敷	zhen dai wu fu	800
+阿亚德瓦	a ya de wa	800
+阿依瓦丁	a yi wa ding	800
+阿倍良久	a bei liang jiu	800
+阿塔希耶	a ta xi ye	800
+阿如拌饭	a ru ban fan	800
+阿尔希普	a er xi pu	800
+阿尔肯迪	a er ken di	800
+阿巴图伊	a ba tu yi	800
+阿布帕隆	a bu pa long	800
+阿布拉克	a bu la ke	800
+阿斯法德	a si fa de	800
+阿斯莫代	a si mo dai	800
+阿梵波谛	a fan bo di	800
+阿汉格尔	a han ge er	800
+阿洛契卡	a luo qi ka	800
+阿特拉号	a te la hao	800
+阿玛兹亚	a ma zi ya	800
+阿科米蒂	a ke mi di	800
+阿纳托尔	a na tuo er	800
+阿维苏菈	a wei su la	800
+阿萨里格	a sa li ge	800
+阿蕾奇诺	a lei qi nuo	800
+阿贾克斯	a jia ke si	800
+阿赫玛尔	a he ma er	800
+阿陀河谷	a tuo he gu	800
+陆上飞沫	lu shang fei mo	800
+降临之剑	jiang lin zhi jian	800
+降临之翼	jiang lin zhi yi	800
+降诸魔山	jiang zhu mo shan	800
+降雷之法	jiang lei zhi fa	800
+降魔大圣	jiang mo da sheng	800
+险途勘探	xian tu kan tan	800
+隐众游园	yin zhong you yuan	800
+隐兽利爪	yin shou li zhua	800
+隐兽指爪	yin shou zhi zhao	800
+隐兽鬼爪	yin shou gui zhao	800
+隐山猊兽	yin shan ni shou	800
+隐视元件	yin shi yuan jian	800
+隙境原体	xi jing yuan ti	800
+隙间之核	xi jian zhi he	800
+隠玉之泉	yin yu zhi quan	800
+雅诺斯基	ya nuo si ji	800
+集光撷彩	ji guang xie cai	800
+集群意识	ji qun yi shi	800
+雕猫之法	diao mao zhi fa	800
+雕琢童心	diao zhuo tong xin	800
+雨化竹身	yu hua zhu shen	800
+雨奇晴好	yu qi qing hao	800
+雨林沙拉	yu lin sha la	800
+雨的尽头	yu de jin tou	800
+雪山迷踪	xue shan mi zong	800
+雪界访客	xue jie fang ke	800
+雪白迷踪	xue bai mi zong	800
+雪隐之翼	xue yin zhi yi	800
+雪鹤之章	xue he zhi zhang	800
+零时召唤	ling shi zhao huan	800
+零落丘墟	ling luo qiu xu	800
+雷云之笼	lei yun zhi long	800
+雷光棱镜	lei guang leng jing	800
+雷史莱姆	lei shi lai mu	800
+雷承之鉴	lei cheng zhi jian	800
+雷樱之枝	lei ying zhi zhi	800
+雷漂浮灵	lei piao fu ling	800
+雷电五传	lei dian wu chuan	800
+雷电将军	lei dian jiang jun	800
+雷穆利亚	lei mu li ya	800
+雷萤术士	lei ying shu shi	800
+雷野险踪	lei ye xian zong	800
+雷霆探针	lei ting tan zhen	800
+雷霆数珠	lei ting shu zhu	800
+雷音权现	lei yin quan xian	800
+雾凇秋分	wu song qiu fen	800
+雾海纪行	wu hai ji xing	800
+雾虚灯芯	wu xu deng xin	800
+雾虚花粉	wu xu hua fen	800
+雾虚草囊	wu xu cao nang	800
+霍普特曼	huo pu te man	800
+霓裾翩跹	ni ju pian xian	800
+霜劫精油	shuang jie jing you	800
+霜月之坊	shuang yue zhi fang	800
+霜月之子	shuang yue zhi zi	800
+霞色宝珠	xia se bao zhu	800
+靖世九柱	jing shi jiu zhu	800
+靖妖傩舞	jing yao nuo wu	800
+静态风景	jing tai feng jing	800
+静暇雅宴	jing xia ya yan	800
+静谧之曲	jing mi zhi qu	800
+非法飘荡	fei fa piao dang	800
+面团大王	mian tuan da wang	800
+韶光抚月	shao guang fu yue	800
+须弥蔷薇	xu mi qiang wei	800
+须臾树脂	xu yu shu zhi	800
+须陀流心	xu tuo liu xin	800
+风之厄灵	feng zhi e ling	800
+风信之锋	feng xin zhi feng	800
+风史莱姆	feng shi lai mu	800
+风后宝矿	feng hou bao kuang	800
+风啸山坡	feng xiao shan po	800
+风沙轰鸣	feng sha hong ming	800
+风漂浮灵	feng piao fu ling	800
+风物之歌	feng wu zhi ge	800
+风物留影	feng wu liu ying	800
+风蚀沙虫	feng shi sha chong	800
+风行迷踪	feng xing mi zong	800
+风起之日	feng qi zhi ri	800
+风起微澜	feng qi wei lan	800
+风起风息	feng qi feng xi	800
+风起鹤归	feng qi he gui	800
+风龙废墟	feng long fei xu	800
+飓风之种	ju feng zhi zhong	800
+飘浮秘灵	piao fu mi ling	800
+飞云商会	fei yun shang hui	800
+飞天御剑	fei tian yu jian	800
+飞泉游隙	fei quan you xi	800
+飞漆溅彩	fei qi jian cai	800
+飞玉趣掷	fei yu qu zhi	800
+飞蝇假饵	fei ying jia er	800
+飞行堇瓜	fei xing jin gua	800
+食岩之罚	shi yan zhi fa	800
+食盐之罚	shi yan zhi fa	800
+餐食大事	can shi da shi	800
+饰猫之法	shi mao zhi fa	800
+饰金之梦	shi jin zhi meng	800
+饰金胸花	shi jin xiong hua	800
+饰铁之花	shi tie zhi hua	800
+饱饮之丘	bao yin zhi qiu	800
+香炸春卷	xiang zha chun juan	800
+香韵奏者	xiang yun zou zhe	800
+香馥繁味	xiang fu fan wei	800
+马尼菲科	ma ni fei ke	800
+马斯克礁	ma si ke jiao	800
+马科修斯	ma ke xiu si	800
+马萨欧斯	ma sa ou si	800
+驮兽大王	tuo shou da wang	800
+骆骆驮兽	luo luo tuo shou	800
+骗骗花蜜	pian pian hua mi	800
+高翔之羽	gao xiang zhi yu	800
+魂梦残影	hun meng can ying	800
+魇翼枯骸	yan yi ku hai	800
+魔偶剑鬼	mo ou jian gui	800
+魔偶机芯	mo ou ji xin	800
+魔像督军	mo xiang du jun	800
+魔像禁卫	mo xiang jin wei	800
+魔导绪论	mo dao xu lun	800
+魔术口袋	mo shu kou dai	800
+魔术特调	mo shu te diao	800
+魔王武装	mo wang wu zhuang	800
+魔神任务	mo shen ren wu	800
+魔神战争	mo shen zhan zheng	800
+魔药研析	mo yao yan xi	800
+鱼群之家	yu qun zhi jia	800
+鱼香吐司	yu xiang tu si	800
+鲸井小弟	jing jing xiao di	800
+鲸天之章	jing tian zhi zhang	800
+鳄鱼大王	e yu da wang	800
+鳄鱼肉干	e yu rou gan	800
+鳄鳄炮炮	e e pao pao	800
+鸟蛋寿司	niao dan shou si	800
+鸟髄孑灯	niao sui jie deng	800
+鸣神大社	ming shen da she	800
+鸣神寻踪	ming shen xun zong	800
+鹤鸣余音	he ming yu yin	800
+鹮巷物语	huan xiang wu yu	800
+鹮穿之喙	huan chuan zhi hui	800
+鹰司朝秀	ying si chao xiu	800
+鹰翔海滩	ying xiang hai tan	800
+鹿野奈奈	lu ye nai nai	800
+麓阳书院	lu yang shu yuan	800
+黄油松茸	huang you song rong	800
+黄油煎鱼	huang you jian yu	800
+黄油蟹蟹	huang you xie xie	800
+黄色染料	huang se ran liao	800
+黄金剧团	huang jin ju tuan	800
+黄金梦乡	huang jin meng xiang	800
+黄金流星	huang jin liu xing	800
+黄金王兽	huang jin wang shou	800
+黎明神剑	li ming shen jian	800
+黑岩之困	hei yan zhi kun	800
+黑岩刺枪	hei yan ci qiang	800
+黑岩战弓	hei yan zhan gong	800
+黑岩斩刀	hei yan zhan dao	800
+黑岩绯玉	hei yan fei yu	800
+黑岩长剑	hei yan chang jian	800
+黑晶号角	hei jing hao jiao	800
+黑曜秘典	hei yao mi dian	800
+黑蛇骑士	hei she qi shi	800
+黑钱领主	hei qian ling zhu	800
+黑铜号角	hei tong hao jiao	800
+黯淡棱镜	an dan leng jing	800
+黯色空壳	an se kong ke	800
+齐娜伊达	qi na yi da	800
+齐齐整整	qi qi zheng zheng	800
+龙之魂附	long zhi hun fu	800
+龙共云飞	long gong yun fei	800
+龙嗣伪鳍	long si wei qi	800
+龙王之冕	long wang zhi mian	800
+龙的归巢	long de gui chao	800
+龙脊长枪	long ji chang qiang	800
+龙脊雪山	long ji xue shan	800
+龙龙同游	long long tong you	800
+龙龙寻宝	long long xun bao	800
+龙龙饼干	long long bing gan	800
+龟井宗久	gui jing zong jiu	800
+万杰鲁	wan jie lu	800
+万民堂	wan min tang	800
+万相石	wan xiang shi	800
+三奉行	san feng xing	800
+三河茜	san he qian	800
+不卜庐	bu bo lu	800
+世界式	shi jie shi	800
+世界树	shi jie shu	800
+丘丘人	qiu qiu ren	800
+丘丘王	qiu qiu wang	800
+业果木	ye guo mu	800
+丝柯克	si ke ke	800
+丹砂崖	dan sha ya	800
+丽切娅	li qie ya	800
+久利须	jiu li xu	800
+久岐忍	jiu qi ren	800
+久雨莲	jiu yu lian	800
+乌兰塔	wu lan ta	800
+乌冬面	wu dong mian	800
+乌威佐	wu wei zuo	800
+乌尔曼	wu er man	800
+乌尔法	wu er fa	800
+乌尔班	wu er ban	800
+乌帽子	wu mao zi	800
+乌有亭	wu you ting	800
+乌苏拉	wu su la	800
+乔瑟夫	qiao se fu	800
+九老师	jiu lao shi	800
+事件牌	shi jian pai	800
+二净甸	er jing dian	800
+二重身	er chong shen	800
+云先生	yun xian sheng	800
+云来海	yun lai hai	800
+云翰社	yun han she	800
+云遮玉	yun zhe yu	800
+五百藏	wu bai cang	800
+仙跳墙	xian tiao qiang	800
+仙速瓶	xian su ping	800
+伊克娜	yi ke na	800
+伊凯卡	yi kai ka	800
+伊卡力	yi ka li	800
+伊卡尤	yi ka you	800
+伊娜姆	yi na mu	800
+伊安珊	yi an shan	800
+伊尔基	yi er ji	800
+伊尔明	yi er ming	800
+伊尔洁	yi er jie	800
+伊捷莉	yi jie li	800
+伊柯蒂	yi ke di	800
+伊洛克	yi luo ke	800
+伊涅芙	yi nie fu	800
+伊瓦尔	yi wa er	800
+伊约芭	yi yue ba	800
+伊维斯	yi wei si	800
+伊莱尔	yi lai er	800
+伊迪娅	yi di ya	800
+伊雷尔	yi lei er	800
+伊马雷	yi ma lei	800
+伏鳌谷	fu ao gu	800
+伦波岛	lun bo dao	800
+伯特兰	bo te lan	800
+佐佐木	zuo zuo mu	800
+俱利鼓	ju li gu	800
+元素骰	yuan su tou	800
+先成图	xian cheng tu	800
+光之獅	guang zhi shi	800
+克维库	ke wei ku	800
+克雷薇	ke lei wei	800
+克鲁切	ke lu qie	800
+八奇仙	ba qi xian	800
+八酝岛	ba yun dao	800
+八重堂	ba zhong tang	800
+兰伽卢	lan ga lu	800
+兰利遮	lan li zhe	800
+兰塔宁	lan ta ning	800
+兰帝裟	lan di sha	800
+兰拉娜	lan la na	800
+兰拉迦	lan la jia	800
+兰沙恭	lan sha gong	800
+兰纳真	lan na zhen	800
+兰纳迦	lan na jia	800
+兰罗摩	lan luo mo	800
+兰耆都	lan qi dou	800
+兰般度	lan ban du	800
+兰萨卡	lan sa ka	800
+兰贡迪	lan gong di	800
+兰赫玛	lan he ma	800
+兰迦鲁	lan jia lu	800
+兰那罗	lan na luo	800
+兰阐荼	lan chan tu	800
+兰陀娑	lan tuo suo	800
+兰非拉	lan fei la	800
+兹沃妮	zi wo ni	800
+冒险家	mao xian jia	800
+冬凌草	dong ling cao	800
+冬妮娅	dong ni ya	800
+冰晶蝶	bing jing die	800
+冰雾花	bing wu hua	800
+冷鲜肉	leng xian rou	800
+净光翎	jing guang ling	800
+净善宫	jing shan gong	800
+净觉湖	jing jue hu	800
+净觉花	jing jue hua	800
+凋零弹	diao ling dan	800
+凛角鹿	lin jiao lu	800
+凯瑟琳	kai se lin	800
+刃连岛	ren lian dao	800
+切瑟尔	qie se er	800
+判官儿	pan guan er	800
+利别科	li bie ke	800
+利鸟芭	li niao ba	800
+别蕾娜	bie lei na	800
+刺梨岩	ci li yan	800
+刺梨镇	ci li zhen	800
+刺玫会	ci mei hui	800
+刺葵木	ci kui mu	800
+刻莱诺	ke lai nuo	800
+加奥凯	jia ao kai	800
+加尔恰	jia er qia	800
+加希菈	jia xi la	800
+加普依	jia pu yi	800
+加莉娜	jia li na	800
+努斯妲	nu si da	800
+劫波莲	jie bo lian	800
+劳乌里	lao wu li	800
+劳伦斯	lao lun si	800
+劳维克	lao wei ke	800
+势能球	shi neng qiu	800
+勒塞克	lei sai ke	800
+化城郭	hua cheng guo	800
+化种匣	hua zhong xia	800
+北地猫	bei di mao	800
+匿叶龙	ni ye long	800
+千岩军	qian yan jun	800
+千岩团	qian yan tuan	800
+千织屋	qian zhi wu	800
+华光林	hua guang lin	800
+卓佳娜	zhuo jia na	800
+单手剑	dan shou jian	800
+卖唱的	mai chang de	800
+南天门	nan tian men	800
+博比克	bo bi ke	800
+卡乌洛	ka wu luo	800
+卡乌胡	ka wu hu	800
+卡乌鲁	ka wu lu	800
+卡兹加	ka zi jia	800
+卡列瓦	ka lie wa	800
+卡卡塔	ka ka ta	800
+卡塔扬	ka ta yang	800
+卡布林	ka bu lin	800
+卡欣妲	ka xin da	800
+卡瓦贾	ka wa jia	800
+卡纳卡	ka na ka	800
+卡胡那	ka hu na	800
+卡胡鲁	ka hu lu	800
+卡莉露	ka li lu	800
+卡萝蕾	ka luo lei	800
+卡西夫	ka xi fu	800
+卡雷斯	ka lei si	800
+卡齐娜	ka qi na	800
+卢皮卡	lu pi ka	800
+卢西恩	lu xi en	800
+卢香香	lu xiang xiang	800
+卫兵犬	wei bing quan	800
+卯师傅	mao shi fu	800
+危危岛	wei wei dao	800
+却砂木	que sha mu	800
+厄代尔	e dai er	800
+厄尔蜜	e er mi	800
+原木刀	yuan mu dao	800
+原激化	yuan ji hua	800
+双双岛	shuang shuang dao	800
+双手剑	shuang shou jian	800
+双果卷	shuang guo juan	800
+反抗军	fan kang jun	800
+反曲弓	fan qu gong	800
+口袋饼	kou dai bing	800
+古华派	gu hua pai	800
+古德温	gu de wen	800
+古拉卜	gu la bo	800
+古洛韦	gu luo wei	800
+古石螺	gu shi luo	800
+古谷升	gu gu sheng	800
+古铁钱	gu tie qian	800
+史莱姆	shi lai mu	800
+叶戈尔	ye ge er	800
+叶洛亚	ye luo ya	800
+叶莲娜	ye lian na	800
+合成台	he cheng tai	800
+吉光虫	ji guang chong	800
+吉恩布	ji en bu	800
+吉沃尼	ji wo ni	800
+吉法师	ji fa shi	800
+名刀镡	ming dao chan	800
+名椎滩	ming chui tan	800
+吞羊岩	tun yang yan	800
+吴船长	wu chuan zhang	800
+味噌汤	wei ceng tang	800
+呼呼丘	hu hu qiu	800
+命之座	ming zhi zuo	800
+命定值	ming ding zhi	800
+和璞鸢	he pu yuan	800
+咏月使	yong yue shi	800
+咔嚓！	ka cha	800
+咔库库	ka ku ku	800
+咕咕丸	gu gu wan	800
+咖啡豆	ka fei dou	800
+咖喱虾	ga li xia	800
+哈夫丹	ha fu dan	800
+哈夫纳	ha fu na	800
+哈里斯	ha li si	800
+哈鲁特	ha lu te	800
+喀万驿	ka wan yi	800
+善见地	shan jian di	800
+嘉莱娜	jia lai na	800
+嘟嘟可	du du ke	800
+嘟嘟莲	du du lian	800
+四叶印	si ye yin	800
+因薛尼	yin xue ni	800
+图伊佳	tu yi jia	800
+图娜卡	tu na ka	800
+图尼娜	tu ni na	800
+图帕克	tu pa ke	800
+图达玛	tu da ma	800
+土豆船	tu dou chuan	800
+圣显厅	sheng xian ting	800
+圣章石	sheng zhang shi	800
+圣遗物	sheng yi wu	800
+圣金虫	sheng jin chong	800
+圣骸兽	sheng hai shou	800
+在他乡	zai ta xiang	800
+地头蛇	di tou she	800
+地灵龛	di ling kan	800
+均衡态	jun heng tai	800
+坎塔鲁	kan ta lu	800
+坎托尔	kan tuo er	800
+坎瑞亚	kan rui ya	800
+坎蒂丝	kan di si	800
+垂香木	chui xiang mu	800
+埃兹莉	ai zi li	800
+埃德勒	ai de lei	800
+埃德恩	ai de en	800
+埃洛雯	ai luo wen	800
+基尼奇	ji ni qi	800
+基末尔	ji mo er	800
+基班古	ji ban gu	800
+基耶霍	ji ye huo	800
+基莫西	ji mo xi	800
+基里亚	ji li ya	800
+堆高高	dui gao gao	800
+塔列辛	ta lie xin	800
+塔利雅	ta li ya	800
+塔勒特	ta lei te	800
+塔卢加	ta lu jia	800
+塔塔可	ta ta ke	800
+塔尔科	ta er ke	800
+塔尔诺	ta er nuo	800
+塔德菈	ta de la	800
+塔拉内	ta la nei	800
+塔莫蕾	ta mo lei	800
+塞塔蕾	sai ta lei	800
+塞德娜	sai de na	800
+塞琉斯	sai liu si	800
+塞萨尔	sai sa er	800
+墩墩桃	dun dun tao	800
+复律官	fu lv guan	800
+复律庭	fu lv ting	800
+夏安卡	xia an ka	800
+夏槲果	xia hu guo	800
+夏沃蕾	xia wo lei	800
+夏洛蒂	xia luo di	800
+多多烧	duo duo shao	800
+多托雷	duo tuo lei	800
+夜之玉	ye zhi yu	800
+夜泊石	ye po shi	800
+夜魂值	ye hun zhi	800
+大和田	da he tian	800
+大团长	da tuan zhang	800
+大小姐	da xiao jie	800
+大巴扎	da ba zha	800
+大掌书	da zhang shu	800
+大方广	da fang guang	800
+大生意	da sheng yi	800
+大碗茶	da wan cha	800
+大肉丸	da rou wan	800
+大贤者	da xian zhe	800
+大迷糊	da mi hu	800
+大铁块	da tie kuai	800
+天云峠	tian yun qia	800
+天工峡	tian gong xia	800
+天枢肉	tian shu rou	800
+天目流	tian mu liu	800
+天空岛	tian kong dao	800
+天臂池	tian bi chi	800
+天衡山	tian heng shan	800
+天遒谷	tian qiu gu	800
+天顶屋	tian ding wu	800
+太山府	tai shan fu	800
+太郎丸	tai lang wan	800
+太阳蟹	tai yang xie	800
+夸恩因	kua en yin	800
+奇械公	qi xie gong	800
+奇皮茨	qi pi ci	800
+奇科娅	qi ke ya	800
+奇马利	qi ma li	800
+奈芙尔	nai fu er	800
+奔狼岭	ben lang ling	800
+奥乌兹	ao wu zi	800
+奥伊瓦	ao yi wa	800
+奥伯龙	ao bo long	800
+奥列格	ao lie ge	800
+奥多夫	ao duo fu	800
+奥奇坎	ao qi kan	800
+奥尔科	ao er ke	800
+奥尼扬	ao ni yang	800
+奥拉夫	ao la fu	800
+奥拉维	ao la wei	800
+奥比奇	ao bi qi	800
+奥科兰	ao ke lan	800
+奥藏山	ao cang shan	800
+奥赛尔	ao sai er	800
+奥雷勒	ao lei lei	800
+奥雷卢	ao lei lu	800
+奥黛塔	ao dai ta	800
+好感度	hao gan du	800
+妮佩卡	ni pei ka	800
+妮内特	ni nei te	800
+妮扎娅	ni zha ya	800
+妮赫佳	ni he jia	800
+始基力	shi ji li	800
+始基矿	shi ji kuang	800
+威拉格	wei la ge	800
+娜塔芭	na ta ba	800
+娜娜丝	na na si	800
+娜比雅	na bi ya	800
+娜玛卡	na ma ka	800
+娜维娅	na wei ya	800
+娜蒂亚	na di ya	800
+嫣朵拉	yan duo la	800
+孔雀木	kong que mu	800
+孤云阁	gu yun ge	800
+守村人	shou cun ren	800
+安东尼	an dong ni	800
+安切塔	an qie ta	800
+安塞姆	an sai mu	800
+安妮克	an ni ke	800
+安德烈	an de lie	800
+安托哈	an tuo ha	800
+安普叔	an pu shu	800
+安洁娅	an jie ya	800
+安洛丝	an luo si	800
+安眠处	an mian chu	800
+安莱夫	an lai fu	800
+安菲莎	an fei sha	800
+宝商街	bao shang jie	800
+宝玦口	bao jue kou	800
+审判！	shen pan	800
+寂静园	ji jing yuan	800
+富尼耶	fu ni ye	800
+察尔瓦	cha er wa	800
+小仓屋	xiao cang wu	800
+小仓澪	xiao cang ling	800
+小可爱	xiao ke ai	800
+小呜斯	xiao wu si	800
+小委托	xiao wei tuo	800
+小杜林	xiao du lin	800
+小水珠	xiao shui zhu	800
+小灯草	xiao deng cao	800
+小野寺	xiao ye si	800
+小雀儿	xiao que er	800
+尘歌壶	chen ge hu	800
+尤夫腾	you fu teng	800
+尤尔瓦	you er wa	800
+尤庇娅	you bi ya	800
+尤鲁赫	you lu he	800
+尼基塔	ni ji ta	800
+尼泽尔	ni ze er	800
+居勒什	ju lei shen	800
+居尔城	ju er cheng	800
+山家烧	shan jia shao	800
+岛政兴	dao zheng xing	800
+岩之印	yan zhi yin	800
+岩居蟹	yan ju xie	800
+岩晶蝶	yan jing die	800
+岩种子	yan zhong zi	800
+岩龙蜥	yan long xi	800
+嵴锋龙	ji feng long	800
+巡林官	xun lin guan	800
+巡轨船	xun gui chuan	800
+左右加	zuo you jia	800
+巧克力	qiao ke li	800
+巴比斯	ba bi si	800
+巴沙尔	ba sha er	800
+巴穆恩	ba mu en	800
+巴莱卡	ba lai ka	800
+巴螺迦	ba luo jia	800
+布丁岛	bu ding dao	800
+布伦妮	bu lun ni	800
+布兰琪	bu lan qi	800
+布列松	bu lie song	800
+布基纳	bu ji na	800
+布希柯	bu xi ke	800
+布洛克	bu luo ke	800
+布纳马	bu na ma	800
+布耶尔	bu ye er	800
+希丁芭	xi ding ba	800
+希亚赫	xi ya he	800
+希伊亚	xi yi ya	800
+希古居	xi gu ju	800
+希奥多	xi ao duo	800
+希格雯	xi ge wen	800
+希汐岛	xi xi dao	800
+希诺宁	xi nuo ning	800
+帔髦獾	pei mao huan	800
+帕伊沃	pa yi wo	800
+帕加尔	pa jia er	800
+帕华娅	pa hua ya	800
+帕哈岛	pa ha dao	800
+帕斯里	pa si li	800
+帕维尔	pa wei er	800
+席尔万	xi er wan	800
+常九爷	chang jiu ye	800
+平海砦	ping hai zhai	800
+幸运儿	xing yun er	800
+幻写灵	huan xie ling	800
+幽浮鳐	you fu yao	800
+幽灯蕈	you deng xun	800
+幽闭花	you bi hua	800
+庆云顶	qing yun ding	800
+庆次郎	qing ci lang	800
+库伊米	ku yi mi	800
+库塔尔	ku ta er	800
+库塞拉	ku sai la	800
+库斯可	ku si ke	800
+库约尼	ku yue ni	800
+库纳克	ku na ke	800
+库阿勒	ku a lei	800
+库齐娅	ku qi ya	800
+延塔莎	yan ta sha	800
+式大将	shi da jiang	800
+弗拉德	fu la de	800
+弗莱琪	fu lai qi	800
+弥坚骨	mi jian gu	800
+弹弹菇	dan dan gu	800
+归离原	gui li yuan	800
+归终机	gui zhong ji	800
+彩彩崖	cai cai ya	800
+彩彩洞	cai cai dong	800
+彩石顶	cai shi ding	800
+影向山	ying xiang shan	800
+影狼丸	ying lang wan	800
+往生堂	wang sheng tang	800
+御伽木	yu ga mu	800
+德安公	de an gong	800
+德文特	de wen te	800
+德米安	de mi an	800
+志村屋	zhi cun wu	800
+忧昙花	you tan hua	800
+快刀陈	kuai dao chen	800
+怀尔德	huai er de	800
+急冻树	ji dong shu	800
+总务司	zong wu si	800
+恒素果	heng su guo	800
+恩孔加	en kong jia	800
+恩波索	en bo suo	800
+恩胡马	en hu ma	800
+恩铁戈	en tie ge	800
+恰斯卡	qia si ka	800
+恶王丸	e wang wan	800
+悠可琴	you ke qin	800
+悬练山	xuan lian shan	800
+悬铃木	xuan ling mu	800
+悼灵花	dao ling hua	800
+惑饲滩	huo si tan	800
+愚人众	yu ren zhong	800
+戟冠鸟	ji guan niao	800
+托尔芬	tuo er fen	800
+托泰克	tuo tai ke	800
+托皮娅	tuo pi ya	800
+扣三丝	kou san si	800
+执律庭	zhi lv ting	800
+执灯人	zhi deng ren	800
+执行官	zhi xing guan	800
+投資券	tou zi quan	800
+折胫谷	zhe jing gu	800
+护世森	hu shi sen	800
+拉姆齐	la mu qi	800
+拉威亚	la wei ya	800
+拉沃夏	la wo xia	800
+拉沙鲁	la sha lu	800
+拉瓦特	la wa te	800
+拉赫曼	la he man	800
+拉马奈	la ma nai	800
+拜达港	bai da gang	800
+拾枝者	shi zhi zhe	800
+捕风瓶	bu feng ping	800
+探索度	tan suo du	800
+掣电树	che dian shu	800
+推数机	tui shu ji	800
+提提岛	ti ti dao	800
+提瓦特	ti wa te	800
+提纳里	ti na li	800
+提莫尔	ti mo er	800
+摆渡人	bai du ren	800
+摘星崖	zhai xing ya	800
+摩拉肉	mo la rou	800
+撼地者	han di zhe	800
+擒霞客	qin xia ke	800
+支援牌	zhi yuan pai	800
+攻击力	gong ji li	800
+放热瓶	fang re ping	800
+放牛的	fang niu de	800
+放电石	fang dian shi	800
+教令官	jiao ling guan	800
+教令院	jiao ling yuan	800
+斗棘鱼	dou ji yu	800
+斯嘉莉	si jia li	800
+斯坦利	si tan li	800
+斯库拉	si ku la	800
+斯露莎	si lu sha	800
+新之丞	xin zhi cheng	800
+新月轩	xin yue xuan	800
+方妮雅	fang ni ya	800
+方格尔	fang ge er	800
+施芮娅	shi rui ya	800
+旅时者	lv shi zhe	800
+旅行剑	lv xing jian	800
+旅行者	lv xing zhe	800
+无妄坡	wu wang po	800
+无忧节	wu you jie	800
+无明砦	wu ming zhai	800
+无留陀	wu liu tuo	800
+无锋剑	wu feng jian	800
+日落果	ri luo guo	800
+旧贵族	jiu gui zu	800
+时与风	shi yu feng	800
+时之沙	shi zhi sha	800
+时装秀	shi zhuang xiu	800
+昆纳鸟	kun na niao	800
+明冠峡	ming guan xia	800
+明星斋	ming xing zhai	800
+明月蛋	ming yue dan	800
+明石灯	ming shi deng	800
+明芸花	ming yun hua	800
+明蕴镇	ming yun zhen	800
+明霄灯	ming xiao deng	800
+昏识塔	hun shi ta	800
+星砂滩	xing sha tan	800
+星落湖	xing luo hu	800
+星超导	xing chao dao	800
+春香窑	chun xiang yao	800
+普克莱	pu ke lai	800
+普萨科	pu sa ke	800
+晶螺糕	jing luo gao	800
+智慧宫	zhi hui gong	800
+暝垣山	ming yuan shan	800
+暝彩鸟	ming cai niao	800
+暝视龙	ming shi long	800
+暮暮羊	mu mu yang	800
+暴击率	bao ji lv	800
+曼尤雅	man you ya	800
+曼陀草	man tuo cao	800
+月之印	yue zhi yin	800
+月光鳍	yue guang qi	800
+月感电	yue gan dian	800
+月海亭	yue hai ting	800
+月矩力	yue ju li	800
+月结晶	yue jie jing	800
+月绽放	yue zhan fang	800
+月荡海	yue dang hai	800
+月萤虫	yue ying chong	800
+月落银	yue luo yin	800
+有顶塔	you ding ta	800
+望泷村	wang long cun	800
+望风角	wang feng jiao	800
+木簧笛	mu huang di	800
+本瑟姆	ben se mu	800
+朱老板	zhu lao ban	800
+权杖厅	quan zhang ting	800
+杜吉耶	du ji ye	800
+杜麦尼	du mai ni	800
+来来菜	lai lai cai	800
+杰洛尼	jie luo ni	800
+松伽塔	song ga ta	800
+松珀香	song po xiang	800
+松鼠鱼	song shu yu	800
+极恶骑	ji e qi	800
+林之梦	lin zhi meng	800
+林德曼	lin de man	800
+果酒湖	guo jiu hu	800
+果酿饵	guo niang er	800
+枫丹廷	feng dan ting	800
+柊千里	zhong qian li	800
+柊弘嗣	zhong hong si	800
+柊慎介	zhong shen jie	800
+柔柔羊	rou rou yang	800
+柔灯港	rou deng gang	800
+柔灯铃	rou deng ling	800
+查尔斯	cha er si	800
+查帕莉	cha pa li	800
+柯奇妲	ke qi da	800
+柯莎玛	ke sha ma	800
+柴葉紫	chai ye zi	800
+査霍尔	zha huo er	800
+栖木普	qi mu pu	800
+栗栗羊	li li yang	800
+格列布	ge lie bu	800
+格维妲	ge wei da	800
+桑哈杰	sang ha jie	800
+桑多涅	sang duo nie	800
+桑娜妲	sang na da	800
+桓摩达	huan mo da	800
+梅兰塔	mei lan ta	800
+梅内娅	mei nei ya	800
+梅康顿	mei kang dun	800
+梅涅托	mei nie tuo	800
+梅薇丝	mei wei si	800
+梅里爱	mei li ai	800
+梅雅德	mei ya de	800
+梦见木	meng jian mu	800
+梵米尔	fan mi er	800
+检律庭	jian lv ting	800
+棘冠鳄	ji guan e	800
+森林书	sen lin shu	800
+椰炭饼	ye tan bing	800
+楠塔克	nan ta ke	800
+槲梭饵	hu suo er	800
+欧库夏	ou ku xia	800
+欧洛伦	ou luo lun	800
+欧莎薇	ou sha wei	800
+欧菲妮	ou fei ni	800
+欧蒂菈	ou di la	800
+欧蜜涅	ou mi nie	800
+歌剧院	ge ju yuan	800
+死之羽	si zhi yu	800
+死域瘤	si yu liu	800
+比夫茏	bi fu long	800
+比约恩	bi yue en	800
+毗波耶	pi bo ye	800
+水之印	shui zhi yin	800
+水之核	shui zhi he	800
+水晶块	shui jing kuai	800
+水晶宴	shui jing yan	800
+水晶虾	shui jing xia	800
+水晶蝶	shui jing die	800
+水月池	shui yue chi	800
+水种子	shui zhong zi	800
+汉佩克	han pei ke	800
+汤义刚	tang yi gang	800
+沃伊图	wo yi tu	800
+沃摩延	wo mo yan	800
+沃特林	wo te lin	800
+沉玉谷	chen yu gu	800
+沉珑渊	chen long yuan	800
+沙上花	sha shang hua	800
+沙中花	sha zhong hua	800
+沙之眼	sha zhi yan	800
+沙基尔	sha ji er	800
+沙脂蛹	sha zhi yong	800
+沫芒宫	mo mang gong	800
+泉之境	quan zhi jing	800
+法厄同	fa e tong	800
+法尔伽	fa er ga	800
+法德瓦	fa de wa	800
+法拉娜	fa la na	800
+法杰伊	fa jie yi	800
+法洁欧	fa jie ou	800
+法涅斯	fa nie si	800
+法留纳	fa liu na	800
+泡泡桔	pao pao ju	800
+波吉吉	bo ji ji	800
+波奇奇	bo qi qi	800
+波尔托	bo er tuo	800
+波尼尼	bo ni ni	800
+波泽娜	bo ze na	800
+泽纳娜	ze na na	800
+泽维尔	ze wei er	800
+泽西切	ze xi qie	800
+洛伦佐	luo lun zuo	800
+洛耶茨	luo ye ci	800
+洛蒂娅	luo di ya	800
+流放者	liu fang zhe	800
+流月针	liu yue zhen	800
+流浪者	liu lang zhe	800
+测距规	ce ju gui	800
+浪浪湾	lang lang wan	800
+浮光球	fu guang qiu	800
+浮沤泊	fu ou po	800
+浮流鸟	fu liu niao	800
+浮燃鸟	fu ran niao	800
+浮生石	fu sheng shi	800
+浮罗囿	fu luo you	800
+海亚姆	hai ya mu	800
+海勒姆	hai lei mu	800
+海妮耶	hai ni ye	800
+海尔希	hai er xi	800
+海崖鹦	hai ya ying	800
+海捷德	hai jie de	800
+海沫村	hai mo cun	800
+海灯节	hai deng jie	800
+海灵芝	hai ling zhi	800
+海祇岛	hai qi dao	800
+海芭夏	hai ba xia	800
+海蓝蟹	hai lan xie	800
+海露港	hai lu gang	800
+海露站	hai lu zhan	800
+海露花	hai lu hua	800
+涌流地	yong liu di	800
+涤尘铃	di chen ling	800
+淑女犬	shu nv quan	800
+深秘院	shen mi yuan	800
+清幻剂	qing huan ji	800
+清水玉	qing shui yu	800
+清泉镇	qing quan zhen	800
+清白饵	qing bai er	800
+清籁岛	qing lai dao	800
+渊下宫	yuan xia gong	800
+渌华池	lu hua chi	800
+渡厄厅	du e ting	800
+温妮莎	wen ni sha	800
+温斯洛	wen si luo	800
+温火饵	wen huo er	800
+游学者	you xue zhe	800
+溶水域	rong shui yu	800
+漂浮灵	piao fu ling	800
+漫曛谷	man xun gu	800
+澄晶实	cheng jing shi	800
+火之印	huo zhi yin	800
+火晶蝶	huo jing die	800
+灰余晶	hui yu jing	800
+灰郁香	hui yu xiang	800
+灰颈鹳	hui jing guan	800
+灵光碑	ling guang bei	800
+灵宝铎	ling bao duo	800
+灵枢庭	ling shu ting	800
+灵濛山	ling meng shan	800
+灵矩关	ling ju guan	800
+灵谷木	ling gu mu	800
+灵酚香	ling fen xiang	800
+炸春鲜	zha chun xian	800
+烈焰花	lie yan hua	800
+烈绽放	lie zhan fang	800
+烟花筒	yan hua tong	800
+烤肉卷	kao rou juan	800
+烤肉排	kao rou pai	800
+烬寂海	jin ji hai	800
+烬芯花	jin xin hua	800
+熏禽肉	xun qin rou	800
+熟练度	shu lian du	800
+燃爆木	ran bao mu	800
+爆炎树	bao yan shu	800
+爆米花	bao mi hua	800
+爱依菈	ai yi la	800
+爱可菲	ai ke fei	800
+爱德琳	ai de lin	800
+爱拉尼	ai la ni	800
+爱维琳	ai wei lin	800
+爱茜蘑	ai qian mo	800
+爱莉厄	ai li e	800
+爱莱妲	ai lai da	800
+爱莱莎	ai lai sha	800
+爱贝尔	ai bei er	800
+特巡队	te xun dui	800
+特帕尔	te pa er	800
+特战队	te zhan dui	800
+特拉波	te la bo	800
+特瓦林	te wa lin	800
+特许券	te xu quan	800
+特诺切	te nuo qie	800
+特阿墨	te a mo	800
+特雷斯	te lei si	800
+特马乔	te ma qiao	800
+狐斋宫	hu zhai gong	800
+狗三儿	gou san er	800
+狛荷屋	bo he wu	800
+猎刀鳐	lie dao yao	800
+猎月人	lie yue ren	800
+猎鹿人	lie lu ren	800
+猫之迹	mao zhi ji	800
+獭懒羊	ta lan yang	800
+玄文兽	xuan wen shou	800
+玉京台	yu jing tai	800
+玉璜龟	yu huang gui	800
+王山厅	wang shan ting	800
+王平安	wang ping an	800
+玛丽安	ma li an	800
+玛乔丽	ma qiao li	800
+玛伊佳	ma yi jia	800
+玛兹嘉	ma zi jia	800
+玛塞勒	ma sai lei	800
+玛拉妮	ma la ni	800
+玛柳莎	ma liu sha	800
+玛梅赫	ma mei he	800
+玛玛拉	ma ma la	800
+玛茜菈	ma qian la	800
+玛薇卡	ma wei ka	800
+玛鲁特	ma lu te	800
+玫莉莎	mei li sha	800
+珀西芙	po xi fu	800
+珉光虫	min guang chong	800
+珊瑚宫	shan hu gong	800
+珊瑚蝶	shan hu die	800
+珐露珊	fa lu shan	800
+珠钿舫	zhu dian fang	800
+班尼特	ban ni te	800
+理之冠	li zhi guan	800
+琉璃亭	liu li ting	800
+琉璃峰	liu li feng	800
+琉璃袋	liu li dai	800
+琉鳞石	liu lin shi	800
+琥牢山	hu lao shan	800
+琳妮特	lin ni te	800
+琼玑野	qiong ji ye	800
+瑟米安	se mi an	800
+瑟雷恩	se lei en	800
+瑶光滩	yao guang tan	800
+璃月港	li yue gang	800
+璃沙郊	li sha jiao	800
+瓠真人	hu zhen ren	800
+瓦伊纳	wa yi na	800
+瓦伊诺	wa yi nuo	800
+瓦列里	wa lie li	800
+瓦加劳	wa jia lao	800
+瓦努卡	wa nu ka	800
+瓦娜娜	wa na na	800
+瓦希德	wa xi de	800
+瓦格纳	wa ge na	800
+瓦阿吉	wa a ji	800
+瓦雷莎	wa lei sha	800
+甘金岛	gan jin dao	800
+甘露池	gan lu chi	800
+甘露饵	gan lu er	800
+甜甜花	tian tian hua	800
+生之烛	sheng zhi zhu	800
+生之花	sheng zhi hua	800
+田铁嘴	tian tie zui	800
+电影机	dian ying ji	800
+留影机	liu ying ji	800
+白先生	bai xian sheng	800
+白影剑	bai ying jian	800
+白梣木	bai cen mu	800
+白沙皇	bai sha huang	800
+白淞镇	bai song zhen	800
+白灵果	bai ling guo	800
+白缨枪	bai ying qiang	800
+白铁块	bai tie kuai	800
+白露区	bai lu qu	800
+百合华	bai he hua	800
+皮希加	pi xi jia	800
+皮耶罗	pi ye luo	800
+盗宝团	dao bao tuan	800
+盗宝鼬	dao bao you	800
+盛露厅	sheng lu ting	800
+眠龙谷	mian long gu	800
+眼狩令	yan shou ling	800
+知比山	zhi bi shan	800
+矫论团	jiao lun tuan	800
+石墩儿	shi dun er	800
+破破岛	po po dao	800
+碧水原	bi shui yuan	800
+社奉行	she feng xing	800
+祖尔宛	zu er wan	800
+祖潘科	zu pan ke	800
+祝祭厅	zhu ji ting	800
+神之心	shen zhi xin	800
+神之眼	shen zhi yan	800
+神无冢	shen wu zhong	800
+神里家	shen li jia	800
+祭礼剑	ji li jian	800
+祭礼弓	ji li gong	800
+禁闭室	jin bi shi	800
+禅那园	chan na yuan	800
+福利餐	fu li can	800
+离渡谷	li du gu	800
+秃秃豆	tu tu dou	800
+秋分山	qiu fen shan	800
+秋绒鸭	qiu rong ya	800
+种子镜	zhong zi jing	800
+科优尔	ke you er	800
+科奥劳	ke ao lao	800
+科科庞	ke ke pang	800
+科米娜	ke mi na	800
+科约帕	ke yue pa	800
+科罗德	ke luo de	800
+科莫奎	ke mo kui	800
+科菲策	ke fei ce	800
+秘源轴	mi yuan zhou	800
+秘闻馆	mi wen guan	800
+秦克胡	qin ke hu	800
+秦夫人	qin fu ren	800
+秦库马	qin ku ma	800
+稻妻城	dao qi cheng	800
+穆尔科	mu er ke	800
+穆托塔	mu tuo ta	800
+穆托瓦	mu tuo wa	800
+穆温达	mu wen da	800
+穆纳伊	mu na yi	800
+穆纳塔	mu na ta	800
+空之杯	kong zhi bei	800
+空羽蛾	kong yu e	800
+突角龙	tu jiao long	800
+第八席	di ba xi	800
+笹百合	ti bai he	800
+米圆塔	mi yuan ta	800
+米希尔	mi xi er	800
+米提亚	mi ti ya	800
+米沙勒	mi sha lei	800
+米窝窝	mi wo wo	800
+米齐卡	mi qi ka	800
+粒果杯	li guo bei	800
+素鲍鱼	su bao yu	800
+索凯尔	suo kai er	800
+索尔顿	suo er dun	800
+索拉雅	suo la ya	800
+索洛维	suo luo wei	800
+索贝克	suo bei ke	800
+索鸟娜	suo niao na	800
+紫晶块	zi jing kuai	800
+红冠雀	hong guan que	800
+红尾鼬	hong wei you	800
+红莲蛾	hong lian e	800
+约莲妮	yue lian ni	800
+纳博尔	na bo er	800
+纳尼娜	na ni na	800
+纳纳卡	na na ka	800
+纳菲斯	na fei si	800
+纳西妲	na xi da	800
+绀田村	gan tian cun	800
+绀田煮	gan tian zhu	800
+绅士犬	shen shi quan	800
+终末番	zhong mo fan	800
+绒翼龙	rong yi long	800
+绝云间	jue yun jian	800
+继电石	ji dian shi	800
+绮良良	qi liang liang	800
+绯云坡	fei yun po	800
+绯木村	fei mu cun	800
+绯樱饼	fei ying bing	800
+维克多	wei ke duo	800
+维兰德	wei lan de	800
+维吉尔	wei ji er	800
+维奇琳	wei qi lin	800
+维尔芒	wei er mang	800
+维尼皮	wei ni pi	800
+维摩庄	wei mo zhuang	800
+维查玛	wei cha ma	800
+绵驮兽	mian tuo shou	800
+绿松石	lv song shi	800
+缘觉塔	yuan jue ta	800
+缘谷紫	yuan gu zi	800
+缟玛瑙	gao ma nao	800
+罗伯特	luo bo te	800
+罗泽尔	luo ze er	800
+美露莘	mei lu shen	800
+群玉阁	qun yu ge	800
+羽球节	yu qiu jie	800
+翘枝崖	qiao zhi ya	800
+翘英庄	qiao ying zhuang	800
+翠玦坡	cui jue po	800
+老刘伯	lao liu bo	800
+老周叔	lao zhou shu	800
+老太婆	lao tai po	800
+老芬奇	lao fen qi	800
+考威尔	kao wei er	800
+考斯奇	kao si qi	800
+耕地机	geng di ji	800
+聊聊棒	liao liao bang	800
+聚砂厅	ju sha ting	800
+聚聚鼓	ju ju gu	800
+肉龙掌	rou long zhang	800
+肺棘鱼	fei ji yu	800
+胖胖果	pang pang guo	800
+胡伊鲁	hu yi lu	800
+胡塞尼	hu sai ni	800
+胡里约	hu li yue	800
+腌笃鲜	yan du xian	800
+膨膨兽	peng peng shou	800
+至冬宫	zhi dong gong	800
+致水神	zhi shui shen	800
+艾伊丝	ai yi si	800
+艾伯特	ai bo te	800
+艾列尔	ai lie er	800
+艾尔菲	ai er fei	800
+艾尤恩	ai you en	800
+艾库瓦	ai ku wa	800
+艾德加	ai de jia	800
+艾玛托	ai ma tuo	800
+艾玫嘉	ai mei jia	800
+艾莉丝	ai li si	800
+艾莉亚	ai li ya	800
+艾萝蒂	ai luo di	800
+芙宁娜	fu ning na	800
+芙萝拉	fu luo la	800
+芙蕾尔	fu lei er	800
+花散里	hua san li	800
+苍晶区	cang jing qu	800
+苍晶螺	cang jing luo	800
+苍灵鲤	cang ling li	800
+苍绒狼	cang rong lang	800
+苏二娘	su er niang	800
+苏图拉	su tu la	800
+苏法什	su fa shen	800
+苏玛克	su ma ke	800
+苏里奎	su li kui	800
+若娜瓦	ruo na wa	800
+若竹煮	ruo zhu zhu	800
+若雷石	ruo lei shi	800
+苦壑崖	ku he ya	800
+苦炮鲀	ku pao tun	800
+苦离果	ku li guo	800
+苦舍桓	ku she huan	800
+苦苦羊	ku ku yang	800
+苹果酿	ping guo niang	800
+范二爷	fan er ye	800
+范兵卫	fan bing wei	800
+茉洁站	mo jie zhan	800
+茉洁草	mo jie cao	800
+茜斯柯	qian si ke	800
+茜涅特	qian nie te	800
+茸蕈窟	rong xun ku	800
+荆夫港	jing fu gang	800
+草之印	cao zhi yin	800
+草原核	cao yuan he	800
+草晶蝶	cao jing die	800
+草种子	cao zhong zi	800
+荒泷派	huang long pai	800
+荞麦面	qiao mai mian	800
+荧草窟	ying cao ku	800
+药蝶谷	yao die gu	800
+荻花洲	di hua zhou	800
+莉伊妲	li yi da	800
+莉利丝	li li si	800
+莉奈娅	li nai ya	800
+莉娜夏	li na xia	800
+莉安歌	li an ge	800
+莉洁卡	li jie ka	800
+莉莉乌	li li wu	800
+莉莉安	li li an	800
+莉莉希	li li xi	800
+莉诺尔	li nuo er	800
+莎兰树	sha lan shu	800
+莎凡娜	sha fan na	800
+莎莱卡	sha lai ka	800
+莫妮卡	mo ni ka	800
+莫季佳	mo ji jia	800
+莫里斯	mo li si	800
+莫里茨	mo li ci	800
+莱依拉	lai yi la	800
+莱沃蒂	lai wo di	800
+莱纳斯	lai na si	800
+莲花酥	lian hua su	800
+菅名山	jian ming shan	800
+菇兹亚	gu zi ya	800
+菈乌玛	la wu ma	800
+菜菜子	cai cai zi	800
+菲乐丝	fei le si	800
+菲多赫	fei duo he	800
+菲尔曼	fei er man	800
+菲林斯	fei lin si	800
+菲米尼	fei mi ni	800
+萃凝晶	cui ning jing	800
+萃华木	cui hua mu	800
+萍姥姥	ping lao lao	800
+萤术士	ying shu shi	800
+萨义德	sa yi de	800
+萨博兰	sa bo lan	800
+萨梅尔	sa mei er	800
+萨维利	sa wei li	800
+萨维特	sa wei te	800
+萨齐因	sa qi yin	800
+落落莓	luo luo mei	800
+葛瑞丝	ge rui si	800
+葛罗丽	ge luo li	800
+蒂亚戈	di ya ge	800
+蒂莱尔	di lai er	800
+蒂蕾娜	di lei na	800
+蒙吕松	meng lv song	800
+蒙塔纳	meng ta na	800
+蒙德人	meng de ren	800
+蓝川丞	lan chuan cheng	800
+蓝珀湖	lan po hu	800
+蓬蓬果	peng peng guo	800
+蔓激化	man ji hua	800
+蔓生弹	man sheng dan	800
+蕾欧妮	lei ou ni	800
+蕾瓦妮	lei wa ni	800
+薄红蟹	bao hong xie	800
+薇尔妲	wei er da	800
+薇斯纳	wei si na	800
+薇涅尔	wei nie er	800
+藏影灯	cang ying deng	800
+藤兜砦	teng dou zhai	800
+虚海望	xu hai wang	800
+虞黄衣	yu huang yi	800
+虹滴晶	hong di jing	800
+蛋包饭	dan bao fan	800
+蜜琪莉	mi qi li	800
+螭骨剑	chi gu jian	800
+装备牌	zhuang bei pai	800
+西尔弗	xi er fu	800
+西帕克	xi pa ke	800
+西拉杰	xi la jie	800
+西摩尔	xi mo er	800
+西摩格	xi mo ge	800
+西格德	xi ge de	800
+西风剑	xi feng jian	800
+角色牌	jue se pai	800
+解翠行	jie cui xing	800
+誓言岬	shi yan jia	800
+警备队	jing bei dui	800
+证悟木	zheng wu mu	800
+识藏日	shi cang ri	800
+话事处	hua shi chu	800
+诺奇特	nuo qi te	800
+诺艾尔	nuo ai er	800
+谐律院	xie lv yuan	800
+谒颂主	ye song zhu	800
+谕示机	yu shi ji	800
+豪特利	hao te li	800
+贝妮蒂	bei ni di	800
+贝尔福	bei er fu	800
+贝苏琪	bei su qi	800
+贯月矢	guan yue shi	800
+费索勒	fei suo lei	800
+贾尔贾	jia er jia	800
+贾拉康	jia la kang	800
+赛巴斯	sai ba si	800
+赛索斯	sai suo si	800
+赛达菲	sai da fei	800
+赞玛兰	zan ma lan	800
+赞迪克	zan di ke	800
+赤念果	chi nian guo	800
+赤望台	chi wang tai	800
+赤王陵	chi wang ling	800
+赤糜饵	chi mi er	800
+赤魔王	chi mo wang	800
+赫姆斯	he mu si	800
+赫尔妲	he er da	800
+赫尔曼	he er man	800
+赵铁牛	zhao tie niu	800
+超激化	chao ji hua	800
+超绽放	chao zhan fang	800
+越石丸	yue shi wan	800
+越石村	yue shi cun	800
+跋尔松	ba er song	800
+跋松顶	ba song ding	800
+踏鞴砂	ta bei sha	800
+踞石山	ju shi shan	800
+轻策庄	qing ce zhuang	800
+辉山厅	hui shan ting	800
+辛努海	xin nu hai	800
+达妮卡	da ni ka	800
+达尔戈	da er ge	800
+达尼拉	da ni la	800
+达马山	da ma shan	800
+迈勒斯	mai lei si	800
+还魂诗	huan hun shi	800
+连心面	lian xin mian	800
+迦陀迦	jia tuo jia	800
+迪尔菲	di er fei	800
+迪希雅	di xi ya	800
+迷踪币	mi zong bi	800
+逐影庭	zhu ying ting	800
+逐月符	zhu yue fu	800
+逐月节	zhu yue jie	800
+逐浪野	zhu lang ye	800
+逐花棋	zhu hua qi	800
+遁玉陵	dun yu ling	800
+道成林	dao cheng lin	800
+遗珑埠	yi long bu	800
+那夏镇	na xia zhen	800
+酸桔饵	suan ju er	800
+醉汉峡	zui han xia	800
+采樵谷	cai qiao gu	800
+里法特	li fa te	800
+重甲蟹	zhong jia xie	800
+野伏众	ye fu zhong	800
+野林猪	ye lin zhu	800
+金鱼草	jin yu cao	800
+鉴真人	jian zhen ren	800
+钝角犀	dun jiao xi	800
+钢轮弓	gang lun gong	800
+钦特利	qin te li	800
+钩钩果	gou gou guo	800
+钱眼儿	qian yan er	800
+钵参花	bo can hua	800
+铁之助	tie zhi zhu	800
+铁块儿	tie kuai er	800
+铁尖枪	tie jian qiang	800
+铁穆山	tie mu shan	800
+铁蜂刺	tie feng ci	800
+锁国令	suo guo ling	800
+锖假龙	qiang jia long	800
+锦落庭	jin luo ting	800
+长生仙	chang sheng xian	800
+长鬓虎	zhang bin hu	800
+防御力	fang yu li	800
+防沙壁	fang sha bi	800
+阻勒隘	zu lei ai	800
+阿伽娅	a ga ya	800
+阿佩普	a pei pu	800
+阿卡特	a ka te	800
+阿卡马	a ka ma	800
+阿图科	a tu ke	800
+阿多诺	a duo nuo	800
+阿如村	a ru cun	800
+阿娜耶	a na ye	800
+阿尔妲	a er da	800
+阿尔帕	a er pa	800
+阿尔托	a er tuo	800
+阿尔沃	a er wo	800
+阿山婆	a shan po	800
+阿德娜	a de na	800
+阿德菲	a de fei	800
+阿扎尔	a zha er	800
+阿托力	a tuo li	800
+阿托莎	a tuo sha	800
+阿拉夫	a la fu	800
+阿拉米	a la mi	800
+阿斯科	a si ke	800
+阿格莫	a ge mo	800
+阿洛妮	a luo ni	800
+阿特拉	a te la	800
+阿玛鲁	a ma lu	800
+阿瑟尔	a se er	800
+阿瓜拉	a gua la	800
+阿米娜	a mi na	800
+阿维丝	a wei si	800
+阿罗夏	a luo xia	800
+阿舎鲁	a she lu	800
+阿芬迪	a fen di	800
+阿莉妲	a li da	800
+阿莱夫	a lai fu	800
+阿莱娜	a lai na	800
+阿莲佐	a lian zuo	800
+阿蘑娜	a mo na	800
+阿西木	a xi mu	800
+阿让托	a rang tuo	800
+阿贝多	a bei duo	800
+阿邦迪	a bang di	800
+阿里夫	a li fu	800
+阿鲁埃	a lu ai	800
+陀裟多	tuo sha duo	800
+陈娇花	chen jiao hua	800
+降临者	jiang lin zhe	800
+隆崛坡	long jue po	800
+雅努什	ya nu shen	800
+雅珂达	ya ke da	800
+雅蕾希	ya lei xi	800
+集电石	ji dian shi	800
+雪中君	xue zhong jun	800
+雪隐鼬	xue yin you	800
+雷之印	lei zhi yin	800
+雷利尔	lei li er	800
+雷圖礁	lei tu jiao	800
+雷晶蝶	lei jing die	800
+雷格巴	lei ge ba	800
+雷种子	lei zhong zi	800
+雷蒙德	lei meng de	800
+雷诺德	lei nuo de	800
+雷鸣仙	lei ming xian	800
+雾灵渚	wu ling zhu	800
+霓裳花	ni chang hua	800
+霜役人	shuang yi ren	800
+霜盏花	shuang zhan hua	800
+霜鳍鲸	shuang qi jing	800
+露景泉	lu jing quan	800
+青墟浦	qing xu pu	800
+青蜜莓	qing mi mei	800
+青雷鼬	qing lei you	800
+面具鼬	mian ju you	800
+靴子鼬	xue zi you	800
+韦尔纳	wei er na	800
+韦尔赛	wei er sai	800
+韦西鸡	wei xi ji	800
+须弥城	xu mi cheng	800
+须罗蕈	xu luo xun	800
+颗粒果	ke li guo	800
+风之印	feng zhi yin	800
+风之翼	feng zhi yi	800
+风停了	feng ting le	800
+风役人	feng yi ren	800
+风息山	feng xi shan	800
+风息花	feng xi hua	800
+风晶蝶	feng jing die	800
+风滚草	feng gun cao	800
+风种子	feng zhong zi	800
+风纪官	feng ji guan	800
+风花节	feng hua jie	800
+风起地	feng qi di	800
+风车菊	feng che ju	800
+风车镇	feng che zhen	800
+风魔龙	feng mo long	800
+风鹰剑	feng ying jian	800
+食与学	shi yu xue	800
+食莲者	shi lian zhe	800
+香柏木	xiang bai mu	800
+香辛料	xiang xin liao	800
+香辛果	xiang xin guo	800
+香醉坡	xiang zui po	800
+马克利	ma ke li	800
+马兹拉	ma zi la	800
+马力卜	ma li bo	800
+马坎尼	ma kan ni	800
+马塔伽	ma ta ga	800
+马塞拉	ma sai la	800
+马察科	ma cha ke	800
+马涅茨	ma nie ci	800
+马特兰	ma te lan	800
+马科拉	ma ke la	800
+驰轮车	chi lun che	800
+骇浪派	hai lang pai	800
+骗骗花	pian pian hua	800
+高拉默	gao la mo	800
+鬼伯伯	gui bo bo	800
+鬼兜虫	gui dou chong	800
+魔女会	mo nv hui	800
+魔晶块	mo jing kuai	800
+魔鳞病	mo lin bing	800
+鱼之味	yu zhi wei	800
+鲁什涅	lu shen nie	800
+鲁哈维	lu ha wei	800
+鲁斯坦	lu si tan	800
+鲁梅拉	lu mei la	800
+鲁西德	lu xi de	800
+鲸井椛	jing jing hua	800
+鳍游龙	qi you long	800
+鸟蛋烧	niao dan shao	800
+鸡豆花	ji dou hua	800
+鸣神岛	ming shen dao	800
+鸦羽弓	ya yu gong	800
+鸩棘鱼	zhen ji yu	800
+鹰之门	ying zhi men	800
+麦尔斯	mai er si	800
+黄油鸡	huang you ji	800
+黄金屋	huang jin wu	800
+黄金蟹	huang jin xie	800
+黎翡区	li fei qu	800
+黑岩厂	hei yan chang	800
+黑缨枪	hei ying qiang	800
+黑蛇众	hei she zhong	800
+黛丝蕾	dai si lei	800
+龙与山	long yu shan	800
+龙须面	long xu mian	800
+龙骨花	long gu hua	800
+1命	ming	800
+2命	ming	800
+3命	ming	800
+4命	ming	800
+5命	ming	800
+一弦	yi xian	800
+一柱	yi zhu	800
+七七	qi qi	800
+三田	san tian	800
+上杉	shang shan	800
+不移	bu yi	800
+丑角	chou jue	800
+业障	ye zhang	800
+丛沈	cong shen	800
+东升	dong sheng	800
+中西	zhong xi	800
+中野	zhong ye	800
+丰运	feng yun	800
+丹迪	dan di	800
+主母	zhu mu	800
+乌洛	wu luo	800
+乌萨	wu sa	800
+乐斯	le si	800
+乔姨	qiao yi	800
+乔尔	qiao er	800
+乔甘	qiao gan	800
+乾子	qian zi	800
+云堇	yun jin	800
+云淡	yun dan	800
+五郎	wu lang	800
+井上	jing shang	800
+亚因	ya yin	800
+亚琉	ya liu	800
+仆人	pu ren	800
+仙人	xian ren	800
+仙像	xian xiang	800
+仙力	xian li	800
+仙灵	xian ling	800
+代价	dai jia	800
+伊妮	yi ni	800
+伊法	yi fa	800
+伊莲	yi lian	800
+伊葵	yi kui	800
+伊蜜	yi mi	800
+伊达	yi da	800
+伍德	wu de	800
+伐难	fa nan	800
+优律	you lv	800
+优菲	you fei	800
+伞雀	san que	800
+伤害	shang hai	800
+伦图	lun tu	800
+伯阳	bo yang	800
+伽禄	ga lu	800
+佐藤	zuo teng	800
+何爷	he ye	800
+佩伊	pei yi	800
+佩佩	pei pei	800
+供奉	gong feng	800
+侯章	hou zhang	800
+侵蚀	qin shi	800
+信使	xin shi	800
+信盛	xin sheng	800
+元素	yuan su	800
+免疫	mian yi	800
+公子	gong zi	800
+公爵	gong jue	800
+公鸡	gong ji	800
+共鸣	gong ming	800
+兴邦	xing bang	800
+兹白	zi bai	800
+兽怪	shou guai	800
+兽肉	shou rou	800
+冥鱼	ming yu	800
+冰神	bing shen	800
+冰萤	bing ying	800
+冷刃	leng ren	800
+冻结	dong jie	800
+凉子	liang zi	800
+凋零	diao ling	800
+凝光	ning guang	800
+凯塔	kai ta	800
+凯撒	kai sa	800
+利弗	li fu	800
+刻晴	ke qing	800
+努乌	nu wu	800
+努尔	nu er	800
+勒拉	lei la	800
+北斗	bei dou	800
+北港	bei gang	800
+医樱	yi ying	800
+千世	qian shi	800
+千叶	qian ye	800
+千织	qian zhi	800
+卓也	zhuo ye	800
+卓新	zhuo xin	800
+南娜	nan na	800
+南港	nan gang	800
+博士	bo shi	800
+博彦	bo yan	800
+博斯	bo si	800
+博来	bo lai	800
+卡佩	ka pei	800
+卡侬	ka nong	800
+卡内	ka nei	800
+卡嘉	ka jia	800
+卡夏	ka xia	800
+卡维	ka wei	800
+卡隆	ka long	800
+卢克	lu ke	800
+卢卡	lu ka	800
+卢施	lu shi	800
+卢翁	lu weng	800
+厄舍	e she	800
+原石	yuan shi	800
+原神	yuan shen	800
+双叶	shuang ye	800
+古名	gu ming	800
+古田	gu tian	800
+可莉	ke li	800
+叶德	ye de	800
+合成	he cheng	800
+君特	jun te	800
+周本	zhou ben	800
+哈多	ha duo	800
+哈登	ha deng	800
+哈里	ha li	800
+哥们	ge men	800
+哲平	zhe ping	800
+唐娜	tang na	800
+喜儿	xi er	800
+嘉明	jia ming	800
+嘉玛	jia ma	800
+嘉玮	jia wei	800
+回火	hui huo	800
+因嘉	yin jia	800
+团团	tuan tuan	800
+国崩	guo beng	800
+图特	tu te	800
+土门	tu men	800
+圣树	sheng shu	800
+圣物	sheng wu	800
+地狱	di yu	800
+地脉	di mai	800
+埃兰	ai lan	800
+埃德	ai de	800
+埃松	ai song	800
+埃泽	ai ze	800
+堇瓜	jin gua	800
+堇葵	jin kui	800
+墨田	mo tian	800
+复刻	fu ke	800
+夏姆	xia mu	800
+夏温	xia wen	800
+多巴	duo ba	800
+夜兰	ye lan	800
+夜神	ye shen	800
+夜魂	ye hun	800
+大壮	da zhuang	800
+大灵	da ling	800
+天叔	tian shu	800
+天堂	tian tang	800
+天权	tian quan	800
+天枢	tian shu	800
+天赋	tian fu	800
+天野	tian ye	800
+太阳	tai yang	800
+奇普	qi pu	800
+奇梅	qi mei	800
+奇策	qi ce	800
+奇迹	qi ji	800
+契约	qi yue	800
+奔奔	ben ben	800
+奥兹	ao zi	800
+奥妮	ao ni	800
+奥尼	ao ni	800
+奥特	ao te	800
+妖力	yao li	800
+妖狸	yao li	800
+妮露	ni lu	800
+威尔	wei er	800
+娜帕	na pa	800
+娜赞	na zan	800
+婕德	jie de	800
+婷婷	ting ting	800
+学士	xue shi	800
+宁宁	ning ning	800
+宁禄	ning lu	800
+安娜	an na	800
+安杜	an du	800
+安柏	an bai	800
+安田	an tian	800
+安藤	an teng	800
+宏一	hong yi	800
+宏达	hong da	800
+宝儿	bao er	800
+审判	shen pan	800
+客卿	ke qing	800
+宫地	gong di	800
+宵宫	xiao gong	800
+富人	fu ren	800
+寒锋	han feng	800
+寒霜	han shuang	800
+寝子	qin zi	800
+小六	xiao liu	800
+小右	xiao you	800
+小吉	xiao ji	800
+小姐	xiao jie	800
+小威	xiao wei	800
+小春	xiao chun	800
+小月	xiao yue	800
+小林	xiao lin	800
+小焔	xiao yan	800
+小狼	xiao lang	800
+小猛	xiao meng	800
+小畑	xiao tian	800
+小白	xiao bai	800
+小绿	xiao lv	800
+小羽	xiao yu	800
+小茂	xiao mao	800
+小茜	xiao qian	800
+小雨	xiao yu	800
+小麦	xiao mai	800
+少女	shao nv	800
+尖峰	jian feng	800
+尤洛	you luo	800
+尼娅	ni ya	800
+居简	ju jian	800
+山上	shan shang	800
+山下	shan xia	800
+山王	shan wang	800
+山田	shan tian	800
+岚姐	lan jie	800
+岩牢	yan lao	800
+岩神	yan shen	800
+巫婆	wu po	800
+巴兰	ba lan	800
+巴尔	ba er	800
+巴顿	ba dun	800
+布匹	bu pi	800
+希伊	xi yi	800
+帕兰	pa lan	800
+帕帕	pa pa	800
+帕朗	pa lang	800
+帕霍	pa huo	800
+常夜	chang ye	800
+幕府	mu fu	800
+平八	ping ba	800
+平野	ping ye	800
+幸雄	xing xiong	800
+幼狼	you lang	800
+广海	guang hai	800
+庇兰	bi lan	800
+庇笛	bi di	800
+应达	ying da	800
+庞塞	pang sai	800
+康纳	kang na	800
+弓藏	gong cang	800
+弥怒	mi nu	800
+弹弓	dan gong	800
+归终	gui zhong	800
+归途	gui tu	800
+彦博	yan bo	800
+德贵	de gui	800
+德长	de zhang	800
+志华	zhi hua	800
+志璇	zhi xuan	800
+志遥	zhi yao	800
+恒月	heng yue	800
+恕筠	shu yun	800
+恩里	en li	800
+息灾	xi zai	800
+悖理	bei li	800
+惊蛰	jing zhe	800
+感电	gan dian	800
+慈心	ci xin	800
+慧心	hui xin	800
+憧憬	chong jing	800
+成就	cheng jiu	800
+战狂	zhan kuang	800
+戚定	qi ding	800
+戴因	dai yin	800
+户田	hu tian	800
+手岛	shou dao	800
+才藏	cai cang	800
+扎卡	zha ka	800
+扎因	zha yin	800
+托克	tuo ke	800
+托马	tuo ma	800
+扩散	kuo san	800
+报菲	bao fei	800
+报酬	bao chou	800
+拉娜	la na	800
+拉曼	la man	800
+捕盗	bu dao	800
+捷勒	jie lei	800
+探长	tan zhang	800
+接笏	jie hu	800
+提米	ti mi	800
+摆设	bai she	800
+摩可	mo ke	800
+摩拉	mo la	800
+摹本	mo ben	800
+擘那	bai na	800
+教官	jiao guan	800
+散兵	san bing	800
+文仔	wen zai	800
+斗虫	dou chong	800
+斯万	si wan	800
+旗舰	qi jian	800
+无名	wu ming	800
+早柚	zao you	800
+旭东	xu dong	800
+昆恩	kun en	800
+昆钧	kun jun	800
+明妮	ming ni	800
+星火	xing huo	800
+星燕	xing yan	800
+星稀	xing xi	800
+星蕈	xing xun	800
+星螺	xing luo	800
+昭心	zhao xin	800
+普玛	pu ma	800
+晶核	jing he	800
+晶蝶	jing die	800
+智慧	zhi hui	800
+智树	zhi shu	800
+暖意	nuan yi	800
+曼恩	man en	800
+曼萨	man sa	800
+月桂	yue gui	800
+月灵	yue ling	800
+月疏	yue shu	800
+月神	yue shen	800
+月笼	yue long	800
+月莲	yue lian	800
+月菜	yue cai	800
+月髓	yue sui	800
+朝仓	chao cang	800
+木偶	mu ou	800
+朱南	zhu nan	800
+朱莉	zhu li	800
+权能	quan neng	800
+杉木	sha mu	800
+杏仁	xing ren	800
+村上	cun shang	800
+杜兰	du lan	800
+杜塔	du ta	800
+杜林	du lin	800
+杨轸	yang zhen	800
+杰里	jie li	800
+松木	song mu	800
+松本	song ben	800
+松果	song guo	800
+枕玉	zhen yu	800
+林尼	lin ni	800
+林布	lin bu	800
+枣椰	zao ye	800
+枫丹	feng dan	800
+枫木	feng mu	800
+枫达	feng da	800
+柑橘	gan ju	800
+染境	ran jing	800
+柚子	you zi	800
+查丘	cha qiu	800
+柯娅	ke ya	800
+柯莎	ke sha	800
+柯莱	ke lai	800
+柳佳	liu jia	800
+柽木	cheng mu	800
+树妖	shu yao	800
+树莓	shu mei	800
+栖木	qi mu	800
+桂澜	gui lan	800
+桃都	tao dou	800
+桑尼	sang ni	800
+桓那	huan na	800
+桤木	qi mu	800
+桦木	hua mu	800
+梅拉	mei la	800
+梅蒂	mei di	800
+梦魔	meng mo	800
+梨绘	li hui	800
+棋子	qi zi	800
+棕鹿	zong lu	800
+椰羊	ye yang	800
+椴木	duan mu	800
+楚仪	chu yi	800
+横山	heng shan	800
+欧芙	ou fu	800
+歌德	ge de	800
+正义	zheng yi	800
+步云	bu yun	800
+武人	wu ren	800
+武卡	wu ka	800
+武田	wu tian	800
+死域	si yu	800
+毒蝎	du xie	800
+毓华	yu hua	800
+比罗	bi luo	800
+水炮	shui pao	800
+水神	shui shen	800
+水萤	shui ying	800
+永恒	yong heng	800
+汉斯	han si	800
+汐藻	xi zao	800
+江雪	jiang xue	800
+汤雯	tang wen	800
+沐宁	mu ning	800
+沙虫	sha chong	800
+河童	he tong	800
+法器	fa qi	800
+法拉	fa la	800
+波洛	bo luo	800
+波顿	bo dun	800
+洋流	yang liu	800
+洛伽	luo ga	800
+洛恩	luo en	800
+洛朗	luo lang	800
+洛梅	luo mei	800
+洛薇	luo wei	800
+派蒙	pai meng	800
+浪船	lang chuan	800
+浮舍	fu she	800
+浮锦	fu jin	800
+海伦	hai lun	800
+海妖	hai yao	800
+海彦	hai yan	800
+海草	hai cao	800
+海莉	hai li	800
+海鷹	hai ying	800
+海龙	hai long	800
+涅兰	nie lan	800
+淑之	shu zhi	800
+淮安	huai an	800
+清心	qing xin	800
+清昼	qing zhou	800
+渊上	yuan shang	800
+渡边	du bian	800
+温迪	wen di	800
+游医	you yi	800
+湮灭	yan mie	800
+溪泉	xi quan	800
+满命	man ming	800
+满目	man mu	800
+漱玉	shu yu	800
+激化	ji hua	800
+火一	huo yi	800
+火水	huo shui	800
+火神	huo shen	800
+灰河	hui he	800
+灵光	ling guang	800
+灵渊	ling yuan	800
+灵芯	ling xin	800
+灶神	zao shen	800
+灾悔	zai hui	800
+炬木	ju mu	800
+炮鲀	pao tun	800
+烟绯	yan fei	800
+热源	re yuan	800
+燃烧	ran shao	800
+燃素	ran su	800
+爱可	ai ke	800
+爱诺	ai nuo	800
+牛奶	niu nai	800
+物理	wu li	800
+特纳	te na	800
+狂猎	kuang lie	800
+狐妖	hu yao	800
+狩野	shou ye	800
+狼牙	lang ya	800
+猎弓	lie gong	800
+猎手	lie shou	800
+猎获	lie huo	800
+玉衡	yu heng	800
+玉霞	yu xia	800
+玛因	ma yin	800
+玛拉	ma la	800
+玛文	ma wen	800
+玛歌	ma ge	800
+玥辉	yue hui	800
+玫熙	mei xi	800
+玳龟	dai gui	800
+玻娜	bo na	800
+珉林	min lin	800
+珊瑚	shan hu	800
+琅玕	lang gan	800
+琳琅	lin lang	800
+琼斯	qiong si	800
+瑟琪	se qi	800
+瑶瑶	yao yao	800
+瑾武	jin wu	800
+璃彩	li cai	800
+璃月	li yue	800
+璃菜	li cai	800
+瓦谢	wa xie	800
+甄强	zhen qiang	800
+甘乐	gan le	800
+甘雨	gan yu	800
+甜甜	tian tian	800
+申鹤	shen he	800
+白垩	bai e	800
+白夜	bai ye	800
+白术	bai zhu	800
+百代	bai dai	800
+百晓	bai xiao	800
+百识	bai shi	800
+百闻	bai wen	800
+盖伊	gai yi	800
+盖纳	gai na	800
+真田	zhen tian	800
+矮灵	ai ling	800
+石头	shi tou	800
+石榴	shi liu	800
+石珀	shi po	800
+石门	shi men	800
+砂糖	sha tang	800
+碎链	sui lian	800
+磐键	pan jian	800
+磨损	mo sun	800
+祈愿	qi yuan	800
+神樱	shen ying	800
+离岛	li dao	800
+禽肉	qin rou	800
+秀华	xiu hua	800
+秋月	qiu yue	800
+科德	ke de	800
+科潘	ke pan	800
+科赫	ke he	800
+秘境	mi jing	800
+稻妻	dao qi	800
+穆基	mu ji	800
+突破	tu po	800
+立本	li ben	800
+竭泽	jie ze	800
+竹节	zhu jie	800
+竺子	zhu zi	800
+笛剑	di jian	800
+笛特	di te	800
+笹野	ti ye	800
+筑云	zhu yun	800
+篠冢	xiao zhong	800
+米科	mi ke	800
+米莱	mi lai	800
+精英	jing ying	800
+索希	suo xi	800
+索林	suo lin	800
+索西	suo xi	800
+紫微	zi wei	800
+约卡	yue ka	800
+约娜	yue na	800
+约霍	yue huo	800
+约顿	yue dun	800
+纪芳	ji fang	800
+纪行	ji xing	800
+纳塔	na ta	800
+结晶	jie jing	800
+绘星	hui xing	800
+绝弦	jue xian	800
+绮命	qi ming	800
+维娜	wei na	800
+绽放	zhan fang	800
+罗兰	luo lan	800
+罗叔	luo shu	800
+罗洛	luo luo	800
+罪人	zui ren	800
+美梦	mei meng	800
+羽球	yu qiu	800
+翔太	xiang tai	800
+老石	lao shi	800
+老章	lao zhang	800
+耶嘉	ye jia	800
+胡妮	hu ni	800
+胡桃	hu tao	800
+胭儿	yan er	800
+自由	zi you	800
+至冬	zhi dong	800
+舒茨	shu ci	800
+艾伦	ai lun	800
+艾慕	ai mu	800
+艾珂	ai ke	800
+艾琳	ai lin	800
+艾米	ai mi	800
+芙佳	fu jia	800
+芙洛	fu luo	800
+芙蓉	fu rong	800
+芬德	fen de	800
+芬恩	fen en	800
+花初	hua chu	800
+花海	hua hai	800
+花灵	hua ling	800
+花神	hua shen	800
+花语	hua yu	800
+花鳉	hua jiang	800
+芳年	fang nian	800
+芷若	zhi ruo	800
+苍耀	cang yao	800
+苏珊	su shan	800
+苏西	su xi	800
+若心	ruo xin	800
+若水	ruo shui	800
+若紫	ruo zi	800
+苦水	ku shui	800
+苦种	ku zhong	800
+苹果	ping guo	800
+茱萸	zhu yu	800
+荆和	jing he	800
+草神	cao shen	800
+草露	cao lu	800
+荒海	huang hai	800
+荒谷	huang gu	800
+荫山	yin shan	800
+药君	yao jun	800
+荼诃	tu he	800
+莉琉	li liu	800
+莉瓦	li wa	800
+莉莱	li lai	800
+莉莲	li lian	800
+莎拉	sha la	800
+莎莎	sha sha	800
+莫乌	mo wu	800
+莫基	mo ji	800
+莱维	lai wei	800
+莱里	lai li	800
+莺儿	ying er	800
+菫鹮	jin huan	800
+萍溪	ping xi	800
+萨基	sa ji	800
+萨林	sa lin	800
+萨莎	sa sha	800
+落霞	luo xia	800
+葫芦	hu lu	800
+葵可	kui ke	800
+蒂图	di tu	800
+蒙德	meng de	800
+蒸发	zheng fa	800
+蓝砚	lan yan	800
+蓬普	peng pu	800
+蕈兽	xun shou	800
+蕈猪	xun zhu	800
+薄田	bo tian	800
+薄荷	bo he	800
+薇尔	wei er	800
+藤人	teng ren	800
+蘑菇	mo gu	800
+虚影	xu ying	800
+虚空	xu kong	800
+虹月	hong yue	800
+蜂巢	feng chao	800
+螃蟹	pang xie	800
+融化	rong hua	800
+血斛	xue hu	800
+行秋	xing qiu	800
+裁断	cai duan	800
+西口	xi kou	800
+西梅	xi mei	800
+西西	xi xi	800
+言笑	yan xiao	800
+证城	zheng cheng	800
+识主	shi zhu	800
+诈狂	zha kuang	800
+请仙	qing xian	800
+诺伊	nuo yi	800
+诺玛	nuo ma	800
+谜镜	mi jing	800
+谶鸟	chen niao	800
+谷中	gu zhong	800
+豚兽	tun shou	800
+贝努	bei nu	800
+贝特	bei te	800
+贝莲	bei lian	800
+贤者	xian zhe	800
+赌徒	du tu	800
+赛诺	sai nuo	800
+赤月	chi yue	800
+赤王	chi wang	800
+赤蕊	chi rui	800
+赤鹫	chi jiu	800
+赤鹳	chi guan	800
+赦罪	she zui	800
+赫塔	he ta	800
+赫恩	he en	800
+超导	chao dao	800
+超载	chao zai	800
+跋掣	ba che	800
+跋灵	ba ling	800
+路爷	lu ye	800
+路通	lu tong	800
+轮回	lun hui	800
+辉子	hui zi	800
+辉少	hui shao	800
+辉木	hui mu	800
+辛查	xin cha	800
+辛焱	xin yan	800
+过载	guo zai	800
+远黛	yuan dai	800
+迪弗	di fu	800
+道子	dao zi	800
+那菈	na la	800
+邪眼	xie yan	800
+醅蜜	pei mi	800
+采若	cai ruo	800
+重云	zhong yun	800
+重佐	zhong zuo	800
+重击	zhong ji	800
+金井	jin jing	800
+金屋	jin wu	800
+金阁	jin ge	800
+金鹏	jin peng	800
+鉴秋	jian qiu	800
+钟剑	zhong jian	800
+钟离	zhong li	800
+钺矛	yue mao	800
+铁块	tie kuai	800
+铁钱	tie qian	800
+铁须	tie xu	800
+铜雀	tong que	800
+银剑	yin jian	800
+银阁	yin ge	800
+锅巴	guo ba	800
+键纹	jian wen	800
+镇灵	zhen ling	800
+长生	chang sheng	800
+长顺	zhang shun	800
+门罗	men luo	800
+闲云	xian yun	800
+间章	jian zhang	800
+闻冀	wen ji	800
+队长	dui zhang	800
+阿丑	a chou	800
+阿义	a yi	800
+阿佑	a you	800
+阿创	a chuang	800
+阿力	a li	800
+阿咚	a dong	800
+阿嘟	a du	800
+阿圆	a yuan	800
+阿夏	a xia	800
+阿娅	a ya	800
+阿尤	a you	800
+阿帽	a mao	800
+阿幸	a xing	800
+阿托	a tuo	800
+阿提	a ti	800
+阿旭	a xu	800
+阿桂	a gui	800
+阿泰	a tai	800
+阿瑠	a liu	800
+阿甜	a tian	800
+阿直	a zhi	800
+阿笨	a ben	800
+阿茂	a mao	800
+阿蒙	a meng	800
+阿诺	a nuo	800
+阿釜	a fu	800
+阿隆	a long	800
+阿顺	a shun	800
+阿麦	a mai	800
+雅洛	ya luo	800
+雨林	yu lin	800
+雨裁	yu cai	800
+雪狐	xue hu	800
+雪猪	xue zhu	800
+雪琳	xue lin	800
+雪精	xue jing	800
+雳木	li mu	800
+雷极	lei ji	800
+雷泽	lei ze	800
+雷灵	lei ling	800
+雷石	lei shi	800
+雷神	lei shen	800
+雷祸	lei huo	800
+雷科	lei ke	800
+雷萤	lei ying	800
+雷鸟	lei niao	800
+霄灯	xiao deng	800
+霍肯	huo ken	800
+霍香	huo xiang	800
+霖铃	lin ling	800
+霜月	shuang yue	800
+霜精	shuang jing	800
+露米	lu mi	800
+青莲	qing lian	800
+青霆	qing ting	800
+面粉	mian fen	800
+韦吕	wei lv	800
+顺吉	shun ji	800
+须弥	xu mi	800
+风仙	feng xian	800
+风神	feng shen	800
+飞萤	fei ying	800
+飞蛇	fei she	800
+飞鼯	fei wu	800
+饭团	fan tuan	800
+香菱	xiang ling	800
+马尾	ma yi	800
+马索	ma suo	800
+马范	ma fan	800
+驮兽	tuo shou	800
+骸馆	hai guan	800
+高美	gao mei	800
+魔山	mo shan	800
+魔水	mo shui	800
+魔神	mo shen	800
+魔花	mo hua	800
+鱼肉	yu rou	800
+鱼饵	yu er	800
+鸣草	ming cao	800
+鹤观	he guan	800
+麒麟	qi lin	800
+麦克	mai ke	800
+黄衫	huang shan	800
+黑剑	hei jian	800
+黑日	hei ri	800
+黑灾	hei zai	800
+黑王	hei wang	800
+黑田	hei tian	800
+黑蚀	hei shi	800
+黑蛋	hei dan	800
+龙二	long er	800
+龙王	long wang	800
+龚妙	gong miao	800
+安	an	800
+弓	gong	800
+影	ying	800
+戟	ji	800
+抽	chou	800
+曜	yao	800
+枫	feng	800
+梢	shao	800
+毅	yi	800
+满	man	800
+牙	ya	800
+琳	lin	800
+真	zhen	800
+空	kong	800
+荧	ying	800
+葵	kui	800
+锋	feng	800
+陆	lu	800
+魈	xiao	800
